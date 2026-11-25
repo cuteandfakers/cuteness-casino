@@ -3,7 +3,7 @@ from pathlib import Path
 import json,time,threading,secrets,os,socket,urllib.parse,math,struct,zlib,sys,subprocess,re
 import qrcode
 os.chdir(Path(__file__).resolve().parent)
-D={d['id']:d for d in json.load(open('game-data.json'))}; L=json.load(open('speech.json')); lock=threading.RLock(); admin=os.environ.get("ADMIN_TOKEN") or secrets.token_urlsafe(18); players={}; phase='intro'; cue='intro'; endAt=0; line=0; session=secrets.token_hex(6); video=''; join_override=''; outro='assets/angela-outro.mp4'; audio=dict(volume=40,muted=False,paused=False,restart=0)
+D={d['id']:d for d in json.load(open('game-data.json'))}; L=json.load(open('speech.json')); lock=threading.RLock(); admin=os.environ.get("ADMIN_TOKEN") or secrets.token_urlsafe(18); players={}; phase='lobby'; cue='lobby'; endAt=0; line=0; session=secrets.token_hex(6); video='assets/angela.mp4'; backup_qr=False; join_override=''; outro='assets/angela-outro.mp4'; audio=dict(volume=40,muted=False,paused=False,restart=0)
 PORT=int(os.environ.get('PORT') or os.environ.get('CC_PORT') or (sys.argv[1] if len(sys.argv)>1 else 8000))
 PUBLIC_URL=(os.environ.get('RENDER_EXTERNAL_URL') or os.environ.get('PUBLIC_URL') or '').rstrip('/')
 if os.environ.get('RENDER') and not os.environ.get('ADMIN_TOKEN'):raise RuntimeError('Set ADMIN_TOKEN in Render Environment Variables')
@@ -33,7 +33,7 @@ def state():
  for p in r:
   for h in p['history']:
    if h['id'] not in top or h['money']>top[h['id']]['money']:top[h['id']]={**h,'playerId':p['playerId']}
- return dict(version='9',playerUrl=player_url(),phase=phase,cue=cue,endAt=endAt,now=now(),line=line,session=session,video=video,outro=outro,audio=audio.copy(),rows=[{k:v for k,v in p.items() if k not in ('requests','ledger')} for p in r],trending=sorted(top.values(),key=lambda h:-h['money']))
+ return dict(version='10',playerUrl=player_url(),phase=phase,cue=cue,backupQR=backup_qr,endAt=endAt,now=now(),line=line,session=session,video=video,outro=outro,audio=audio.copy(),rows=[{k:v for k,v in p.items() if k not in ('requests','ledger')} for p in r],trending=sorted(top.values(),key=lambda h:-h['money']))
 def public(p):return {k:v for k,v in p.items() if k!='requests'}
 def elapsed():
  t=max(0,min(420,420-math.ceil((endAt-now())/1000)));return f'{t//60}:{t%60:02}'
@@ -66,7 +66,7 @@ class Handler(SimpleHTTPRequestHandler):
    outputfile.write(block);left-=len(block)
 
  def end_headers(self):
-  if self.path.startswith('/api/') or urllib.parse.urlsplit(self.path).path in ('/','/index.html','/director.html','/screen.html','/speech.json'):
+  if self.path.startswith('/api/') or urllib.parse.urlsplit(self.path).path in ('/','/index.html','/director.html','/screen.html','/speech.json','/lobby.html'):
    self.send_header('Cache-Control','no-store, no-cache, must-revalidate, max-age=0')
    self.send_header('Pragma','no-cache')
   super().end_headers()
@@ -77,7 +77,7 @@ class Handler(SimpleHTTPRequestHandler):
   if u.path=='/healthz':
    self.reply({'ok':True})
   elif u.path=='/api/info':
-   self.reply({'playerUrl':player_url(),'version':'9'})
+   self.reply({'playerUrl':player_url(),'version':'10'})
   elif u.path=='/api/state':
    with lock:
     s=state();k=urllib.parse.parse_qs(u.query).get('key',[''])[0];payload=dict(state=s,player=public(players[k]) if k in players else None)
@@ -93,7 +93,7 @@ class Handler(SimpleHTTPRequestHandler):
    except Exception as e:self.reply({'error':str(e)},400)
   else:super().do_GET()
  def do_POST(self):
-  global phase,cue,endAt,line,session,video,join_override,outro,audio
+  global phase,cue,endAt,line,session,video,join_override,outro,audio,backup_qr
   try:
    a=self.path.split('?')[0].split('/')[-1]; b=json.loads(self.rfile.read(int(self.headers.get('Content-Length',0))));
    with lock:
@@ -106,7 +106,8 @@ class Handler(SimpleHTTPRequestHandler):
     if a=='control':
      if b.get('admin')!=admin: self.reply({'error':'Invalid director key'},403);return
      cmd=b.get('cmd');
-     if cmd=='reset':players.clear();phase='intro';cue='intro';endAt=0;line=0;session=secrets.token_hex(6)
+     if cmd=='reset':players.clear();phase='lobby';cue='lobby';endAt=0;line=0;backup_qr=False;session=secrets.token_hex(6);audio.update(paused=False,muted=False,restart=audio['restart']+1)
+     elif cmd=='backup_qr':backup_qr=bool(b.get('show'))
      elif cmd=='outro':outro=str(b.get('video',''))
      elif cmd=='audio':
       if 'volume' in b:audio['volume']=max(0,min(100,int(b['volume'])))
@@ -126,7 +127,7 @@ class Handler(SimpleHTTPRequestHandler):
       finish()
      elif cmd=='cue':
       c=b.get('cue');
-      if c in ('intro','qr','lobby'):
+      if c in ('intro','lobby'):
        cue=c
        if phase in ('intro','lobby'):phase='lobby' if c!='intro' else 'intro'
       elif c in ('winner','speech','outro','archive','end') and phase=='finished':
@@ -156,7 +157,7 @@ if __name__=='__main__':
  try:httpd=ThreadingHTTPServer(('0.0.0.0',PORT),Handler)
  except OSError as e:
   print(f'Cannot bind port {PORT}: {e}. Stop the previous server (Ctrl+C) or run python3 server.py 8001.',flush=True);sys.exit(1)
- if PUBLIC_URL:print(f'CUTENESS CASINO V9 — READY\nPlayer URL: {player_url()}\nDirector: {PUBLIC_URL}/director.html?admin=<ADMIN_TOKEN>\nProjection: {PUBLIC_URL}/screen.html?v=9',flush=True)
- else:print(f'CUTENESS CASINO V9 — READY\nPlayer URL: {player_url()}\nDirector: http://localhost:{PORT}/director.html?admin={admin}&v=9\nProjection: http://localhost:{PORT}/screen.html?v=9',flush=True)
+ if PUBLIC_URL:print(f'CUTENESS CASINO V10 — READY\nPlayer URL: {player_url()}\nDirector: {PUBLIC_URL}/director.html?admin=<ADMIN_TOKEN>\nProjection: {PUBLIC_URL}/screen.html?v=10',flush=True)
+ else:print(f'CUTENESS CASINO V10 — READY\nPlayer URL: {player_url()}\nDirector: http://localhost:{PORT}/director.html?admin={admin}&v=10\nProjection: http://localhost:{PORT}/screen.html?v=10',flush=True)
  if LAN_IP=='127.0.0.1':print('WARNING: no LAN address found. Connect Wi-Fi and restart, or set Player URL in Director.',flush=True)
  httpd.serve_forever()

@@ -1,19 +1,28 @@
-CUTENESS CASINO — FINAL LIVE V7
+CUTENESS CASINO — V10 RENDER
 
-1. Stop old server with Control+C. Extract entire ZIP to a new folder.
-2. In Terminal, cd to that folder and run: python3 server.py
-   No pip installation needed. If port 8000 is occupied, stop old server or use: python3 server.py 8001
-3. Wait for V7 — READY. Open the newly printed Director URL (private). Click Open projection and drag that window to the external screen. Press F on projection to go fullscreen.
-4. Connect all phones and Mac to the same Wi-Fi that allows device-to-device connections. For a rehearsal, a dedicated router or another phone's hotspot may work; some hotspots also isolate devices.
-5. Click 2 · QR. Scan with phone or type the exact Player URL in Safari/Chrome, including http:// and port. QR is generated locally from the current server address. If address is wrong, run ipconfig getifaddr en0 on Mac, enter http://<actual IP>:<port>/ in Player access URL, and click Save player URL. Check that macOS firewall allows Python incoming connections (do not disable firewall globally). If local Wi-Fi isolates clients, change network; no HTML fix can bypass that.
-6. Join at least five phones. Director Live participants should show 001–005. Click 3 · Casino / lobby then 4 · START 7 MIN. Produce on each phone. Check real rankings. Game ends automatically or use End early for rehearsal.
-7. Winner, Speech, then right/left arrow for manual subtitles (no synthetic voice). Archive is the final cue. B blacks out projection without stopping the clock.
-8. Reset session for next rehearsal. Do not close Terminal during show. Player data is held in memory. Do not share Director URL.
+LOCAL REHEARSAL
+1. Extract the entire ZIP. Stop the old server (Ctrl+C).
+2. In the extracted folder, run python3 server.py (or START_MAC.command).
+3. Open the printed private Director URL and use Open projection. Press F for fullscreen. Click the projection once to enable audio; browser autoplay policies may still require a manual play click.
+4. New sessions start at Lobby. On phones: choose language, receive player number, explore the panoramic lobby. Use the Director's Video button for Angela's opening and Casino / lobby to return. START starts the 7-minute game.
+5. Backup QR can be shown/closed at any point without changing the current cue or timer. Director's QR preview is also available. Share the player URL, never the Director URL.
+6. End -> Winner -> Speech -> Angela outro -> Reveal archive. Arrow keys navigate speech/scene cues; B blacks out projection. Reset session clears the players and returns to Lobby.
 
-Angela video: put your file in assets/angela.mp4 and enter assets/angela.mp4 in Director; Save video. Original video was not included.
+RENDER UPDATE (EXISTING SERVICE)
+Copy all extracted files into the existing Git repository root, preserving its .git folder. Include new assets and lobby.html. Commit and push to the branch Render deploys. Existing environment variables must be retained, particularly ADMIN_TOKEN. Build command: pip install -r requirements.txt. Start command: python3 server.py. Render provides PORT and RENDER_EXTERNAL_URL. Health check: /healthz. After deployment, confirm /api/info reports version 10. Restart/deploy resets all game state; never deploy during a performance.
+Player: https://<your-render-host>/
+Projection: https://<your-render-host>/screen.html?v=10
+Director: https://<your-render-host>/director.html?admin=<existing ADMIN_TOKEN>&v=10
 
-Tested: five concurrent independent HTTP players joining/producing, sequential IDs, shared ranking, duplicate prevention, recharge, reconnect, QR decoding, MP4 byte-range requests, final freeze and speech cues. Actual mobile/browser/Wi-Fi rehearsal remains necessary. All revenue is simulated. No external AI generation service.
+V10 CHANGES
+- Reference panoramic lobby with fixed dialogue anchors; original language and player-number gates retained.
+- Projection-only looped soundtrack (the supplied MP3 matches the V9 file exactly).
+- Angela intro/outro converted from provided MOV to browser-compatible H.264/AAC MP4.
+- Four supplied archive videos play silently and loop on the projection finale.
+- QR backup overlay independent of cue, player state and timer.
+- scrollear correction in screen, phone and printable speech; archive description removed from phone.
+- Four animal portraits replaced; original Hybrid and Angela coach preserved. Other is a disabled placeholder until a new asset and recipe data are provided; excluded from reels.
+- New sessions start at lobby; existing player credentials can reconnect in the same browser tab. Running game reconnection returns to welcome or recipe creation, not necessarily the exact last transient page.
 
-Speech update: 29 Spanish projection cues. Winner phone displays full Spanish script and private acting directions; other players see spoken text only. No speech audio.
-
-V9: soundtrack loops during game; director controls volume, mute, pause, restart. Click projection before show to enable audio. Put final video in assets/angela-outro.mp4 or set its URL in director. After final speech Next plays outro; Next reveals archive on all joined phones. External archive requires internet.
+VALIDATION
+Python syntax and JS syntax checked. Local HTTP tests: initial lobby, five player joins/production, rankings, QR overlay and timer preservation, end/winner/speech/outro/archive/reset, and all new assets accessible. Browser automation blocked by environment policy; actual Safari/Chrome audio, video and swipe behavior and 50–100 device capacity need a live rehearsal. Data remains in memory, and revenue is simulated. No external AI generation service.
