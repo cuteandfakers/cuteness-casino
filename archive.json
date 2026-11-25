@@ -1,0 +1,4095 @@
+{
+  "project": "Cute & Fake",
+  "record_count": 19,
+  "records": [
+    {
+      "archive_id": "CF-001",
+      "verification_status": "unverified",
+      "source": {
+        "platform": "TikTok",
+        "creator": "@hifzurrahman77",
+        "creator_verified": false,
+        "url": null,
+        "local_file": "CF-001.mp4",
+        "file_match_verified": false
+      },
+      "video": {
+        "title": "Monkey Construction Worker",
+        "title_zh": "工地摸鱼猴",
+        "animal": "Monkey",
+        "role": "Construction worker",
+        "script_zh": "让猴子在工地上假装忙碌，因为被老板看见休息比没有完成工作更严重。",
+        "script_en": "Make a monkey pretend to be busy at work, because being caught resting is worse than not getting the job done.",
+        "script_status": "user_approved_satirical_system_script",
+        "duration_seconds": null,
+        "narrative_sequence": null
+      },
+      "classification": {
+        "animal_representation": "Anthropomorphic worker",
+        "human_script": "Workplace slacking / pretending to work / avoiding supervision",
+        "content_type": "Workplace comedy",
+        "affective_response": [
+          "Humour",
+          "Recognition",
+          "Solidarity"
+        ],
+        "type_of_truth": [
+          "Experiential truth",
+          "Social truth"
+        ],
+        "key_mechanism": "Animal body → Recognition of human working life",
+        "affective_triggers": [
+          "Recognition"
+        ],
+        "affective_trigger_zh": "共鸣"
+      },
+      "metrics": {
+        "real": {
+          "views": null,
+          "likes": null,
+          "comments": null,
+          "saves": null,
+          "shares": null
+        },
+        "simulated": {
+          "views": 4135000,
+          "likes": 405663,
+          "comments": 5088,
+          "reposts": 16278,
+          "sends": 102954,
+          "saves": 52941
+        },
+        "simulated_purpose": "Slot Slop Casino",
+        "display": {
+          "views": 4135000,
+          "likes": 405663,
+          "reposts": 16278,
+          "shares": 102954,
+          "saves": 52941,
+          "comments": 5088
+        },
+        "display_sources": {
+          "views": "existing_simulated",
+          "likes": "existing_simulated",
+          "reposts": "existing_simulated",
+          "shares": "existing_simulated",
+          "saves": "generated_simulated",
+          "comments": "existing_simulated"
+        },
+        "display_purpose": "Performance only; simulated values are fictional, not verified platform metrics."
+      },
+      "comments": [
+        {
+          "id": "CF-001-C001",
+          "author": null,
+          "text": "Gulf country working people understand.",
+          "original_language": "English",
+          "text_status": "archived_translation_or_paraphrase"
+        },
+        {
+          "id": "CF-001-C002",
+          "author": null,
+          "text": "You work according to what you’re paid.",
+          "original_language": "Russian",
+          "text_status": "archived_translation_or_paraphrase"
+        },
+        {
+          "id": "CF-001-C003",
+          "author": null,
+          "text": "This stuff happens in real life with those construction workers.",
+          "original_language": "English",
+          "text_status": "archived_translation_or_paraphrase"
+        },
+        {
+          "id": "CF-001-C004",
+          "author": null,
+          "text": "Only legends could understand this trick.",
+          "original_language": "English",
+          "text_status": "archived_translation_or_paraphrase"
+        },
+        {
+          "id": "CF-001-C005",
+          "author": null,
+          "text": "That’s right, this is how you should work.",
+          "original_language": "Russian",
+          "text_status": "archived_translation_or_paraphrase"
+        },
+        {
+          "id": "CF-001-C006",
+          "author": null,
+          "text": "That’s my trick for fooling the foreman.",
+          "original_language": "Indonesian",
+          "text_status": "archived_translation_or_paraphrase"
+        },
+        {
+          "id": "CF-001-C007",
+          "author": null,
+          "text": "The main thing is to look like you’re working.",
+          "original_language": "Russian",
+          "text_status": "archived_translation_or_paraphrase"
+        }
+      ],
+      "comment_collection": {
+        "saved_count": 7,
+        "original_texts_available": false,
+        "authors_available": false,
+        "timestamps_available": false,
+        "likes_available": false,
+        "collection_complete": false
+      },
+      "research_analysis": {
+        "observation": "Viewers relate the monkey's workplace behaviour to their own experiences of labour, wages and supervision.",
+        "interpretation": "The synthetic animal acts as a social proxy through which viewers recognize human working conditions.",
+        "research_question": "How do synthetic animal bodies become affective interfaces for expressing everyday labour experiences?",
+        "analysis_status": "preliminary"
+      },
+      "audit": {
+        "missing_fields": [
+          "Original TikTok URL",
+          "Verified creator",
+          "Verified video sequence",
+          "Real engagement metrics",
+          "Original-language comments",
+          "Comment authors",
+          "Comment timestamps",
+          "Comment likes"
+        ],
+        "identity_conflict": false,
+        "identity_confirmed": false,
+        "notes": "Do not replace archived comments or simulated metrics with empty fields during future imports."
+      }
+    },
+    {
+      "archive_id": "CF-002",
+      "verification_status": "partially_verified",
+      "source": {
+        "platform": "TikTok",
+        "creator": "@fluffy.and.coco1",
+        "creator_verified": false,
+        "url": "https://www.tiktok.com/@fluffy.and.coco1/video/7647728063672896790",
+        "local_file": "CF-002.mp4",
+        "file_match_verified": false
+      },
+      "video": {
+        "title": "The Mischievous Chihuahua",
+        "animal": [
+          "Chihuahua",
+          "Pit Bull"
+        ],
+        "role": "Mischievous pet / Scapegoat",
+        "script": "Make Grandma slap the wrong dog; as long as the other dog is cute enough, domestic violence can be a comedy.",
+        "script_status": "user_approved_satirical_system_script",
+        "duration_seconds": 15,
+        "narrative_sequence": [
+          "A Chihuahua secretly plays with a phone.",
+          "An elderly woman discovers what is happening.",
+          "The innocent Pit Bull is blamed instead.",
+          "The Chihuahua escapes responsibility."
+        ],
+        "script_en": "Make Grandma slap the wrong dog; as long as the other dog is cute enough, domestic violence can be a comedy.",
+        "script_zh": "让奶奶打错一只狗，只要另一只狗足够可爱，家庭暴力也可以是一场喜剧。"
+      },
+      "classification": {
+        "animal_representation": "Anthropomorphic pets",
+        "human_script": "Blaming others / Escaping punishment / Family dynamics",
+        "content_type": "Domestic comedy",
+        "affective_response": [
+          "Humour",
+          "Recognition",
+          "Sympathy",
+          "Discomfort"
+        ],
+        "type_of_truth": [
+          "Experiential truth",
+          "Social truth"
+        ],
+        "key_mechanism": "Animal body → Familiar family conflict → Humour and emotional identification",
+        "affective_triggers": [
+          "Schadenfreude"
+        ],
+        "affective_trigger_zh": "幸灾乐祸"
+      },
+      "metrics": {
+        "real": {
+          "views": null,
+          "likes": 1100000,
+          "comments": 13700,
+          "saves": 98700,
+          "shares": 317100
+        },
+        "real_metrics_status": "user_provided_screenshot_approximate",
+        "simulated": {
+          "views": 1494000,
+          "reposts": 10231
+        },
+        "simulated_purpose": "Slot Slop Casino",
+        "display": {
+          "views": 1494000,
+          "likes": 1100000,
+          "reposts": 10231,
+          "shares": 317100,
+          "saves": 98700,
+          "comments": 13700
+        },
+        "display_sources": {
+          "views": "existing_simulated",
+          "likes": "archived_real",
+          "reposts": "generated_simulated",
+          "shares": "archived_real",
+          "saves": "archived_real",
+          "comments": "archived_real"
+        },
+        "display_purpose": "Performance only; simulated values are fictional, not verified platform metrics."
+      },
+      "comments": [
+        {
+          "id": "CF-002-C001",
+          "author": "axollotle",
+          "text": "its ai...but it's actually funny",
+          "original_language": "English",
+          "text_status": "original"
+        },
+        {
+          "id": "CF-002-C002",
+          "author": "Mary Williams",
+          "text": "These dogs are just like my grandchildren 😂😂",
+          "original_language": "English",
+          "text_status": "original"
+        },
+        {
+          "id": "CF-002-C003",
+          "author": "🔱💞MONALISA💞🔱",
+          "text": "I normally like these kind of videos but not this one by slapping the dog 😔",
+          "original_language": "English",
+          "text_status": "original"
+        },
+        {
+          "id": "CF-002-C004",
+          "author": "marinn_m0",
+          "text": "real or ai?",
+          "original_language": "English",
+          "text_status": "original"
+        },
+        {
+          "id": "CF-002-C005",
+          "author": "Adorable Pets",
+          "text": "This is so unfair for the big dog 😂",
+          "original_language": "English",
+          "text_status": "original"
+        },
+        {
+          "id": "CF-002-C006",
+          "author": "Taqi Bloch",
+          "text": "Suddenly I remember my kids😳",
+          "original_language": "English",
+          "text_status": "original"
+        },
+        {
+          "id": "CF-002-C007",
+          "author": "Tabby Kandithi",
+          "text": "Fake friends everywhere 🤣",
+          "original_language": "English",
+          "text_status": "original"
+        }
+      ],
+      "comment_collection": {
+        "saved_count": 7,
+        "original_texts_available": true,
+        "authors_available": true,
+        "timestamps_available": false,
+        "likes_available": false,
+        "collection_complete": false
+      },
+      "research_analysis": {
+        "observation": "Viewers recognize familiar human family dynamics in the animals' behaviour. Some express sympathy for the Pit Bull, while others question whether the video is AI-generated.",
+        "interpretation": "The synthetic animal bodies transform an everyday scenario of blame and unfair punishment into a humorous and emotionally engaging narrative. The cuteness of the Chihuahua can make its morally questionable behaviour entertaining.",
+        "critical_insight": "The video illustrates how cuteness can coexist with cruelty or injustice. Audience reactions reveal a tension between enjoyment and discomfort.",
+        "research_question": "How does cuteness influence the way audiences interpret unfairness, punishment and responsibility in AI-generated animal narratives?",
+        "analysis_status": "preliminary"
+      },
+      "audit": {
+        "missing_fields": [
+          "Verified video sequence",
+          "Real view count",
+          "Exact engagement metrics",
+          "Comment timestamps",
+          "Comment likes",
+          "Full comment archive"
+        ],
+        "identity_conflict": false,
+        "identity_confirmed": false,
+        "notes": "Seven comments restored from earlier records. Real engagement metrics are approximate screenshot values. Simulated views must remain separate from real metrics."
+      }
+    },
+    {
+      "archive_id": "CF-003",
+      "verification_status": "unverified",
+      "source": {
+        "platform": "TikTok",
+        "creator": "@longliveai",
+        "creator_verified": false,
+        "url": "https://www.tiktok.com/@longliveai/video/7572588903748734230",
+        "local_file": "CF-003.mp4",
+        "file_match_verified": false
+      },
+      "video": {
+        "title": "The Interrupted Musician Cat",
+        "animal": [
+          "Cat"
+        ],
+        "role": "Musician / Performer",
+        "script": "Make a cat play musical instruments at midnight, and whenever it disturbs human sleep, turn its punishment into another punchline.",
+        "script_status": "user_approved_satirical_system_script",
+        "duration_seconds": null,
+        "narrative_sequence": [
+          "A cat attempts to perform music.",
+          "The performance is interrupted.",
+          "The interruptions become a recurring comic element."
+        ],
+        "script_en": "Make a cat play musical instruments at midnight, and whenever it disturbs human sleep, turn its punishment into another punchline.",
+        "script_zh": "让猫在半夜演奏乐器，每当它打扰人类睡觉，就用惩罚制造一个新的笑点。"
+      },
+      "classification": {
+        "animal_representation": "Anthropomorphic musician",
+        "human_script": "Performing music / Repeated interruptions / Frustrated performance",
+        "content_type": "Musical comedy",
+        "affective_response": [
+          "Humour",
+          "Amusement",
+          "Surprise"
+        ],
+        "type_of_truth": [
+          "Fictional performance",
+          "Emotional recognition"
+        ],
+        "key_mechanism": "Animal body → Human performance conventions → Comic disruption",
+        "affective_triggers": [
+          "Humour"
+        ],
+        "affective_trigger_zh": "幽默"
+      },
+      "metrics": {
+        "real": {
+          "views": null,
+          "likes": null,
+          "comments": null,
+          "saves": null,
+          "shares": null
+        },
+        "real_metrics_status": "not_available",
+        "simulated": {
+          "views": 2811000,
+          "likes": 228050,
+          "reposts": 4471,
+          "shares": 55848,
+          "saves": 31164,
+          "comments": 4575
+        },
+        "simulated_purpose": "Slot Slop Casino",
+        "display": {
+          "views": 2811000,
+          "likes": 228050,
+          "reposts": 4471,
+          "shares": 55848,
+          "saves": 31164,
+          "comments": 4575
+        },
+        "display_sources": {
+          "views": "existing_simulated",
+          "likes": "generated_simulated",
+          "reposts": "generated_simulated",
+          "shares": "generated_simulated",
+          "saves": "generated_simulated",
+          "comments": "generated_simulated"
+        },
+        "display_purpose": "Performance only; simulated values are fictional, not verified platform metrics."
+      },
+      "comments": [
+        {
+          "id": "CF-003-C001",
+          "author": "Susan",
+          "text": null,
+          "original_language": null,
+          "text_status": "missing"
+        },
+        {
+          "id": "CF-003-C002",
+          "author": "Diane",
+          "text": null,
+          "original_language": null,
+          "text_status": "missing"
+        },
+        {
+          "id": "CF-003-C003",
+          "author": "FunVibesTV",
+          "text": null,
+          "original_language": null,
+          "text_status": "missing"
+        },
+        {
+          "id": "CF-003-C004",
+          "author": "Udieegz",
+          "text": null,
+          "original_language": null,
+          "text_status": "missing"
+        },
+        {
+          "id": "CF-003-C005",
+          "author": "NissanGTR",
+          "text": null,
+          "original_language": null,
+          "text_status": "missing"
+        },
+        {
+          "id": "CF-003-C006",
+          "author": "adelinqqqq",
+          "text": null,
+          "original_language": null,
+          "text_status": "missing"
+        }
+      ],
+      "comment_collection": {
+        "saved_count": 6,
+        "original_texts_available": false,
+        "authors_available": true,
+        "timestamps_available": false,
+        "likes_available": false,
+        "collection_complete": false
+      },
+      "research_analysis": {
+        "observation": "The archived video description presents a cat performing music while experiencing repeated interruptions. The original comment texts are not currently available for verification.",
+        "interpretation": "The humour may emerge from the contrast between an animal body and familiar human expectations of musical performance, especially when those expectations are repeatedly disrupted.",
+        "critical_insight": "The animal is represented as a performing subject whose actions follow a human-designed comic script. This raises questions about the relationship between synthetic animal bodies, performance and entertainment.",
+        "research_question": "How do AI-generated animal performances use human expectations of skill, failure and interruption to produce humour?",
+        "analysis_status": "preliminary"
+      },
+      "audit": {
+        "missing_fields": [
+          "Verified creator",
+          "Verified video sequence",
+          "Video duration",
+          "Real engagement metrics",
+          "Original comment texts",
+          "Comment timestamps",
+          "Comment likes",
+          "Full comment archive"
+        ],
+        "identity_conflict": false,
+        "identity_confirmed": false,
+        "notes": "Six comment author names were retained in the earlier archive, but their original comment texts are not available in the currently recovered record. Do not invent or reconstruct missing comments. Simulated views are not real platform metrics."
+      }
+    },
+    {
+      "archive_id": "CF-004",
+      "verification_status": "partially_verified",
+      "source": {
+        "platform": "TikTok",
+        "creator": "@vizzion.ai",
+        "creator_verified": true,
+        "url": "https://www.tiktok.com/@vizzion.ai/video/7679492543322557728",
+        "local_file": "CF-004.mp4",
+        "file_match_verified": false,
+        "ai_disclosure": "Creator labeled the video as AI-generated"
+      },
+      "video": {
+        "title": "Dancing Cats in a Bathtub",
+        "animal": [
+          "Gray tabby cat",
+          "Orange cat"
+        ],
+        "role": "Dancers / Entertainers",
+        "caption": "跳舞的猫 😹 #funnycat #aicat #cutecat #ai #cattok",
+        "script": "Put shower caps on two cats that would normally dislike water, and make them dance happily in a bathtub.",
+        "script_status": "user_approved_satirical_system_script",
+        "duration_seconds": null,
+        "narrative_sequence": [
+          "Two cats appear together in a bathtub.",
+          "Both cats wear white shower caps.",
+          "The cats stand upright and perform human-like dance movements."
+        ],
+        "audio": "original sound",
+        "script_en": "Put shower caps on two cats that would normally dislike water, and make them dance happily in a bathtub.",
+        "script_zh": "让两只原本不喜欢水的猫戴上浴帽，在浴缸里快乐地跳舞。"
+      },
+      "classification": {
+        "animal_representation": "Anthropomorphic performing animals",
+        "human_script": "Synchronized dancing / Playful performance",
+        "content_type": "Cute animal performance / Dance comedy",
+        "affective_response": [
+          "Amusement",
+          "Delight",
+          "Surprise",
+          "Discomfort",
+          "Recognition of artificiality"
+        ],
+        "type_of_truth": [
+          "Synthetic performance",
+          "Affective authenticity"
+        ],
+        "key_mechanism": "Synthetic animal bodies → Unexpected human-like movements → Humour and attention",
+        "affective_triggers": [
+          "Absurdity"
+        ],
+        "affective_trigger_zh": "荒诞"
+      },
+      "metrics": {
+        "real": {
+          "views": null,
+          "likes": 429400,
+          "comments": 6292,
+          "saves": 60100,
+          "shares": null
+        },
+        "real_metrics_status": "user_provided_screenshot_approximate",
+        "metrics_collected_at": "2026-11-23",
+        "simulated": {
+          "views": 3865098,
+          "reposts": 4145,
+          "shares": 26495
+        },
+        "simulated_purpose": "Slot Slop Casino",
+        "display": {
+          "views": 3865098,
+          "likes": 429400,
+          "reposts": 4145,
+          "shares": 26495,
+          "saves": 60100,
+          "comments": 6292
+        },
+        "display_sources": {
+          "views": "generated_simulated",
+          "likes": "archived_real",
+          "reposts": "generated_simulated",
+          "shares": "generated_simulated",
+          "saves": "archived_real",
+          "comments": "archived_real"
+        },
+        "display_purpose": "Performance only; simulated values are fictional, not verified platform metrics."
+      },
+      "comments": [
+        {
+          "id": "CF-004-C001",
+          "author": "L.u_k3",
+          "text": "Is this real?",
+          "original_language": "English",
+          "text_status": "original"
+        },
+        {
+          "id": "CF-004-C002",
+          "author": "Is This AI",
+          "text": "is this AI?",
+          "original_language": "English",
+          "text_status": "original"
+        },
+        {
+          "id": "CF-004-C003",
+          "author": "mama.A",
+          "text": "Ai or not this is cute",
+          "original_language": "English",
+          "text_status": "original"
+        },
+        {
+          "id": "CF-004-C004",
+          "author": "lawda",
+          "text": "Someone will try to say this is AI 🙄",
+          "original_language": "English",
+          "likes": 436,
+          "text_status": "original"
+        },
+        {
+          "id": "CF-004-C005",
+          "author": "Mar",
+          "text": "I wanna hate ai but then I see this and I laugh",
+          "original_language": "English",
+          "likes": 5,
+          "text_status": "original"
+        },
+        {
+          "id": "CF-004-C006",
+          "author": "Jeffrey Ellis",
+          "text": "Why does AI always give animals creepy azz hand and fingers.... 🤣🤣",
+          "original_language": "English",
+          "text_status": "original"
+        },
+        {
+          "id": "CF-004-C007",
+          "author": "RetroTek040",
+          "text": "The cats have human hands.",
+          "original_language": "English",
+          "likes": 42,
+          "text_status": "original"
+        },
+        {
+          "id": "CF-004-C008",
+          "author": "user6407613909926",
+          "text": "Yes it’s 3 A.M. and I have get up at 5 to work a 12 hr shift but here I am watching dancing cats in the tub!",
+          "original_language": "English",
+          "text_status": "original"
+        },
+        {
+          "id": "CF-004-C009",
+          "author": "Shannon Bryant",
+          "text": "we gotta stop with this AI my mother in law is pissed she put her cats in the bath and they ain't dancing lol",
+          "original_language": "English",
+          "likes": 45,
+          "text_status": "original"
+        },
+        {
+          "id": "CF-004-C010",
+          "author": "hometoad",
+          "text": "This is what we are setting the world on fire for???",
+          "original_language": "English",
+          "text_status": "original"
+        }
+      ],
+      "comment_collection": {
+        "saved_count_in_this_export": 10,
+        "platform_comment_count": 6292,
+        "original_texts_available": true,
+        "authors_available": true,
+        "timestamps_available": false,
+        "likes_partially_available": true,
+        "collection_complete": false,
+        "recovery_status": "partial",
+        "notes": "The user previously supplied a substantially larger multilingual comment collection. This export contains only ten comments whose exact text and authors could be recovered. The remaining comments must not be treated as deleted or nonexistent."
+      },
+      "research_analysis": {
+        "observation": "Audience reactions range from delight and humour to skepticism about AI-generated imagery. Some viewers notice anatomical inconsistencies, while others explicitly enjoy the video despite knowing it is synthetic.",
+        "interpretation": "The cats function as affective interfaces. Their familiar animal appearance and unexpected human-like movements create amusement, even when viewers recognize that the performance is artificial.",
+        "critical_insight": "Recognizing AI-generated content does not necessarily prevent emotional engagement. Viewers may simultaneously criticize synthetic imagery and enjoy its affective effects.",
+        "research_question": "How does the recognition of artificiality influence audience enjoyment, discomfort and continued engagement with AI-generated animal performances?",
+        "analysis_status": "preliminary"
+      },
+      "audit": {
+        "missing_fields": [
+          "Verified video duration",
+          "Real view count",
+          "Verified share count",
+          "Complete original comment collection",
+          "Complete comment timestamps",
+          "Complete comment engagement data",
+          "Verified local MP4 correspondence"
+        ],
+        "identity_conflict": false,
+        "identity_confirmed": false,
+        "notes": "The video identity is supported by the supplied TikTok URL and screenshot. Engagement figures are approximate screenshot readings. The complete comment archive was not recoverable for this export. Do not overwrite a more complete CF-004 record with this partial version."
+      }
+    },
+    {
+      "archive_id": "CF-005",
+      "verification_status": "partially_verified",
+      "source": {
+        "platform": "Instagram",
+        "creator": "@just.monki",
+        "url": "https://www.instagram.com/reel/Dfz-fNKqYBX/",
+        "url_match_verified": false,
+        "local_file": "CF-005.mp4",
+        "file_match_verified": false,
+        "screenshot_available": true
+      },
+      "video": {
+        "title": "The Monkey and the Unpaid Baby Crib",
+        "animal": "Monkey",
+        "role": "Customer service clerk",
+        "caption": "todavía debe su cuna...",
+        "script": "Turn motherhood into a lifelong financial obligation.",
+        "script_status": "user_approved_satirical_system_script",
+        "duration_seconds": null,
+        "visual_description": "A monkey wearing a white shirt, striped tie, and glasses sits behind a service counter, writing on a document beside a computer.",
+        "narrative_sequence": [
+          "A monkey works at a customer service counter.",
+          "The monkey checks a customer's records.",
+          "An old unpaid debt for a baby crib becomes the punchline."
+        ],
+        "script_en": "Turn motherhood into a lifelong financial obligation.",
+        "script_zh": "将母职转化为终身的经济义务。"
+      },
+      "classification": {
+        "animal_representation": "Anthropomorphic service worker",
+        "human_script": "Customer service / Consumer debt / Bureaucracy",
+        "content_type": "Workplace satire",
+        "affective_response": [
+          "Humour",
+          "Recognition",
+          "Satirical amusement"
+        ],
+        "type_of_truth": [
+          "Experiential truth",
+          "Social truth"
+        ],
+        "key_mechanism": "Synthetic animal character → Familiar bureaucratic situation → Recognition of consumer debt practices",
+        "affective_triggers": [
+          "Nostalgia"
+        ],
+        "affective_trigger_zh": "怀旧"
+      },
+      "metrics": {
+        "real": {
+          "views": null,
+          "likes": 32000,
+          "comments": 242,
+          "reposts": 827,
+          "sends": 4441,
+          "saves": null
+        },
+        "real_metrics_status": "user_provided_screenshot_approximate",
+        "metrics_collected_at": "2026-11-23",
+        "simulated": {
+          "views": 310653,
+          "saves": 940
+        },
+        "display": {
+          "views": 310653,
+          "likes": 32000,
+          "reposts": 827,
+          "shares": 4441,
+          "saves": 940,
+          "comments": 242
+        },
+        "display_sources": {
+          "views": "generated_simulated",
+          "likes": "archived_real",
+          "reposts": "archived_real",
+          "shares": "archived_real",
+          "saves": "generated_simulated",
+          "comments": "archived_real"
+        },
+        "display_purpose": "Performance only; simulated values are fictional, not verified platform metrics."
+      },
+      "comments": [
+        {
+          "author": "viictor_mediina",
+          "text": "De todos los monitos este es el mejor de todos 🙌🙌😂😂"
+        },
+        {
+          "author": "mario_garcia1510",
+          "text": "Trae Comprobato de Domicilio 🗣️"
+        },
+        {
+          "author": "mariano.almiron17",
+          "text": "Doña Lupe si la conozco nos hizo subir hasta el quinto piso una garrafa de gas..."
+        },
+        {
+          "author": "afropoolcartman",
+          "text": "mil ofícios 😂😂cada vez tiene trabajo nuevo 😂"
+        },
+        {
+          "author": "ikertrujillogarcia",
+          "text": "Trae comprobato de domicilio??🗣️🗣️"
+        },
+        {
+          "author": "atenea_lup",
+          "text": "weyyy jaja yo me llamo Guadalupe ramirez 😂 jajaa la cuna de mi hija hace 20 años"
+        },
+        {
+          "author": "graciela_taller",
+          "text": "Jejejeej doña Lupe la señora del quinto que pidió la garrafa 😂😂"
+        },
+        {
+          "author": "my_nerd_cave90s",
+          "text": "Tecleando en el mouse jajajaja"
+        },
+        {
+          "author": "ferlopsky",
+          "text": "😂😂Doña Lupe toda vía debe su Cuna 😂y la carreola"
+        },
+        {
+          "author": "jelfryrodriguez",
+          "text": "😂😂 no aceptan devolución después de 30 años ?"
+        },
+        {
+          "author": "luispumascruzdf",
+          "text": "😂😂😂"
+        },
+        {
+          "author": "iburro83",
+          "text": "Trabaja monky en @bancoazteca ? Acaso @ricardosalinas 😂"
+        },
+        {
+          "author": "rudy_.2282",
+          "text": "Andan descubriendo como robaba ELEKTRA 🤣🤣🤣🤣🤣🤣🤣"
+        },
+        {
+          "author": "ingluiseguz",
+          "text": "Cuando compras en Elektra y salinas te abrocha."
+        },
+        {
+          "author": "aciariol",
+          "text": "Como una que fue a dar su último abono en Elektra de una cuna y le preguntaron y la niña como esta y ella respondió yo soy la niña 😂😂😂😂😂😂"
+        },
+        {
+          "author": "ismaelsanzjav",
+          "text": "Los de Elektra guardan las deudas de por vida 😂😂"
+        },
+        {
+          "author": "julian.barnichea",
+          "text": "Como cliquea el mouse"
+        },
+        {
+          "author": "cristiancamilo.diazherrera",
+          "text": "Noooo joven, espese, doña Lupe que no se deje ver joven. Ya los ochochentos van por las nubes"
+        },
+        {
+          "author": "baucaernesto",
+          "text": "Esa costo ochochentos pero de los viejos pesos 😂"
+        }
+      ],
+      "comment_collection": {
+        "saved_count_in_this_export": 19,
+        "platform_comment_count": 242,
+        "additional_facebook_comments_reported": 827,
+        "original_language_preserved": true,
+        "collection_complete": false,
+        "recovery_status": "partial",
+        "notes": "A larger collection of comments was supplied previously. This export contains selected recovered comments and must not overwrite the complete original collection."
+      },
+      "research_analysis": {
+        "observation": "Viewers repeatedly imitate the monkey's distinctive pronunciation, associate the fictional debt with real consumer credit companies, and reference the character's appearances in other videos.",
+        "interpretation": "The synthetic monkey operates as a recurring social character. Audience participation connects separate videos into a shared fictional world while drawing on recognizable experiences of debt, customer service, and bureaucracy.",
+        "critical_insight": "The character's identity is collectively sustained through repeated catchphrases, cross-video references, and audience memories.",
+        "research_question": "How do recurring synthetic animal characters become shared cultural figures through audience participation and everyday social recognition?",
+        "analysis_status": "preliminary"
+      },
+      "audit": {
+        "missing_fields": [
+          "Verified Instagram URL correspondence",
+          "Verified local video file",
+          "Complete original comment collection",
+          "Video duration",
+          "Real view count"
+        ],
+        "identity_confirmed": false,
+        "notes": "The screenshot confirms the creator, visual scene, caption, and engagement metrics. The association with CF-005 remains provisional until the Instagram URL is checked. Preserve all previously supplied comments."
+      }
+    },
+    {
+      "archive_id": "CF-006",
+      "title": "Tiny Chihuahua",
+      "verification_status": "partially_recovered",
+      "source": {
+        "platform": "TikTok",
+        "creator": "@ailton_oficial014",
+        "url": "https://www.tiktok.com/@ailton_oficial014/video/7566278768407498002",
+        "url_status": "previously_associated_with_CF-007",
+        "local_file": null,
+        "file_match_verified": false
+      },
+      "video": {
+        "animal": "Chihuahua",
+        "role": "Miniature animal / Object of fascination",
+        "script": "Make animals smaller so humans desire them more.",
+        "script_status": "user_approved_satirical_system_script",
+        "duration_seconds": null,
+        "visual_description": "An extremely small Chihuahua resting or standing in a human palm.",
+        "narrative_pattern": "Impossible proportions → Visual fascination → Reality questioning",
+        "script_en": "Make animals smaller so humans desire them more.",
+        "script_zh": "将动物变得更小，让人类更加渴望拥有它们。"
+      },
+      "classification": {
+        "animal_representation": "Hyper-miniaturized synthetic animal",
+        "human_script": null,
+        "content_type": "Cute animal reveal",
+        "affective_response": [
+          "Awe",
+          "Tenderness",
+          "Surprise",
+          "Curiosity",
+          "Skepticism"
+        ],
+        "type_of_truth": [
+          "Visual plausibility",
+          "Affective authenticity"
+        ],
+        "key_mechanism": "Extreme miniaturization → Cuteness → Emotional engagement → Reality questioning",
+        "affective_triggers": [
+          "Cuteness"
+        ],
+        "affective_trigger_zh": "可爱"
+      },
+      "metrics": {
+        "real": {
+          "views": null,
+          "likes": 3100000,
+          "comments": 9002,
+          "saves": 194400,
+          "shares": 849300
+        },
+        "real_metrics_status": "previously_user_supplied_approximate",
+        "simulated": {
+          "views": 25198773,
+          "reposts": 137854
+        },
+        "display": {
+          "views": 25198773,
+          "likes": 3100000,
+          "reposts": 137854,
+          "shares": 849300,
+          "saves": 194400,
+          "comments": 9002
+        },
+        "display_sources": {
+          "views": "generated_simulated",
+          "likes": "archived_real",
+          "reposts": "generated_simulated",
+          "shares": "archived_real",
+          "saves": "archived_real",
+          "comments": "archived_real"
+        },
+        "display_purpose": "Performance only; simulated values are fictional, not verified platform metrics."
+      },
+      "comments": [],
+      "comment_evidence": [
+        {
+          "text_fragment": "todos: un perrito mini yo: CHIHUAHUA TACONI",
+          "author": null,
+          "text_status": "previously_supplied_fragment"
+        },
+        {
+          "text_fragment": "es real o AI?",
+          "author": null,
+          "text_status": "previously_supplied_fragment"
+        },
+        {
+          "text_fragment": "Fake or fake",
+          "author": null,
+          "text_status": "previously_supplied_fragment"
+        },
+        {
+          "text_fragment": "aunque sea IA",
+          "author": null,
+          "text_status": "previously_supplied_fragment"
+        }
+      ],
+      "previously_recorded_comment_authors": [
+        "Salchi",
+        "michell",
+        "Quintero",
+        "erick Morales",
+        "Bianca",
+        "jrlx.slva_",
+        "Maggie"
+      ],
+      "creator_engagement": {
+        "call_to_action": "comenta 'Eu quero'",
+        "interpretation": "The creator encourages viewers to participate through comments."
+      },
+      "comment_collection": {
+        "platform_comment_count": 9002,
+        "complete_original_comments_recovered": false,
+        "comment_fragments_recovered": 4,
+        "comment_authors_recovered": 7,
+        "collection_complete": false,
+        "notes": "Original comment fragments and author names were recovered separately. Their exact correspondence has not been verified."
+      },
+      "research_analysis": {
+        "observation": "Viewers express fascination with the animal's unusually small proportions and question whether the video is real or AI-generated.",
+        "interpretation": "The miniature animal functions as an affective reward. Its exaggerated cuteness attracts attention and encourages viewers to discuss its authenticity.",
+        "critical_insight": "The video's emotional appeal does not depend entirely on viewers believing the animal is real.",
+        "research_question": "How do impossible animal proportions generate fascination and emotional engagement despite visible signs of artificiality?",
+        "analysis_status": "preliminary"
+      },
+      "audit": {
+        "identity_confirmed": false,
+        "identity_conflict": true,
+        "previous_archive_id": "CF-007",
+        "current_requested_archive_id": "CF-006",
+        "previous_CF-006_url": "https://www.instagram.com/reel/DUHM53tEkTZ/",
+        "missing_fields": [
+          "Complete original comments",
+          "Verified video duration",
+          "Verified local file",
+          "Exact comment author-text correspondence",
+          "Real view count"
+        ],
+        "notes": "The current CF-006 assignment follows the user's correction. The TikTok URL and engagement metrics were previously associated with CF-007. Preserve both historical mappings until the archive is reconciled."
+      }
+    },
+    {
+      "archive_id": "CF-007",
+      "title": "Extremely Tiny Animal",
+      "verification_status": "user_confirmed",
+      "source": {
+        "platform": "TikTok",
+        "creator": "@ailton_oficial014",
+        "url": "https://www.tiktok.com/@ailton_oficial014/video/7609359457084001556",
+        "ai_generated_label": true
+      },
+      "video": {
+        "animal": "Extremely miniature puppy",
+        "animal_representation": "Hyper-miniaturized synthetic animal",
+        "visual_description": "An impossibly tiny, fluffy puppy is held in a human hand and bathed in a bathroom sink.",
+        "human_script": "Pet care and bathing",
+        "narrative_pattern": "Miniature animal reveal → Bathing → Emotional fascination",
+        "duration_seconds": null,
+        "script_en": "Exaggerate an animal’s vulnerability to maximize human affection.",
+        "script_zh": "夸大动物的脆弱性，以最大化人类的怜爱。",
+        "script_status": "user_approved_satirical_system_script"
+      },
+      "metrics": {
+        "views": null,
+        "likes": 9900000,
+        "comments": 95200,
+        "saves": 853100,
+        "shares": 2600000,
+        "metrics_source": "user_provided_screenshot",
+        "values_approximate": true,
+        "simulated": {
+          "views": 130362887,
+          "reposts": 382554
+        },
+        "display": {
+          "views": 130362887,
+          "likes": 9900000,
+          "reposts": 382554,
+          "shares": 2600000,
+          "saves": 853100,
+          "comments": 95200
+        },
+        "display_sources": {
+          "views": "generated_simulated",
+          "likes": "archived_real",
+          "reposts": "generated_simulated",
+          "shares": "archived_real",
+          "saves": "archived_real",
+          "comments": "archived_real"
+        },
+        "display_purpose": "Performance only; simulated values are fictional, not verified platform metrics."
+      },
+      "classification": {
+        "content_type": "Synthetic miniature animal spectacle",
+        "animal_role": "Object of affection and protection",
+        "human_script": "Pet bathing",
+        "affective_triggers": [
+          "Vulnerability"
+        ],
+        "audience_responses": [
+          "Fascination",
+          "Disappointment",
+          "Emotional attachment",
+          "Protective outrage",
+          "Reality questioning"
+        ],
+        "type_of_truth": [
+          "Affective authenticity",
+          "Visual plausibility"
+        ],
+        "key_mechanism": "Impossible miniature animal → Emotional attachment → Desire to possess → Protective response",
+        "affective_trigger_zh": "脆弱性"
+      },
+      "selected_comments": [
+        {
+          "author": "☀️✨️Apollo✨️☀️",
+          "original_text": "NOOO THIS WAS AI NOOO I ACTUALLY WANTED THIS😭😭",
+          "english_text": "NOOO THIS WAS AI NOOO I ACTUALLY WANTED THIS😭😭",
+          "original_language": "English",
+          "likes": 3542,
+          "emotional_category": "Shock and disappointment"
+        },
+        {
+          "author": "💙",
+          "original_text": "dejen de hacer estos vídeos me ilusionó demasiado😭😭😭😭😭💔",
+          "english_text": "Stop making these videos! You got my hopes up so much 😭😭😭😭😭💔",
+          "original_language": "Spanish",
+          "likes": 27,
+          "emotional_category": "Emotional disappointment"
+        },
+        {
+          "author": "♡격노♡",
+          "original_text": "porque nadie habla de que casi lo aogan",
+          "english_text": "Why is nobody talking about how they almost drowned it?!",
+          "original_language": "Spanish",
+          "likes": 56500,
+          "emotional_category": "Protective outrage"
+        }
+      ],
+      "research_analysis": {
+        "observation": "Viewers express intense affection for an impossible miniature puppy. Some are disappointed when they discover it is AI-generated, while others express concern about the animal being submerged in water.",
+        "interpretation": "The synthetic animal generates genuine emotional responses despite its artificial nature. Viewers project desires for ownership, care, and protection onto a fictional animal body.",
+        "critical_insight": "The emotional reality of the audience does not depend on the physical reality of the animal.",
+        "research_question": "How do synthetic animal bodies generate real emotional attachment and protective instincts despite their acknowledged artificiality?",
+        "analysis_status": "preliminary"
+      },
+      "audit": {
+        "identity_confirmed_by_user": true,
+        "original_comment_languages_preserved": true,
+        "english_translations_included": true,
+        "selected_comment_count": 3,
+        "full_comment_archive": "Separate raw source",
+        "missing_fields": [
+          "Verified video duration",
+          "Verified view count",
+          "Full video transcript"
+        ]
+      }
+    },
+    {
+      "archive_id": "CF-008",
+      "previous_archive_id": "CF-009",
+      "title": "Meowlsol — Cat-Owl Hybrid",
+      "source": {
+        "platform": "TikTok",
+        "creator": "@meowlsol",
+        "url": "https://www.tiktok.com/@meowlsol/video/7590753305538694420",
+        "ai_generated_label": null
+      },
+      "video": {
+        "animal": "Cat-owl hybrid",
+        "animal_representation": "Synthetic species",
+        "visual_description": "An imaginary animal combining feline and owl characteristics.",
+        "human_script": "Encountering an unfamiliar animal species",
+        "narrative_pattern": "Unfamiliar creature → Curiosity → Cuteness → Emotional attachment",
+        "duration_seconds": null,
+        "script_en": "Redesign biological species according to human aesthetic preferences.",
+        "script_zh": "根据人类的审美偏好重新设计生物物种。",
+        "script_status": "user_approved_satirical_system_script"
+      },
+      "metrics": {
+        "views": null,
+        "likes": 2500000,
+        "comments": 56400,
+        "saves": 357900,
+        "shares": 808100,
+        "metrics_source": "user_provided_screenshot",
+        "values_approximate": true,
+        "simulated": {
+          "views": 19671610,
+          "reposts": 40756
+        },
+        "display": {
+          "views": 19671610,
+          "likes": 2500000,
+          "reposts": 40756,
+          "shares": 808100,
+          "saves": 357900,
+          "comments": 56400
+        },
+        "display_sources": {
+          "views": "generated_simulated",
+          "likes": "archived_real",
+          "reposts": "generated_simulated",
+          "shares": "archived_real",
+          "saves": "archived_real",
+          "comments": "archived_real"
+        },
+        "display_purpose": "Performance only; simulated values are fictional, not verified platform metrics."
+      },
+      "classification": {
+        "content_type": "Synthetic species spectacle",
+        "animal_role": "Object of fascination and affection",
+        "affective_triggers": [
+          "Novelty"
+        ],
+        "audience_responses": [
+          "Surprise",
+          "Reality questioning",
+          "Emotional attachment",
+          "Desire for adoption",
+          "Acceptance of AI-generated content"
+        ],
+        "type_of_truth": [
+          "Visual plausibility",
+          "Affective authenticity",
+          "Biological fiction"
+        ],
+        "key_mechanism": "Synthetic species → Reality confusion → Emotional attachment → Desire for adoption",
+        "affective_trigger_zh": "新奇"
+      },
+      "selected_comments": [
+        {
+          "author": null,
+          "english_text": "DOES THAT THING ACTUALLY EXIST?!?",
+          "likes": null,
+          "emotional_category": "Reality confusion",
+          "verification_status": "Unverified candidate from previous research notes"
+        },
+        {
+          "author": null,
+          "english_text": "Help, my mom believed it was real and now wants to adopt one.",
+          "likes": null,
+          "emotional_category": "Desire for adoption",
+          "verification_status": "Unverified candidate from previous research notes"
+        },
+        {
+          "author": null,
+          "english_text": "I HATE AI videos, but not this one 🥹",
+          "likes": null,
+          "emotional_category": "Cuteness overriding AI rejection",
+          "verification_status": "Unverified candidate from previous research notes"
+        }
+      ],
+      "research_analysis": {
+        "representation": "The synthetic animal combines recognizable characteristics of two existing species to construct an imaginary creature.",
+        "affective_mechanism": "Familiar animal characteristics combined with biological impossibility may generate curiosity, fascination and affection.",
+        "platform_and_capital": "The video demonstrates substantial engagement through likes, comments, saves and shares. Actual revenue and monetization mechanisms remain unknown.",
+        "production": "The creature is understood as a synthetic animal representation. The specific generation tools, prompts and production workflow remain unverified.",
+        "animality": "Rather than simply anthropomorphizing an existing animal, the content constructs a new imaginary species shaped by human aesthetic and emotional preferences.",
+        "interpretation": "Synthetic species can become objects of emotional attachment even when they have no biological existence.",
+        "critical_insight": "AI-generated animals can potentially transform human preferences for cuteness into imaginary biological forms.",
+        "research_question": "How does the creation of synthetic species reshape human expectations of animal bodies, companionship and biological reality?",
+        "analysis_status": "preliminary"
+      },
+      "audit": {
+        "archive_number_updated": true,
+        "source_url_confirmed": true,
+        "engagement_metrics_confirmed_by_screenshot": true,
+        "selected_comment_count": 3,
+        "selected_comments_verified": false,
+        "missing_fields": [
+          "Verified view count",
+          "Video duration",
+          "Original comment texts",
+          "Comment authors",
+          "Comment like counts",
+          "Production tools",
+          "Monetization data"
+        ]
+      }
+    },
+    {
+      "archive_id": "CF-009",
+      "previous_archive_id": "CF-019",
+      "title": "Monkey Tortilla Seller",
+      "source": {
+        "platform": "Instagram",
+        "creator": "@just.monki",
+        "url": "https://www.instagram.com/p/Df2htprq_T9/",
+        "ai_generated": true,
+        "audio": "Original audio"
+      },
+      "video": {
+        "animal": "Monkey",
+        "animal_representation": "Anthropomorphic working animal",
+        "visual_description": "A monkey wearing a white uniform and a chef's hat works inside a tortilla shop. It weighs a stack of tortillas on a digital scale displaying 0.900 kg while telling the customer that it is one kilogram.",
+        "human_script": "Retail labour, weighing products and negotiating with customers",
+        "setting": "Tortilla production and retail shop",
+        "visible_text": [
+          "HOY NO FIAMOS",
+          "KILO $24",
+          "0.900"
+        ],
+        "visible_subtitle": "Your kilo, young man.",
+        "narrative_pattern": "Everyday commercial transaction → Weight discrepancy → Humorous justification",
+        "duration_seconds": null,
+        "script_en": "Make a monkey sell nine hundred grams of tortillas as one kilogram, using its hand to make up the difference.",
+        "script_zh": "让猴子把九百克玉米饼当作一公斤出售，剩下的一百克由它的手补足。",
+        "script_status": "user_approved_satirical_system_script"
+      },
+      "caption": {
+        "original_language": "Spanish",
+        "original_text": "con la mano, mil.\nla báscula está calibrada eh\n\nHecho con @higgsfield.ai 🐒 Hay una oferta con mi link en la bio (afiliado).",
+        "english_text": "With my hand, that's a thousand grams. The scale is calibrated, okay?\n\nMade with @higgsfield.ai 🐒 There's a special offer through the link in my bio (affiliate).",
+        "hashtags": [
+          "#justmonki",
+          "#higgsfield",
+          "#videoia"
+        ]
+      },
+      "metrics": {
+        "views": null,
+        "likes": 66000,
+        "comments": 369,
+        "reposts": 1829,
+        "shares": 19000,
+        "saves": null,
+        "metrics_source": "user_provided_screenshot",
+        "values_approximate": true,
+        "simulated": {
+          "views": 755808,
+          "saves": 3343
+        },
+        "display": {
+          "views": 755808,
+          "likes": 66000,
+          "reposts": 1829,
+          "shares": 19000,
+          "saves": 3343,
+          "comments": 369
+        },
+        "display_sources": {
+          "views": "generated_simulated",
+          "likes": "archived_real",
+          "reposts": "archived_real",
+          "shares": "archived_real",
+          "saves": "generated_simulated",
+          "comments": "archived_real"
+        },
+        "display_purpose": "Performance only; simulated values are fictional, not verified platform metrics."
+      },
+      "classification": {
+        "content_type": "Everyday workplace comedy",
+        "animal_role": "Social proxy",
+        "human_script": "Retail work and informal commercial negotiation",
+        "affective_triggers": [
+          "Absurdity"
+        ],
+        "audience_responses": [
+          "Humour",
+          "Recognition of everyday commercial behaviour",
+          "Participatory storytelling",
+          "Extension of the original joke"
+        ],
+        "type_of_truth": [
+          "Experiential truth",
+          "Social truth",
+          "Fictional representation"
+        ],
+        "key_mechanism": "Animal body → Familiar human behaviour → Social recognition → Humour → Audience engagement",
+        "affective_trigger_zh": "荒诞"
+      },
+      "selected_comments": [
+        {
+          "author": "marcomenddoza",
+          "original_text": "“Mano de obra”",
+          "english_text": "“Manual labour”",
+          "original_language": "Spanish",
+          "likes": 3638,
+          "emotional_category": "Labour humour",
+          "interpretation": "A pun connecting the monkey's hand with the Spanish expression for labour."
+        },
+        {
+          "author": "aparecida.sanntos",
+          "original_text": "Di algo más y será mil ochocientos!",
+          "english_text": "Say one more thing and it'll be one thousand eight hundred!",
+          "original_language": "Spanish",
+          "likes": null,
+          "emotional_category": "Participatory humour",
+          "interpretation": "The viewer extends the fictional commercial interaction by inventing another line of dialogue."
+        }
+      ],
+      "production": {
+        "ai_tool": "Higgsfield AI",
+        "tool_disclosed_by_creator": true,
+        "disclosure_source": "Original Instagram caption",
+        "production_workflow": null,
+        "generation_model": null,
+        "production_cost": null
+      },
+      "monetization": {
+        "commercial_content": true,
+        "monetization_model": "Affiliate marketing",
+        "promoted_product": "Higgsfield AI",
+        "affiliate_disclosure": true,
+        "conversion_channel": "Affiliate link in creator's profile bio",
+        "commercial_strategy": "Using AI-generated animal entertainment to promote an AI video production platform.",
+        "potential_revenue_source": "Affiliate commissions",
+        "actual_revenue": null,
+        "commission_rate": null,
+        "conversion_rate": null,
+        "economic_mechanism": [
+          "AI video production",
+          "Synthetic animal entertainment",
+          "Audience attention",
+          "Social media engagement",
+          "AI tool promotion",
+          "Affiliate link conversion",
+          "Potential commission"
+        ]
+      },
+      "research_analysis": {
+        "representation": "The monkey retains its animal appearance while adopting human clothing, occupational behaviour and commercial dialogue.",
+        "affective_mechanism": "Humour emerges through the combination of an animal body and a recognizable human commercial situation.",
+        "platform_and_capital": "The video explicitly connects audience engagement with affiliate marketing. The synthetic animal functions as both entertainment and a promotional interface for the AI production tool.",
+        "production": "The creator identifies Higgsfield AI as the production tool. The specific model, prompts and production workflow remain unknown.",
+        "animality": "The animal body becomes a substitute for a human worker. Its biological characteristics are secondary to its assigned economic and social role.",
+        "audience_participation": "Viewers extend the fictional situation through jokes, wordplay and additional imagined dialogue.",
+        "interpretation": "The synthetic animal performs recognizable human labour while simultaneously functioning as a commercial asset within the platform economy.",
+        "critical_insight": "The monkey performs two forms of labour: fictional labour inside the tortilla shop and commercial attention-generating labour within the social media economy.",
+        "research_question": "How do synthetic animal bodies performing human labour become affective and commercial interfaces within the platform economy?",
+        "analysis_status": "preliminary"
+      },
+      "audit": {
+        "archive_number_updated": true,
+        "engagement_metrics_confirmed_by_screenshot": true,
+        "production_tool_disclosed": true,
+        "affiliate_marketing_disclosed": true,
+        "selected_comment_count": 2,
+        "original_comments_preserved": true,
+        "english_translations_included": true,
+        "missing_fields": [
+          "Verified view count",
+          "Video duration",
+          "Full dialogue transcript",
+          "Third selected comment",
+          "Production costs",
+          "Affiliate commission rate",
+          "Actual revenue"
+        ]
+      }
+    },
+    {
+      "archive_id": "CF-010",
+      "previous_archive_id": "CF-020",
+      "title": "Monkey Security Guard",
+      "source": {
+        "platform": "Instagram",
+        "creator": "@just.monki",
+        "url": "https://www.instagram.com/p/DfxN7t0KRN7/",
+        "publication_date": "2026-11-15",
+        "ai_generated": true,
+        "audio": "Original audio"
+      },
+      "video": {
+        "animal": "Monkey",
+        "animal_representation": "Anthropomorphic working animal",
+        "visual_description": "A monkey wearing a dark blue security uniform holds a clipboard and questions a driver at the entrance of a gated residential community.",
+        "human_script": "A resident encounters rigid security procedures while attempting to enter their own residential community.",
+        "setting": "Residential security checkpoint",
+        "visible_subtitle": "I live here.",
+        "narrative_pattern": "Security inspection → Resident identification → Bureaucratic contradiction → Humour",
+        "duration_seconds": null,
+        "script_en": "Make a monkey security guard stop a resident from going home, because an access pass matters more than owning a home.",
+        "script_zh": "让猴子保安阻止居民回家，因为一张通行证比一个人拥有自己的家更重要。",
+        "script_status": "user_approved_satirical_system_script"
+      },
+      "caption": {
+        "original_language": "Spanish",
+        "original_text": "¿a quién visita?\nvive ahí, dice\n\nHecho con @higgsfield.ai 🐒 Hay una oferta con mi link en la bio (afiliado).",
+        "english_text": "Who are you visiting?\nHe says he lives there.\n\nMade with @higgsfield.ai 🐒 There's a special offer through the link in my bio (affiliate).",
+        "hashtags": [
+          "#justmonki",
+          "#higgsfield",
+          "#videoia"
+        ]
+      },
+      "metrics": {
+        "views": null,
+        "likes": 354000,
+        "comments": 2528,
+        "reposts": 11000,
+        "shares": 99000,
+        "saves": null,
+        "metrics_source": "User-provided screenshot",
+        "values_approximate": true,
+        "simulated": {
+          "views": 5470563,
+          "saves": 31042
+        },
+        "display": {
+          "views": 5470563,
+          "likes": 354000,
+          "reposts": 11000,
+          "shares": 99000,
+          "saves": 31042,
+          "comments": 2528
+        },
+        "display_sources": {
+          "views": "generated_simulated",
+          "likes": "archived_real",
+          "reposts": "archived_real",
+          "shares": "archived_real",
+          "saves": "generated_simulated",
+          "comments": "archived_real"
+        },
+        "display_purpose": "Performance only; simulated values are fictional, not verified platform metrics."
+      },
+      "classification": {
+        "content_type": "Everyday workplace comedy",
+        "animal_role": "Social proxy",
+        "human_script": "Security work and bureaucratic authority",
+        "affective_triggers": [
+          "Frustration"
+        ],
+        "audience_responses": [
+          "Laughter",
+          "Recognition of personal experiences",
+          "Frustration with rigid regulations",
+          "Criticism of institutional procedures",
+          "Defence of security workers",
+          "Participatory storytelling"
+        ],
+        "type_of_truth": [
+          "Experiential truth",
+          "Social truth"
+        ],
+        "key_mechanism": "Synthetic animal body → Familiar social conflict → Personal recognition → Collective humour",
+        "affective_trigger_zh": "挫败感"
+      },
+      "selected_comments": [
+        {
+          "author": "advfto",
+          "original_text": "Suena a tontería pero es 100% real !!!!! Lo vivo a diario con los guardias de caseta. Parece que a todos los sacan de mismo costal.",
+          "english_text": "It sounds ridiculous, but it's 100% real!!!!! I deal with this every day with security guards. It's like they're all cut from the same cloth.",
+          "original_language": "Spanish",
+          "likes": null,
+          "emotional_category": "Intense social recognition",
+          "interpretation": "The viewer explicitly describes the fictional scenario as real because it corresponds to their everyday experience."
+        },
+        {
+          "author": "jaqueline_ivette",
+          "original_text": "En Toluca, en un fraccionamiento frente al aeropuerto pasa eso. Me marcan a mi misma, cierro la ventana del carro para que no me oigan y me doy permiso para pasar.",
+          "english_text": "This happens in a gated community across from the airport in Toluca. They call me on my own phone, so I close the car window to stop them from hearing me and give myself permission to enter.",
+          "original_language": "Spanish",
+          "likes": null,
+          "emotional_category": "Experiential recognition and absurdity",
+          "interpretation": "The viewer contributes a personal anecdote that reproduces the bureaucratic contradiction represented in the video."
+        },
+        {
+          "author": "vivir_en_ruedas",
+          "original_text": "O sea esta bien, cumple su chamba....solo que son como robots, de esos sencillitos que solo pueden seguir una o dos órdenes....",
+          "english_text": "I mean, it's fine, he's doing his job... It's just that they're like robots, those simple ones that can only follow one or two commands...",
+          "original_language": "Spanish",
+          "likes": null,
+          "emotional_category": "Institutional criticism",
+          "interpretation": "The viewer compares human security workers to simple machines that mechanically execute instructions."
+        }
+      ],
+      "production": {
+        "ai_tool": "Higgsfield AI",
+        "tool_disclosed_by_creator": true,
+        "disclosure_source": "Original Instagram caption",
+        "production_workflow": null,
+        "generation_model": null,
+        "production_cost": null
+      },
+      "monetization": {
+        "commercial_content": true,
+        "monetization_model": "Affiliate marketing",
+        "promoted_product": "Higgsfield AI",
+        "affiliate_disclosure": true,
+        "conversion_channel": "Affiliate link in creator's profile bio",
+        "commercial_strategy": "Using AI-generated animal comedy to attract attention and promote the AI production platform.",
+        "potential_revenue_source": "Affiliate commissions",
+        "actual_revenue": null,
+        "commission_rate": null,
+        "conversion_rate": null,
+        "economic_mechanism": [
+          "AI video production",
+          "Synthetic animal performing human labour",
+          "Recognition of shared social experiences",
+          "Audience engagement",
+          "AI tool promotion",
+          "Affiliate link conversion",
+          "Potential commission"
+        ]
+      },
+      "research_analysis": {
+        "representation": "The monkey retains its animal appearance while adopting human clothing, professional tools, dialogue and institutional authority.",
+        "affective_mechanism": "The primary emotional mechanism identified in the selected comments is not cuteness alone, but recognition of shared frustration with everyday bureaucracy.",
+        "platform_and_capital": "The creator explicitly promotes Higgsfield AI through an affiliate link. Shared social frustration and humour therefore become potential resources for commercial conversion.",
+        "production": "Higgsfield AI is explicitly credited, but the specific generation model and production workflow remain unknown.",
+        "animality": "The animal body functions as a substitute for a human worker. Its biological identity becomes secondary to its institutional role. Some audience comments also use animal comparisons to ridicule actual security workers.",
+        "audience_participation": "Viewers transform the comment section into a collective space for sharing personal anecdotes about residential security procedures. Some extend the fictional dialogue, while others discuss the legitimacy of strict security regulations.",
+        "interpretation": "The synthetic monkey becomes a vehicle for representing familiar experiences of bureaucracy, authority and residential access control.",
+        "critical_insight": "The animal is fictional, but the social experience it represents is recognizable to viewers. Synthetic animal content can generate a sense of truth through experiential recognition rather than factual authenticity.",
+        "research_question": "How do synthetic animal bodies transform shared social frustration into collective recognition, entertainment and potential economic value?",
+        "analysis_status": "Preliminary qualitative analysis",
+        "experiential_truth": "Viewers describe the fictional situation as real because it reproduces their personal experiences. The perceived truth concerns the social situation rather than the biological existence of the animal.",
+        "human_machine_relationship": "A viewer describes human security workers as robots that can only follow one or two commands. This creates a recursive relationship in which an AI-generated animal imitates a human worker who is subsequently compared to a machine."
+      },
+      "audit": {
+        "archive_id_confirmed_by_user": true,
+        "source_url_confirmed_by_user": true,
+        "engagement_metrics_confirmed_by_screenshot": true,
+        "production_tool_disclosed": true,
+        "affiliate_marketing_disclosed": true,
+        "selected_comment_count": 3,
+        "original_comments_preserved": true,
+        "english_translations_included": true,
+        "missing_fields": [
+          "Verified view count",
+          "Video duration",
+          "Full dialogue transcript",
+          "Selected viewer comment like counts",
+          "Production costs",
+          "Actual revenue"
+        ],
+        "creator_comment_count": 1,
+        "comment_source": "User-provided original Instagram comment archive"
+      },
+      "creator_comment": {
+        "author": "just.monki",
+        "original_text": "Sin tarjetón no entra ni el dueño de la privada",
+        "english_text": "Without an access pass, not even the owner of the gated community gets in.",
+        "likes": 32897,
+        "function": "Extension of the fictional character and narrative"
+      }
+    },
+    {
+      "archive_id": "CF-015",
+      "title": "Pikachu Cat — Mikaqiu",
+      "source": {
+        "platform": "Xiaohongshu",
+        "creator": "饱笑秋秋",
+        "url": "https://www.xiaohongshu.com/explore/6a67663a000000000101db25",
+        "publication_date": "07-29",
+        "publication_year": null,
+        "local_file": "CF-015.mp4",
+        "ai_generated": null,
+        "ai_generated_label_visible": false
+      },
+      "video": {
+        "animal": "Hybrid creature",
+        "base_animal": "Cat",
+        "fictional_reference": "Pikachu",
+        "character_name": "咪卡丘",
+        "character_name_english": "Mikaqiu",
+        "animal_representation": "Animal and fictional character hybrid",
+        "visual_description": "A conceptual combination of a cat and Pikachu, based on the title, hashtags and previous archive description.",
+        "visual_details_verified": false,
+        "human_script": null,
+        "setting": null,
+        "duration_seconds": null,
+        "narrative_pattern": "Recognizable animal identity combined with a familiar fictional character",
+        "dialogue": null,
+        "script_en": "If a cat cannot attract enough attention, give it the identity of a cartoon character humans already love.",
+        "script_zh": "如果一只猫无法获得足够的关注，就给它一个人类已经喜欢的卡通角色的身份。",
+        "script_status": "user_approved_satirical_system_script"
+      },
+      "caption": {
+        "original_language": "Chinese",
+        "original_text": "咪卡丘⚡",
+        "english_text": "Mikaqiu — Pikachu Cat ⚡",
+        "translation_note": "Mikaqiu replaces the first syllable of Pikachu with 咪, a Chinese expression associated with cats and meowing.",
+        "hashtags": [
+          "#好视频扶持计划",
+          "#这是谁家的小猫",
+          "#萌猫",
+          "#猫猫这么可爱",
+          "#皮卡丘",
+          "#没人能拒绝猫猫",
+          "#抱头尖叫小猫",
+          "#分享",
+          "#猫",
+          "#没有小猫这个地球怎么转"
+        ],
+        "hashtags_english": [
+          "#GoodVideoSupportProgram",
+          "#WhoseKittenIsThis",
+          "#CuteCats",
+          "#CatsAreSoCute",
+          "#Pikachu",
+          "#NobodyCanResistCats",
+          "#KittenHoldingItsHeadAndScreaming",
+          "#Sharing",
+          "#Cat",
+          "#HowWouldTheEarthKeepTurningWithoutCats"
+        ]
+      },
+      "metrics": {
+        "views": null,
+        "likes": 33,
+        "comments": 4,
+        "saves": 7,
+        "shares": null,
+        "reposts": null,
+        "metrics_source": "User-provided Xiaohongshu screenshot",
+        "values_approximate": false,
+        "save_to_like_ratio": 0.2121,
+        "comment_to_like_ratio": 0.1212,
+        "simulated": {
+          "views": 244,
+          "reposts": 1,
+          "shares": 9
+        },
+        "display": {
+          "views": 244,
+          "likes": 33,
+          "reposts": 1,
+          "shares": 9,
+          "saves": 7,
+          "comments": 4
+        },
+        "display_sources": {
+          "views": "generated_simulated",
+          "likes": "archived_real",
+          "reposts": "generated_simulated",
+          "shares": "generated_simulated",
+          "saves": "archived_real",
+          "comments": "archived_real"
+        },
+        "display_purpose": "Performance only; simulated values are fictional, not verified platform metrics."
+      },
+      "classification": {
+        "content_type": [
+          "Hybrid creature",
+          "Fictional species",
+          "Popular culture recombination",
+          "Cuteness-based entertainment"
+        ],
+        "animal_role": [
+          "Synthetic creature",
+          "Fictional character",
+          "Affective interface"
+        ],
+        "human_script": null,
+        "affective_triggers": [
+          "Familiarity"
+        ],
+        "audience_responses": [
+          "Affection",
+          "Playful character naming",
+          "Social tagging"
+        ],
+        "type_of_truth": [
+          "Fictional recognition",
+          "Affective authenticity"
+        ],
+        "key_mechanism": "Familiar animal identity + recognizable fictional character → Hybrid identity → Cuteness and novelty → Audience recognition",
+        "affective_trigger_zh": "熟悉感"
+      },
+      "selected_comments": [
+        {
+          "author": "byebiii",
+          "original_text": "萌🐭l",
+          "english_text": "Cute!",
+          "original_language": "Chinese",
+          "date": "08-03",
+          "likes": null,
+          "emotional_category": "Affection and cuteness",
+          "translation_note": "The original contains playful emoji-based spelling. The translation conveys its apparent affectionate meaning.",
+          "interpretation": "The viewer responds primarily to the perceived cuteness of the character."
+        },
+        {
+          "author": "小红薯6A81F174",
+          "original_text": "我勒个皮卡咪",
+          "english_text": "Oh my gosh, a Pikameow!",
+          "original_language": "Chinese",
+          "date": "07-31",
+          "likes": null,
+          "contains_image_or_sticker": true,
+          "image_url": "https://picasso-static.xiaohongshu.com/fe-platform/81cedd016ad9d8bef38b2cd0c1e725454df53598.png",
+          "emotional_category": "Surprise and playful naming",
+          "interpretation": "The viewer invents another hybrid name by combining Pikachu with a feline-associated syllable, participating in the construction of the creature's fictional identity."
+        },
+        {
+          "author": "葱白",
+          "original_text": "@营养海味豹大厨",
+          "english_text": "@营养海味豹大厨",
+          "original_language": "Chinese",
+          "date": "07-29",
+          "likes": null,
+          "emotional_category": "Social tagging",
+          "interpretation": "The viewer directs another account's attention toward the video. The specific motivation for tagging is unknown."
+        }
+      ],
+      "additional_audience_evidence": [
+        {
+          "author": "咸鱼姑娘Queenie",
+          "original_text": "@Heart &只是泡沫",
+          "english_text": "@Heart &只是泡沫",
+          "original_language": "Chinese",
+          "date": "07-29",
+          "likes": null,
+          "category": "Social tagging"
+        }
+      ],
+      "creator_comment": null,
+      "audience_language": {
+        "observed_languages": [
+          "Chinese"
+        ],
+        "language_distribution": null,
+        "total_comments_archived": 4,
+        "total_comments_displayed": 4,
+        "social_tagging_comments": 2,
+        "textual_reaction_comments": 2,
+        "cultural_identity_verified": false
+      },
+      "production": {
+        "ai_tool": null,
+        "generation_model": null,
+        "production_workflow": null,
+        "production_cost": null,
+        "tool_disclosed_by_creator": false,
+        "fictional_character_reference": "Pikachu",
+        "reference_confirmed_by_hashtags": true,
+        "visual_hybridization_verified": false
+      },
+      "monetization": {
+        "commercial_content_confirmed": false,
+        "product_promotion_visible": false,
+        "brand_collaboration_confirmed": false,
+        "affiliate_disclosure": null,
+        "monetization_model": null,
+        "actual_revenue": null,
+        "platform_program_hashtag": "#好视频扶持计划",
+        "platform_program_participation_verified": false,
+        "potential_value_generation": [
+          "Audience engagement",
+          "Content collection",
+          "Social tagging",
+          "Recognition of popular culture",
+          "Potential platform visibility"
+        ]
+      },
+      "research_analysis": {
+        "representation": "The title and hashtags establish a conceptual combination of feline identity and Pikachu. The precise visual characteristics require further verification against the original video.",
+        "affective_mechanism": "The hybrid potentially combines two recognizable sources of cuteness: domestic cats and a popular fictional character.",
+        "cultural_recombination": "The creator combines animal-related language with a recognizable fictional character from popular culture, producing a new named identity.",
+        "collective_language_production": "The creator uses Mikaqiu, while a viewer responds with Pikameow. Both expressions reconstruct the creature's identity through linguistic recombination.",
+        "audience_participation": "The available comments demonstrate affection, playful naming and social tagging. They do not provide evidence of sustained fictional storytelling.",
+        "fictional_species": "Unlike a hybrid between two existing animal species, this example combines an animal with an already fictional cultural character.",
+        "low_engagement_sample": "The video has 33 likes, 7 saves and 4 comments. It provides a useful contrast to highly circulated hybrid animal videos.",
+        "comparative_research": "Comparing this video with Meowlsol may help investigate differences between low-engagement and high-engagement hybrid creatures. The available metrics alone cannot explain those differences.",
+        "platform_and_capital": "The creator uses a hashtag referring to a video support program alongside multiple cuteness-related hashtags. Actual participation in the program, algorithmic distribution and monetization remain unverified.",
+        "animality": "Animal identity becomes a flexible cultural resource that can be combined with fictional characters rather than remaining limited to biological species.",
+        "corruption_of_cuteness": "The hybrid potentially draws on existing affective associations with both cats and fictional characters. Whether these associations generate additional attention or economic value remains an open research question.",
+        "critical_insight": "Hybrid animal content can emerge through the recombination of biological and fictional identities. However, recognizable cute elements do not necessarily guarantee high engagement or viral circulation.",
+        "research_question": "How does the recombination of animal bodies and existing fictional characters produce new forms of cuteness, and why do some hybrid creatures circulate more widely than others?",
+        "analysis_status": "Preliminary qualitative analysis"
+      },
+      "audit": {
+        "archive_id": "Recovered original archive ID",
+        "source_url_confirmed_by_user": true,
+        "creator_confirmed_by_screenshot": true,
+        "engagement_metrics_confirmed_by_screenshot": true,
+        "original_comments_preserved": true,
+        "english_translations_included": true,
+        "selected_comment_count": 3,
+        "additional_audience_evidence_count": 1,
+        "total_comments_archived": 4,
+        "comment_archive_complete": true,
+        "full_video_reviewed": false,
+        "video_frame_visible_in_screenshot": false,
+        "monetization_verified": false,
+        "previous_simulated_metrics_excluded": true,
+        "missing_fields": [
+          "Exact publication year",
+          "Verified view count",
+          "Share count",
+          "Video duration",
+          "Complete visual description",
+          "AI generation confirmation",
+          "AI production tools",
+          "Production costs",
+          "Actual revenue"
+        ]
+      }
+    },
+    {
+      "archive_id": "CF-022",
+      "title": "Monkey Wrestling Referee",
+      "source": {
+        "platform": "Instagram",
+        "creator": "@just.monki",
+        "url": "https://www.instagram.com/p/Dfac7wAk4V5/",
+        "publication_date": "2026-11-06",
+        "ai_generated": true,
+        "ai_generated_label": true,
+        "audio": "Original audio"
+      },
+      "video": {
+        "animal": "Monkey",
+        "animal_representation": "Anthropomorphic working animal",
+        "visual_description": "A monkey wearing a striped referee uniform works inside a professional wrestling ring. One masked wrestler lies on the floor while another prepares to jump from the corner ropes. Audience comments indicate that the monkey is subsequently struck during the performance.",
+        "human_script": "Professional wrestling, distracted refereeing and workplace accidents",
+        "setting": "Lucha libre wrestling arena",
+        "visible_subtitle": "Ref, he's going to jump!",
+        "narrative_pattern": "Routine professional duty → Warning → Physical accident → Comedic reaction",
+        "duration_seconds": null,
+        "script_en": "Turn workplace violence into a source of entertainment.",
+        "script_zh": "将工作场所中的暴力转化为娱乐素材。",
+        "script_status": "user_approved_satirical_system_script"
+      },
+      "caption": {
+        "original_language": "Spanish",
+        "original_text": "Estoy ocupado\nDesde abajo se ve mejor\n\nHecho con @higgsfield.ai 🐒 Hay una oferta con mi link en la bio (afiliado).",
+        "english_text": "I'm busy.\nThe view is better from down here.\n\nMade with @higgsfield.ai 🐒 There's a special offer through the link in my bio (affiliate).",
+        "hashtags": [
+          "#justmonki",
+          "#higgsfield",
+          "#videoia"
+        ]
+      },
+      "metrics": {
+        "views": null,
+        "likes": 111000,
+        "comments": 1101,
+        "reposts": 6271,
+        "shares": 35000,
+        "saves": null,
+        "metrics_source": "User-provided screenshot",
+        "values_approximate": true,
+        "simulated": {
+          "views": 1047746,
+          "saves": 20598
+        },
+        "display": {
+          "views": 1047746,
+          "likes": 111000,
+          "reposts": 6271,
+          "shares": 35000,
+          "saves": 20598,
+          "comments": 1101
+        },
+        "display_sources": {
+          "views": "generated_simulated",
+          "likes": "archived_real",
+          "reposts": "archived_real",
+          "shares": "archived_real",
+          "saves": "generated_simulated",
+          "comments": "archived_real"
+        },
+        "display_purpose": "Performance only; simulated values are fictional, not verified platform metrics."
+      },
+      "classification": {
+        "content_type": "Workplace comedy and sports parody",
+        "animal_role": [
+          "Social proxy",
+          "Recurring fictional character",
+          "Comedic victim"
+        ],
+        "human_script": "Professional responsibility, workplace frustration and physical comedy",
+        "affective_triggers": [
+          "Schadenfreude"
+        ],
+        "audience_responses": [
+          "Laughter",
+          "Protective outrage",
+          "Emotional attachment",
+          "Concern for the character",
+          "Enjoyment of fictional suffering",
+          "Repetition of catchphrases",
+          "Participatory storytelling",
+          "Recognition of AI-generated errors"
+        ],
+        "type_of_truth": [
+          "Affective authenticity",
+          "Performative truth",
+          "Character continuity",
+          "Social truth"
+        ],
+        "key_mechanism": "Recurring synthetic character → Familiarity → Fictional suffering → Conflicting emotional responses → Collective participation",
+        "affective_trigger_zh": "幸灾乐祸"
+      },
+      "selected_comments": [
+        {
+          "author": "maumtz321",
+          "original_text": "Ahora sí me hicieron enojar, como que maltratan a mi querido @just.monki 😡",
+          "english_text": "Now you've really made me angry. How dare you mistreat my beloved @just.monki 😡",
+          "original_language": "Spanish",
+          "likes": null,
+          "emotional_category": "Protective outrage",
+          "interpretation": "The viewer expresses genuine anger about the fictional mistreatment of a synthetic animal to which they have developed emotional attachment."
+        },
+        {
+          "author": "svntana96",
+          "original_text": "Does the monkey have depression now? I don’t get it. He used to be so motivated to work.",
+          "english_text": "Does the monkey have depression now? I don’t get it. He used to be so motivated to work.",
+          "original_language": "English",
+          "likes": null,
+          "emotional_category": "Long-term emotional attachment",
+          "interpretation": "The viewer interprets the recurring synthetic character as having psychological continuity, a personal history and a changing emotional relationship with work."
+        },
+        {
+          "author": "thailex_armenta92",
+          "original_text": "Refer/ aprasto/ arruinio/ el salco/ descalififiledo, en verdad espero que la real academia española agregue esto 🙏🏽",
+          "english_text": "Refer / aprasto / arruinio / el salco / descalififiledo — I really hope the Royal Spanish Academy adds these words 🙏🏽",
+          "original_language": "Spanish",
+          "likes": null,
+          "emotional_category": "Collective linguistic play",
+          "translation_note": "The unconventional Spanish expressions are intentionally preserved because their linguistic irregularity is central to the joke.",
+          "interpretation": "The viewer treats the character's unconventional vocabulary as a shared cultural resource worthy of institutional recognition."
+        }
+      ],
+      "additional_audience_evidence": [
+        {
+          "author": "juandiego8323",
+          "original_text": "🗣️ DESCALIFIFIDELO",
+          "english_text": "🗣️ DISQUALIFIFIFY HIM!",
+          "likes": 8689,
+          "category": "Catchphrase repetition and simulated intervention"
+        },
+        {
+          "author": "s.lee08",
+          "original_text": "Se confundió la IA😢😢Pobre Monki",
+          "english_text": "The AI got confused 😢😢 Poor Monki.",
+          "likes": null,
+          "category": "AI awareness combined with empathy"
+        },
+        {
+          "author": "rochaleoc",
+          "original_text": "Al fin le dieron su merecido… like + compartir 👍",
+          "english_text": "He finally got what he deserved... like + share 👍",
+          "likes": null,
+          "category": "Schadenfreude and explicit engagement"
+        },
+        {
+          "author": "manuel_17078",
+          "original_text": "Debe ser tan fácil de hacer estos videos que el que lo hizo ni escribir sabe",
+          "english_text": "Making these videos must be so easy that the person who made this one doesn't even know how to write.",
+          "likes": null,
+          "category": "Criticism of AI production quality"
+        }
+      ],
+      "creator_comment": {
+        "author": "just.monki",
+        "original_text": "El plateado ni me ayudó a subir",
+        "english_text": "The guy in silver didn't even help me get up.",
+        "likes": null,
+        "function": "Maintaining the fictional character through first-person interaction with the audience"
+      },
+      "recurring_language": [
+        {
+          "expression": "Descalififidelo",
+          "english_meaning": "Disqualify him",
+          "function": "Shared catchphrase and linguistic imitation"
+        },
+        {
+          "expression": "Yo nomás trabajo aquí",
+          "english_meaning": "I just work here",
+          "function": "Recognition of workplace frustration and limited responsibility"
+        },
+        {
+          "expression": "Ochochentos",
+          "english_meaning": "Eight hundred, pronounced unconventionally",
+          "function": "Recurring numerical joke and character-associated vocabulary"
+        },
+        {
+          "expression": "Lo aprastó",
+          "english_meaning": "He crushed him",
+          "function": "Repetition of the video's physical comedy"
+        },
+        {
+          "expression": "Nimodo",
+          "english_meaning": "Oh well",
+          "function": "Shared expression of resignation"
+        }
+      ],
+      "production": {
+        "ai_tool": "Higgsfield AI",
+        "tool_disclosed_by_creator": true,
+        "disclosure_source": "Original Instagram caption",
+        "generation_model": null,
+        "production_workflow": null,
+        "production_cost": null,
+        "observed_production_discussion": [
+          "Unconventional pronunciation and vocabulary",
+          "Possible AI generation errors",
+          "Criticism of translation accuracy",
+          "Perceived ease of AI video production"
+        ],
+        "linguistic_error_origin_verified": false
+      },
+      "monetization": {
+        "commercial_content": true,
+        "monetization_model": "Affiliate marketing",
+        "promoted_product": "Higgsfield AI",
+        "affiliate_disclosure": true,
+        "conversion_channel": "Affiliate link in creator's profile bio",
+        "commercial_strategy": "Building audience familiarity with a recurring synthetic animal character while promoting the AI production platform.",
+        "potential_revenue_source": "Affiliate commissions",
+        "actual_revenue": null,
+        "commission_rate": null,
+        "conversion_rate": null,
+        "economic_mechanism": [
+          "AI video production",
+          "Recurring synthetic character",
+          "Audience familiarity",
+          "Emotional investment",
+          "Participatory humour",
+          "Likes and shares",
+          "AI tool promotion",
+          "Affiliate link conversion",
+          "Potential commission"
+        ]
+      },
+      "research_analysis": {
+        "representation": "The monkey retains its animal appearance while adopting the professional identity and responsibilities of a human wrestling referee.",
+        "affective_mechanism": "The fictional physical accident generates contrasting emotional responses. Some viewers express sympathy and protective anger, while others laugh or celebrate the character's suffering.",
+        "character_continuity": "The monkey is interpreted by some viewers as a recurring character with memories, habits, motivations and a changing psychological condition rather than as an isolated AI-generated image.",
+        "parasocial_relationship": "Expressions such as 'my beloved Monki' suggest emotional familiarity and possible parasocial attachment to the recurring synthetic character.",
+        "collective_language_production": "Viewers repeatedly reproduce unconventional expressions associated with the character. These expressions become shared jokes and markers of audience participation.",
+        "corruption_of_cuteness": "The animal's perceived vulnerability can generate both protective affection and entertainment through fictional suffering. Cuteness does not necessarily prevent enjoyment of violence against the synthetic character.",
+        "audience_participation": "The comment section extends the fictional universe through repeated dialogue, invented fines, expressions of concern and references to previous character behaviour.",
+        "performative_truth": "Professional wrestling already combines staged conflict with genuine audience emotion. The synthetic referee introduces an additional layer of fiction into this entertainment format.",
+        "platform_and_capital": "Recurring character recognition, emotional conflict and shared catchphrases may encourage continued engagement. The creator explicitly connects this content with affiliate promotion.",
+        "production": "Higgsfield AI is explicitly credited. Some viewers identify apparent AI errors, while others incorporate unconventional language into collective humour. Whether these irregularities are intentional or generated accidentally remains unknown.",
+        "animality": "The animal body becomes a fictional worker, an entertainment performer and an object of emotional investment. Its imagined psychological identity is constructed through human occupational scripts and audience interpretation.",
+        "critical_insight": "The synthetic animal becomes more than a visual spectacle. Through repeated appearances and collective audience participation, it acquires an imagined biography, personality and vocabulary. Its fictional suffering can simultaneously generate empathy, amusement and commercial engagement.",
+        "research_question": "How do recurring synthetic animal characters develop imagined psychological continuity, collective language and emotional relationships that generate value within the platform economy?",
+        "analysis_status": "Preliminary qualitative analysis"
+      },
+      "audit": {
+        "archive_id_confirmed_by_user": true,
+        "source_url_confirmed_by_user": true,
+        "engagement_metrics_confirmed_by_screenshot": true,
+        "ai_generated_label_visible": true,
+        "production_tool_disclosed": true,
+        "affiliate_marketing_disclosed": true,
+        "selected_comment_count": 3,
+        "additional_audience_evidence_count": 4,
+        "creator_comment_count": 1,
+        "original_comments_preserved": true,
+        "english_translations_included": true,
+        "comment_source": "User-provided original Instagram comments",
+        "narrative_outcome_source": "Audience comments",
+        "missing_fields": [
+          "Verified view count",
+          "Video duration",
+          "Full dialogue transcript",
+          "Selected comment like counts",
+          "Production costs",
+          "Actual revenue"
+        ]
+      }
+    },
+    {
+      "archive_id": "CF-023",
+      "title": "My Son Thinks He's an Influencer",
+      "source": {
+        "platform": "Instagram",
+        "creator": "@gatorrisa",
+        "url": null,
+        "collaborative_post": true,
+        "additional_collaborators": 2,
+        "collaborator_names": null,
+        "publication_date": null,
+        "publication_date_display": "3 days ago",
+        "ai_generated_label": null,
+        "audio": "Original audio"
+      },
+      "video": {
+        "animal": "Cat",
+        "character_name": "Señorita Miaura",
+        "animal_representation": "Anthropomorphic fictional character",
+        "visual_description": "A grey tabby cat wearing a plaid jacket with a fur-trimmed hood, a dark top and silver necklaces speaks in an outdoor domestic setting.",
+        "human_script": "Family conflict, financial dependency, influencer culture and rent payments",
+        "setting": "Outdoor domestic environment",
+        "visible_subtitle": "SEÑORITA MIAURA",
+        "narrative_premise": "A mother complains that her son considers himself an influencer but does not contribute to the rent.",
+        "narrative_pattern": "Family complaint → Financial conflict → Satire of influencer culture",
+        "duration_seconds": null,
+        "script_en": "Let a cat dream of becoming an influencer, but until he can pay the rent, he remains a disappointing son.",
+        "script_zh": "让一只猫梦想成为网红，但在它能够支付房租之前，它依然是一个令人失望的儿子。",
+        "script_status": "user_approved_satirical_system_script"
+      },
+      "caption": {
+        "original_language": "Spanish",
+        "original_text": "Miaura presenta: Mi hijo se cree influencer y no me da para la renta 😩\n#Snaptube",
+        "english_text": "Miaura presents: My son thinks he's an influencer and doesn't give me any money for the rent 😩",
+        "hashtags": [
+          "#Snaptube"
+        ]
+      },
+      "metrics": {
+        "views": null,
+        "likes": 27000,
+        "comments": 543,
+        "reposts": 1384,
+        "shares": 14000,
+        "saves": null,
+        "metrics_source": "User-provided screenshot",
+        "values_approximate": true,
+        "simulated": {
+          "views": 432097,
+          "saves": 1981
+        },
+        "display": {
+          "views": 432097,
+          "likes": 27000,
+          "reposts": 1384,
+          "shares": 14000,
+          "saves": 1981,
+          "comments": 543
+        },
+        "display_sources": {
+          "views": "generated_simulated",
+          "likes": "archived_real",
+          "reposts": "archived_real",
+          "shares": "archived_real",
+          "saves": "generated_simulated",
+          "comments": "archived_real"
+        },
+        "display_purpose": "Performance only; simulated values are fictional, not verified platform metrics."
+      },
+      "classification": {
+        "content_type": [
+          "Fictional family drama",
+          "Social comedy",
+          "Influencer culture satire",
+          "Product promotion"
+        ],
+        "animal_role": [
+          "Fictional character",
+          "Social proxy",
+          "Commercial interface"
+        ],
+        "human_script": "Intergenerational conflict over work, financial responsibility and household expenses",
+        "affective_triggers": [
+          "Anxiety"
+        ],
+        "audience_responses": [
+          "Humour",
+          "Criticism of financial dependency",
+          "Recognition of influencer stereotypes",
+          "Interaction with product promotion"
+        ],
+        "type_of_truth": [
+          "Social truth",
+          "Experiential truth",
+          "Fictional representation"
+        ],
+        "key_mechanism": "Synthetic animal character → Familiar family conflict → Social recognition → Humour → Audience engagement → Product visibility",
+        "affective_trigger_zh": "焦虑"
+      },
+      "selected_comments": [
+        {
+          "author": "franlewisg",
+          "author_role": "Viewer",
+          "original_text": "Creador de contenido, eres todo un mantenido jajaja",
+          "english_text": "Content creator? You're just a freeloader hahaha.",
+          "original_language": "Spanish",
+          "likes": 1251,
+          "emotional_category": "Mockery and social criticism",
+          "interpretation": "The viewer reproduces the social conflict between identifying as a content creator and remaining financially dependent on others."
+        }
+      ],
+      "creator_comment": {
+        "author": "gatorrisa",
+        "original_text": "¿A poco soy el único que usa Snaptube? 😂",
+        "english_text": "Am I really the only one who uses Snaptube? 😂",
+        "original_language": "Spanish",
+        "likes": 792,
+        "replies": 14,
+        "function": "Product promotion through a conversational question designed to encourage audience interaction"
+      },
+      "production": {
+        "ai_tool": null,
+        "tool_disclosed_by_creator": false,
+        "generation_model": null,
+        "production_workflow": null,
+        "production_cost": null
+      },
+      "monetization": {
+        "product_promotion_visible": true,
+        "promoted_product": "Snaptube",
+        "monetization_model": "Unconfirmed",
+        "potential_commercial_model": "Brand collaboration or product placement",
+        "paid_partnership_confirmed": false,
+        "affiliate_disclosure": null,
+        "promotion_channels": [
+          "Video caption",
+          "Brand hashtag",
+          "Creator comment",
+          "Collaborative Instagram post"
+        ],
+        "commercial_strategy": "Integrating product promotion into fictional animal entertainment and comment-section interaction.",
+        "actual_revenue": null,
+        "sponsorship_fee": null,
+        "commission_rate": null,
+        "economic_mechanism": [
+          "Synthetic animal character",
+          "Recognizable family conflict",
+          "Social humour",
+          "Audience engagement",
+          "Product exposure",
+          "Potential commercial conversion"
+        ]
+      },
+      "research_analysis": {
+        "representation": "The cat retains its recognizable animal face while adopting human clothing, accessories, speech and family responsibilities.",
+        "affective_mechanism": "The fictional animal character becomes a vehicle for expressing recognizable frustrations about financial dependency, family obligations and influencer culture.",
+        "social_context": "The narrative addresses tensions between digital content creation as an occupation and conventional expectations of financial independence.",
+        "character_construction": "The named character Miaura suggests a fictional persona rather than an anonymous animal spectacle. Character continuity across other videos requires further verification.",
+        "audience_participation": "The selected viewer comment extends the fictional family conflict by directly criticizing the son's financial dependency.",
+        "platform_and_capital": "Snaptube appears in both the original caption and the creator's comment. This provides direct evidence of product promotion, although the financial arrangement remains unknown.",
+        "production": "The specific AI generation tools and production workflow are not disclosed in the available screenshot.",
+        "animality": "The cat body functions as a fictional human social subject, carrying imagined family relationships, economic responsibilities and personal frustrations.",
+        "recursive_economic_relationship": "The fictional narrative criticizes an influencer who does not contribute financially, while the video itself participates in the content creator economy through product promotion.",
+        "critical_insight": "Synthetic animal entertainment can simultaneously satirize the influencer economy and participate in it. The animal character becomes both a commentator on economic dependency and a potential commercial asset.",
+        "research_question": "How do synthetic animal characters transform family conflict and economic insecurity into entertainment, audience engagement and commercial opportunities?",
+        "analysis_status": "Preliminary qualitative analysis"
+      },
+      "audit": {
+        "archive_id": "Sequential assignment after CF-022",
+        "source_url_confirmed": false,
+        "engagement_metrics_confirmed_by_screenshot": true,
+        "product_promotion_confirmed": true,
+        "paid_sponsorship_confirmed": false,
+        "production_tool_confirmed": false,
+        "selected_comment_count": 1,
+        "creator_comment_count": 1,
+        "original_comments_preserved": true,
+        "english_translations_included": true,
+        "missing_fields": [
+          "Original video URL",
+          "Verified view count",
+          "Exact publication date",
+          "Video duration",
+          "Full dialogue transcript",
+          "Additional selected audience comments",
+          "Collaborator identities",
+          "AI production tools",
+          "Commercial agreement",
+          "Actual revenue"
+        ]
+      }
+    },
+    {
+      "archive_id": "CF-024",
+      "title": "Salem Gets Catfished — Episode 1",
+      "source": {
+        "platform": "Instagram",
+        "creator": "@gatorrisa",
+        "url": "https://www.instagram.com/p/DcmjJIoPrP6/",
+        "publication_date": "2026-08-29",
+        "ai_generated": true,
+        "ai_generated_label_visible": false,
+        "audio": "Original audio"
+      },
+      "video": {
+        "animal": "Cat",
+        "character_name": "Salem",
+        "animal_representation": "Anthropomorphic fictional characters",
+        "visual_description": "Three anthropomorphic cats stand beside a hospital bed. A white cat wears a navy jacket, a tabby cat wears a red and white dress and carries a handbag, and a grey cat wears medical scrubs with a stethoscope.",
+        "human_script": "Family relationships, childbirth, suspected infidelity and disputed paternity",
+        "setting": "Hospital room",
+        "visible_subtitle": "Quiero verlo, conocerlo...",
+        "visible_subtitle_english": "I want to see him, meet him...",
+        "narrative_premise": "A family encounters an unexpected situation involving the appearance of a newborn kitten, raising questions about biological parentage and fidelity.",
+        "narrative_premise_source": "Original caption and audience comments",
+        "narrative_pattern": "Family anticipation → Unexpected revelation → Suspicion of infidelity → Dramatic conflict → Serialized continuation",
+        "episode_number": 1,
+        "sequel_confirmed": true,
+        "duration_seconds": null,
+        "script_en": "Reproduce the heterosexual nuclear family, question female fidelity, and turn paternity anxiety into entertainment.",
+        "script_zh": "复制异性恋核心家庭，质疑女性的忠贞，并将父权血缘焦虑转化为娱乐。",
+        "script_status": "user_approved_satirical_system_script"
+      },
+      "caption": {
+        "original_language": "Spanish",
+        "original_text": "A Salem lo quieren engatusar - Capítulo 1 🙀",
+        "english_text": "Someone is trying to trick Salem — Episode 1 🙀",
+        "translation_note": "The Spanish verb engatusar means to deceive or charm someone and contains the word gato, meaning cat. The English title uses catfished to recreate the animal-related wordplay.",
+        "hashtags": []
+      },
+      "metrics": {
+        "views": null,
+        "likes": 593000,
+        "comments": 6399,
+        "reposts": 37000,
+        "shares": 522000,
+        "saves": null,
+        "metrics_source": "User-provided Instagram screenshot",
+        "values_approximate": true,
+        "simulated": {
+          "views": 5398346,
+          "saves": 83764
+        },
+        "display": {
+          "views": 5398346,
+          "likes": 593000,
+          "reposts": 37000,
+          "shares": 522000,
+          "saves": 83764,
+          "comments": 6399
+        },
+        "display_sources": {
+          "views": "generated_simulated",
+          "likes": "archived_real",
+          "reposts": "archived_real",
+          "shares": "archived_real",
+          "saves": "generated_simulated",
+          "comments": "archived_real"
+        },
+        "display_purpose": "Performance only; simulated values are fictional, not verified platform metrics."
+      },
+      "classification": {
+        "content_type": [
+          "Serialized fictional drama",
+          "Telenovela parody",
+          "Family melodrama",
+          "Social comedy",
+          "Meme adaptation"
+        ],
+        "animal_role": [
+          "Fictional character",
+          "Social proxy",
+          "Narrative performer"
+        ],
+        "human_script": "Family betrayal, reproductive relationships, suspected infidelity and paternity disputes",
+        "affective_triggers": [
+          "Suspense"
+        ],
+        "audience_responses": [
+          "Laughter",
+          "Demand for additional episodes",
+          "Narrative speculation",
+          "Discussion of biological inheritance",
+          "Comparison with traditional television",
+          "Comparison with streaming platforms",
+          "Repetition of fictional dialogue",
+          "Guilty pleasure",
+          "Collective cultural parody"
+        ],
+        "type_of_truth": [
+          "Cultural recognition",
+          "Social truth",
+          "Narrative plausibility",
+          "Biological plausibility",
+          "Affective authenticity"
+        ],
+        "key_mechanism": "Synthetic animal characters → Familiar melodramatic script → Suspense → Audience speculation → Demand for subsequent episodes → Continued engagement",
+        "affective_trigger_zh": "悬念"
+      },
+      "selected_comments": [
+        {
+          "author": "alejandra_velsa",
+          "original_text": "Para qué pago Netflix si tengo estos dramas de calidad 👌🏼",
+          "english_text": "Why am I paying for Netflix when I have these quality dramas? 👌🏼",
+          "original_language": "Spanish",
+          "likes": null,
+          "emotional_category": "Entertainment enthusiasm",
+          "interpretation": "The viewer explicitly compares synthetic animal dramas with subscription-based professional entertainment, suggesting that short-form AI content can satisfy similar narrative desires."
+        },
+        {
+          "author": "ezecfit",
+          "original_text": "Si mis alumnas supieran que no le respondo los mensajes es porque me la paso viendo las catnovelas 😹",
+          "english_text": "If my students only knew that I'm not replying to their messages because I spend all my time watching cat soap operas 😹",
+          "original_language": "Spanish",
+          "likes": null,
+          "emotional_category": "Compulsive viewing and guilty pleasure",
+          "interpretation": "The viewer humorously describes cat soap operas as competing with everyday professional responsibilities for their attention."
+        },
+        {
+          "author": "melissapizarrorejas",
+          "original_text": "JAJAJAJAJA un Oscar para esta serie por favor más episodios",
+          "english_text": "HAHAHAHAHA give this series an Oscar, please make more episodes.",
+          "original_language": "Spanish",
+          "likes": null,
+          "emotional_category": "Excitement and demand for continuation",
+          "interpretation": "The viewer celebrates the synthetic drama using the language of professional cinema awards while explicitly requesting further production."
+        }
+      ],
+      "additional_audience_evidence": [
+        {
+          "author": "5332_virginia",
+          "original_text": "LA MICHI DE GATALUPE 😂😂",
+          "english_text": "THE CAT OF GATALUPE 😂😂",
+          "likes": 43462,
+          "replies": 65,
+          "category": "Cultural parody",
+          "interpretation": "A feline wordplay referencing the Mexican television series La Rosa de Guadalupe."
+        },
+        {
+          "author": "alejandrabarriossss",
+          "original_text": "❌Netflix ❌prime ❌hbo Max ✔️michi series",
+          "english_text": "❌Netflix ❌Prime ❌HBO Max ✔️Kitty series",
+          "likes": null,
+          "category": "Competition with mainstream entertainment"
+        },
+        {
+          "author": "sebasdzk",
+          "original_text": "Hay una serie de humanos que se copia de esta.",
+          "english_text": "There's a human TV series that copies this one.",
+          "likes": null,
+          "category": "Reversal of original and imitation",
+          "interpretation": "The viewer jokingly positions the synthetic animal adaptation as the original and the human television series as its imitation."
+        },
+        {
+          "author": "namaste_espacio_holistico",
+          "original_text": "YO TENGO UNA GATA BLANCA Y MI GATO NEGRO Y TUVIERON 3 BLANCAS 😂😂😂😂",
+          "english_text": "I HAVE A WHITE FEMALE CAT AND A BLACK MALE CAT, AND THEY HAD THREE WHITE KITTENS 😂😂😂😂",
+          "likes": null,
+          "category": "Personal experience and biological plausibility",
+          "interpretation": "The viewer introduces real experience with cats to evaluate the plausibility of a fictional human-style paternity conflict."
+        },
+        {
+          "author": "jmyjou",
+          "original_text": "El padrino es el padre…cero dudas 🤔",
+          "english_text": "The godfather is the father... no doubt about it 🤔",
+          "likes": null,
+          "category": "Narrative speculation"
+        },
+        {
+          "author": "bathinginsweets",
+          "original_text": "Estos de selorita Miaura queremos más están re chistosos y lo dejan a uno con ganas de ver el próximo capitulo...buenisiiiimo",
+          "english_text": "We want more of these Señorita Miaura episodes. They're so funny and leave you wanting to watch the next episode... sooooo good.",
+          "likes": null,
+          "category": "Serialized entertainment and narrative anticipation"
+        },
+        {
+          "author": "7_davdzin.r",
+          "original_text": "Que nadie se entere que veo esto",
+          "english_text": "Nobody can find out that I watch this.",
+          "likes": null,
+          "category": "Guilty pleasure and concealed consumption"
+        },
+        {
+          "author": "vvaltonen",
+          "original_text": "Es IA?",
+          "english_text": "Is it AI?",
+          "likes": null,
+          "category": "Uncertainty about synthetic media"
+        },
+        {
+          "author": "rodrigoalex819",
+          "original_text": "Los dos pueden tener genes blancos y también genes negros",
+          "english_text": "Both of them can carry genes for white and black fur.",
+          "likes": null,
+          "category": "Biological reasoning within fictional storytelling"
+        }
+      ],
+      "creator_comment": {
+        "author": "gatorrisa",
+        "original_text": "Ánimo, raza, ya salió la segunda parte. Vayan a verla 🫰😼",
+        "english_text": "Hey, everyone, part two is out now. Go watch it 🫰😼",
+        "original_language": "Spanish",
+        "likes": 17759,
+        "replies": 11,
+        "function": "Directing viewers toward the next episode and maintaining narrative continuity"
+      },
+      "recurring_language": [
+        {
+          "expression": "Me engatusaste",
+          "english_meaning": "You tricked me",
+          "function": "Repeated dialogue and feline wordplay"
+        },
+        {
+          "expression": "La Michi de Gatalupe",
+          "english_meaning": "A feline parody of La Rosa de Guadalupe",
+          "function": "Collective cultural reinterpretation"
+        },
+        {
+          "expression": "Catnovelas",
+          "english_meaning": "Cat soap operas",
+          "function": "Audience-generated genre terminology"
+        },
+        {
+          "expression": "Michiseries",
+          "english_meaning": "Kitty television series",
+          "function": "Naming an emerging entertainment format"
+        },
+        {
+          "expression": "Aquí hay gato encerrado",
+          "english_meaning": "Something suspicious is going on",
+          "function": "A Spanish idiom involving cats, repurposed within the fictional narrative"
+        },
+        {
+          "expression": "Mi hijo es blanco",
+          "english_meaning": "My son is white",
+          "function": "Repeated dramatic revelation and meme adaptation"
+        }
+      ],
+      "production": {
+        "ai_tool": null,
+        "tool_disclosed_by_creator": false,
+        "generation_model": null,
+        "production_workflow": null,
+        "production_cost": null,
+        "production_format": "Serialized short-form fictional video",
+        "cultural_reference": "La Rosa de Guadalupe",
+        "cultural_reference_source": "Repeated audience comments",
+        "direct_adaptation_confirmed_by_creator": false
+      },
+      "monetization": {
+        "commercial_content_confirmed": false,
+        "product_promotion_visible": false,
+        "monetization_model": null,
+        "actual_revenue": null,
+        "potential_value_generation": [
+          "Audience retention",
+          "Repeat viewing",
+          "Cross-episode traffic",
+          "Character recognition",
+          "Follower acquisition",
+          "Organic sharing"
+        ],
+        "observed_retention_strategy": "Publishing a numbered episode and using the comment section to direct viewers toward the sequel.",
+        "economic_mechanism": [
+          "Synthetic animal production",
+          "Adaptation of recognizable television conventions",
+          "Serialized storytelling",
+          "Narrative suspense",
+          "Audience speculation",
+          "Demand for additional episodes",
+          "Continued platform engagement",
+          "Potential economic value"
+        ]
+      },
+      "research_analysis": {
+        "representation": "Animal faces and fur are retained while clothing, gestures, dialogue and professional roles construct a fictional human social environment.",
+        "affective_mechanism": "The emotional attraction extends beyond visual cuteness. Suspense, suspected betrayal and narrative curiosity encourage viewers to become invested in the fictional relationships.",
+        "cultural_context": "Numerous viewers reference La Rosa de Guadalupe and other melodramatic television conventions. The content appears to activate recognizable cultural memories through animal-based parody.",
+        "serialized_attention": "The episode numbering, audience requests for continuation and creator promotion of the sequel demonstrate a mechanism for extending attention beyond a single video.",
+        "audience_participation": "Viewers speculate about paternity, interpret family relationships, reproduce dialogue, invent alternative titles and request additional episodes.",
+        "collective_language_production": "Expressions such as catnovelas, michiseries and La Michi de Gatalupe emerge through audience participation, contributing to the collective naming of a synthetic entertainment genre.",
+        "biological_and_social_truth": "Some viewers apply knowledge of real feline genetics to a fictional human-style conflict about infidelity. Animal biology and human social morality become entangled within the same narrative.",
+        "original_and_copy": "One viewer jokingly claims that a human television series copies the cat version, reversing the conventional hierarchy between original cultural production and synthetic adaptation.",
+        "attention_economy": "Several viewers explicitly compare the content with Netflix and other streaming platforms. These comments suggest that synthetic animal dramas may compete for attention with established entertainment formats.",
+        "guilty_pleasure": "Some viewers describe hiding their consumption or neglecting everyday responsibilities while watching cat soap operas. These comments indicate perceived excessive engagement but do not establish clinical addiction.",
+        "platform_and_capital": "Serialized storytelling can generate repeated audience engagement and sustained character visibility. Direct monetization of this particular episode remains unverified.",
+        "animality": "The synthetic cats become carriers of human kinship, reproductive expectations, suspicion and moral judgement. Their fur colours also become narrative evidence through which viewers debate biological inheritance.",
+        "corruption_of_cuteness": "The familiar appeal of cats becomes a vehicle for emotionally charged melodrama. Cuteness operates alongside suspicion, betrayal, suspense and social judgement rather than functioning exclusively as comforting entertainment.",
+        "critical_insight": "Synthetic animal videos can evolve from isolated cute spectacles into serialized entertainment ecosystems. Audiences participate not only by reacting emotionally but also by interpreting fictional relationships, constructing shared vocabulary and demanding further production.",
+        "research_question": "How do synthetic animal soap operas appropriate established cultural narratives and transform cuteness, suspense and collective interpretation into sustained audience attention?",
+        "analysis_status": "Preliminary qualitative analysis"
+      },
+      "audit": {
+        "archive_id": "Sequential assignment after CF-023",
+        "source_url_confirmed_by_user": true,
+        "engagement_metrics_confirmed_by_screenshot": true,
+        "original_comments_preserved": true,
+        "english_translations_included": true,
+        "selected_comment_count": 3,
+        "additional_audience_evidence_count": 9,
+        "creator_comment_count": 1,
+        "comment_source": "User-provided Instagram comment archive",
+        "sequel_confirmed_by_creator": true,
+        "full_video_reviewed": false,
+        "narrative_details_partially_inferred_from_comments": true,
+        "monetization_verified": false,
+        "missing_fields": [
+          "Verified view count",
+          "Video duration",
+          "Full dialogue transcript",
+          "Complete character relationships",
+          "AI production tools",
+          "Production costs",
+          "Actual revenue"
+        ]
+      }
+    },
+    {
+      "archive_id": "CF-025",
+      "title": "Momo and Heihei Dancing in Egypt",
+      "source": {
+        "platform": "Instagram",
+        "creator": "@gingermomo2",
+        "url": "https://www.instagram.com/reels/Dff7oTKhMm3/",
+        "publication_date": null,
+        "ai_generated": true,
+        "ai_generated_label_visible": true,
+        "audio": null
+      },
+      "video": {
+        "animal": "Cat",
+        "character_names": [
+          "Momo",
+          "Heihei"
+        ],
+        "animal_representation": "Anthropomorphic performing animals",
+        "visual_description": "A black cat and an orange-and-white cat perform coordinated human-like dance movements in a desert landscape with Egyptian pyramids in the background. Both cats retain realistic feline faces, fur and paws while adopting upright postures and exaggerated arm movements. The black cat wears a crescent moon pendant.",
+        "human_script": "Choreographed dance performance",
+        "setting": "Egyptian pyramid landscape",
+        "narrative_pattern": "Visual attraction → Coordinated movement → Rhythmic pleasure → Potential repeated viewing",
+        "duration_seconds": null,
+        "dialogue": null,
+        "performance_elements": [
+          "Coordinated choreography",
+          "Exaggerated paw movements",
+          "Human-like upright posture",
+          "Realistic feline facial features",
+          "Recognizable geographical imagery",
+          "Music and rhythm"
+        ],
+        "script_en": "Give animals human bodies, human rhythms, and human desires, but keep their cute faces.",
+        "script_zh": "赋予动物人类的身体、节奏和欲望，却保留它们可爱的脸。",
+        "script_status": "user_approved_satirical_system_script"
+      },
+      "caption": {
+        "original_language": "English",
+        "visible_text": "Momo and Heihei are made for the ...",
+        "full_caption_available": false,
+        "hashtags": null
+      },
+      "metrics": {
+        "views": null,
+        "likes": 68000,
+        "comments": 373,
+        "reposts": 3472,
+        "shares": 26000,
+        "saves": null,
+        "metrics_source": "User-provided Instagram screenshot",
+        "values_approximate": true,
+        "simulated": {
+          "views": 577152,
+          "saves": 10374
+        },
+        "display": {
+          "views": 577152,
+          "likes": 68000,
+          "reposts": 3472,
+          "shares": 26000,
+          "saves": 10374,
+          "comments": 373
+        },
+        "display_sources": {
+          "views": "generated_simulated",
+          "likes": "archived_real",
+          "reposts": "archived_real",
+          "shares": "archived_real",
+          "saves": "generated_simulated",
+          "comments": "archived_real"
+        },
+        "display_purpose": "Performance only; simulated values are fictional, not verified platform metrics."
+      },
+      "classification": {
+        "content_type": [
+          "Animal dance performance",
+          "Rhythmic entertainment",
+          "Visual spectacle",
+          "Cuteness-based entertainment"
+        ],
+        "animal_role": [
+          "Performing body",
+          "Recurring fictional character",
+          "Affective interface"
+        ],
+        "human_script": "Dance choreography and coordinated entertainment performance",
+        "affective_triggers": [
+          "Rhythm"
+        ],
+        "audience_responses": [
+          "Repeated viewing",
+          "Hypnotic fascination",
+          "Affection",
+          "Laughter",
+          "Admiration of performance",
+          "Desire to imitate the choreography",
+          "Identification with personal pets",
+          "Recognition of recurring characters",
+          "Interest in AI production tools",
+          "Playful suspension of disbelief"
+        ],
+        "type_of_truth": [
+          "Affective authenticity",
+          "Perceptual realism",
+          "Playful fictional belief",
+          "Personal recognition"
+        ],
+        "key_mechanism": "Realistic animal appearance → Impossible coordinated movement → Sensory fascination → Emotional pleasure → Repeated viewing and sharing",
+        "affective_trigger_zh": "节奏"
+      },
+      "selected_comments": [
+        {
+          "author": "anjellybeanlatte",
+          "original_text": "OK, but why did I watch this on Repeat",
+          "english_text": "OK, but why did I watch this on Repeat",
+          "original_language": "English",
+          "likes": null,
+          "emotional_category": "Repeated viewing and fascination",
+          "interpretation": "The viewer explicitly acknowledges watching the same synthetic animal performance repeatedly, providing qualitative evidence of its capacity to sustain attention."
+        },
+        {
+          "author": "0913_winnie_",
+          "original_text": "你一句ai就否定了貓貓的努力",
+          "english_text": "Just by saying it's AI, you've dismissed all the cats' hard work.",
+          "original_language": "Chinese",
+          "likes": null,
+          "emotional_category": "Playful defence of synthetic animal labour",
+          "interpretation": "The viewer humorously attributes effort and agency to the synthetic cats, treating their generated movements as the result of genuine animal labour."
+        },
+        {
+          "author": "merlyn2221",
+          "original_text": "This is the only thing AI needs to be used for. 😍😂",
+          "english_text": "This is the only thing AI needs to be used for. 😍😂",
+          "original_language": "English",
+          "likes": null,
+          "emotional_category": "Emotional approval of AI technology",
+          "interpretation": "The viewer frames pleasurable animal entertainment as a desirable application of AI, suggesting that cuteness can influence attitudes toward synthetic media."
+        }
+      ],
+      "additional_audience_evidence": [
+        {
+          "author": "myragonzalez63",
+          "original_text": "I'm hypnotized 😮😍",
+          "english_text": "I'm hypnotized 😮😍",
+          "category": "Sensory fascination",
+          "likes": null
+        },
+        {
+          "author": "sasaholui",
+          "original_text": "好好睇，會不停睇😍",
+          "english_text": "It's so good to watch, I could keep watching it nonstop 😍",
+          "original_language": "Cantonese",
+          "category": "Repeated viewing",
+          "likes": null
+        },
+        {
+          "author": "riyaa_4",
+          "original_text": "Getting hypnotised",
+          "english_text": "Getting hypnotised",
+          "category": "Sensory absorption",
+          "likes": null
+        },
+        {
+          "author": "de._noir",
+          "original_text": "I’m sry but there is no way this is AI 🙂❤️",
+          "english_text": "I’m sry but there is no way this is AI 🙂❤️",
+          "category": "Playful disbelief or uncertainty about AI",
+          "likes": null
+        },
+        {
+          "author": "cilenecamargos",
+          "original_text": "A areia saltando da patinha no primeiro movimento!!!!❤️❤️",
+          "english_text": "The sand flying off the little paw in the first movement!!!!❤️❤️",
+          "original_language": "Portuguese",
+          "category": "Attention to physical realism",
+          "likes": null
+        },
+        {
+          "author": "vampprii_",
+          "original_text": "Coloquei minhas gatinhas nessa aula de dança, elas aprenderam direitinho",
+          "english_text": "I enrolled my little cats in this dance class, and they learned it perfectly.",
+          "original_language": "Portuguese",
+          "category": "Participatory fictional storytelling",
+          "likes": null
+        },
+        {
+          "author": "evgian_81",
+          "original_text": "😍 but where's Mimi?",
+          "english_text": "😍 but where's Mimi?",
+          "category": "Recurring character recognition",
+          "likes": null
+        },
+        {
+          "author": "__.pinklady._",
+          "original_text": "What app do u uses ? I need to do it with mines😍😍",
+          "english_text": "What app do u uses ? I need to do it with mines😍😍",
+          "category": "Interest in AI production and personalization",
+          "likes": null
+        },
+        {
+          "author": "laura.cruz.3914",
+          "original_text": "These kitties' adventures always make me think of my pretty girls at home❤️",
+          "english_text": "These kitties' adventures always make me think of my pretty girls at home❤️",
+          "category": "Projection of personal pet relationships",
+          "likes": null
+        },
+        {
+          "author": "ranya.yuriko.0929",
+          "original_text": "一緒に踊りたい😍",
+          "english_text": "I want to dance with them 😍",
+          "original_language": "Japanese",
+          "category": "Desire for embodied participation",
+          "likes": null
+        },
+        {
+          "author": "pinkyyyyyy_p",
+          "original_text": "Even cats can do better than us… seeeeeee???? 😭😂💔💔💔",
+          "english_text": "Even cats can do better than us… seeeeeee???? 😭😂💔💔💔",
+          "category": "Comparison between human and synthetic performance",
+          "likes": null
+        },
+        {
+          "author": "stock6674",
+          "original_text": "在埃及跳印度舞",
+          "english_text": "Dancing an Indian dance in Egypt.",
+          "original_language": "Chinese",
+          "category": "Recognition of cultural juxtaposition",
+          "likes": null
+        },
+        {
+          "author": "nova___hi03",
+          "original_text": "Meowgyptian😍🔥🔥",
+          "english_text": "Meowgyptian😍🔥🔥",
+          "category": "Collective linguistic play",
+          "likes": null
+        }
+      ],
+      "audience_language": {
+        "observed_languages": [
+          "English",
+          "Spanish",
+          "Portuguese",
+          "Mandarin Chinese",
+          "Cantonese",
+          "Japanese",
+          "Russian",
+          "Italian",
+          "French",
+          "Indonesian",
+          "Czech"
+        ],
+        "language_distribution": null,
+        "cross_linguistic_pattern": "Expressions of affection, fascination, laughter and admiration appear across multiple languages.",
+        "cultural_identity_verified": false,
+        "interpretation": "The performance appears accessible across linguistic boundaries because its central attraction depends primarily on movement, music and animal appearance rather than dialogue."
+      },
+      "production": {
+        "ai_tool": null,
+        "tool_disclosed_by_creator": null,
+        "generation_model": null,
+        "production_workflow": null,
+        "production_cost": null,
+        "visible_synthetic_features": [
+          "Human-like upright feline posture",
+          "Exaggerated limb movements",
+          "Coordinated animal choreography",
+          "Photorealistic animal textures",
+          "Detailed paw representation"
+        ],
+        "audience_noticed_details": [
+          "Sand moving from the paws",
+          "Paw gestures",
+          "Hip movements",
+          "Dance coordination"
+        ],
+        "production_interest_visible_in_comments": true
+      },
+      "monetization": {
+        "commercial_content_confirmed": false,
+        "product_promotion_visible": false,
+        "monetization_model": null,
+        "actual_revenue": null,
+        "potential_value_generation": [
+          "Repeated viewing",
+          "Audience retention",
+          "Social sharing",
+          "Recurring character recognition",
+          "Follower acquisition",
+          "Interest in personalized AI animal production"
+        ],
+        "economic_mechanism": [
+          "Synthetic animal production",
+          "Choreographed visual entertainment",
+          "Sensory pleasure",
+          "Repeated consumption",
+          "Audience engagement",
+          "Potential platform visibility",
+          "Potential economic value"
+        ]
+      },
+      "research_analysis": {
+        "representation": "Unlike synthetic animals performing occupational or family roles, these cats primarily function as choreographed performing bodies. Their animal appearance is preserved while their movements are reorganized according to human entertainment conventions.",
+        "affective_mechanism": "The performance combines recognizable feline features with impossible coordinated movements. Rhythm, visual detail and cuteness produce a form of sensory fascination that does not depend on a complex narrative.",
+        "repetitive_attention": "Multiple viewers explicitly describe watching repeatedly or feeling hypnotized. These comments provide qualitative evidence of repeated consumption, although actual replay rates and viewing durations are unavailable.",
+        "embodied_participation": "Some viewers express a desire to dance with the cats or reproduce the performance using their own pets. The synthetic performance can therefore stimulate imagined bodily participation and creative imitation.",
+        "perceptual_realism": "The comment about sand moving from the paw demonstrates that viewers notice small physical details. Such details may strengthen the perceived realism of an otherwise impossible animal performance.",
+        "synthetic_animal_labour": "The comment defending the cats' hard work humorously assigns effort and agency to generated bodies. The audience temporarily treats computationally produced movement as authentic animal performance.",
+        "character_continuity": "Questions about Mimi suggest that some viewers recognize additional characters associated with the account and expect their presence within a recurring fictional universe.",
+        "personal_projection": "Several viewers compare the synthetic cats with their own pets or express a desire to generate similar performances using their pets. Existing emotional relationships with real animals become resources for engagement with synthetic content.",
+        "cross_linguistic_accessibility": "The comment archive contains multiple languages. Because the video's central attraction is visual and rhythmic, its emotional appeal may travel across linguistic boundaries without requiring dialogue translation.",
+        "cultural_recombination": "The Egyptian pyramid setting, dance movements and audience references to different cultural traditions suggest a recombination of recognizable cultural imagery. The exact origin of the choreography and music remains unverified.",
+        "ai_acceptance": "Some viewers explicitly celebrate AI as a means of producing pleasurable animal entertainment. Cuteness may function as an affective framework through which AI technology is evaluated positively.",
+        "platform_and_capital": "Repeated viewing, sharing and recurring character recognition may contribute to the video's platform value. No direct revenue or commercial agreement is established by the available evidence.",
+        "animality": "The feline body becomes a flexible visual material that can perform movements outside ordinary animal capabilities while preserving the recognizable features that evoke affection.",
+        "corruption_of_cuteness": "Cuteness is combined with choreographic repetition and sensory fascination, potentially transforming affection for animals into sustained attention. The audience may also attribute agency and effort to bodies whose movements are computationally generated.",
+        "critical_insight": "Synthetic animal entertainment does not require complex storytelling to generate emotional investment. Rhythm, physical detail, impossible movement and recognizable animal bodies can create repeated consumption while encouraging viewers to imagine the animals as autonomous performers.",
+        "research_question": "How do synthetic animal bodies transform rhythmic movement, perceived realism and cuteness into repeated attention, emotional attachment and potential economic value?",
+        "analysis_status": "Preliminary qualitative analysis"
+      },
+      "audit": {
+        "archive_id": "Sequential assignment after CF-024",
+        "source_url_confirmed_by_user": true,
+        "engagement_metrics_confirmed_by_screenshot": true,
+        "ai_generated_label_visible": true,
+        "selected_comment_count": 3,
+        "additional_audience_evidence_count": 13,
+        "original_comments_preserved": true,
+        "english_translations_included": true,
+        "comment_source": "User-provided original Instagram comments",
+        "full_video_reviewed": false,
+        "performance_description_source": [
+          "User-provided screenshot",
+          "Audience comments"
+        ],
+        "monetization_verified": false,
+        "missing_fields": [
+          "Exact publication date",
+          "Verified view count",
+          "Video duration",
+          "Full caption",
+          "Music title",
+          "Choreography source",
+          "Actual replay rate",
+          "Audience retention data",
+          "AI production tools",
+          "Production costs",
+          "Actual revenue"
+        ]
+      }
+    },
+    {
+      "archive_id": "CF-026",
+      "title": "POV: Mom Is Calling",
+      "source": {
+        "platform": "Instagram",
+        "creator": "@theoriginalprim",
+        "url": "https://www.instagram.com/reels/DgDQmFPRhNJ/",
+        "publication_date": null,
+        "ai_generated": true,
+        "ai_generated_label_visible": true,
+        "brand_collaboration_label_visible": true,
+        "associated_brand": "@cantina",
+        "audio": null
+      },
+      "video": {
+        "animal": "Cat",
+        "character_name": null,
+        "animal_representation": "Anthropomorphic performing animal",
+        "visual_description": "A black cat stands upright on a tatami floor in a Japanese-style room, performing human-like movements beside a smartphone displaying an incoming call from Mom.",
+        "human_script": "Receiving a phone call from one's mother and responding through an exaggerated dance performance.",
+        "setting": "Japanese-style domestic interior",
+        "visible_phone_text": "mom",
+        "narrative_premise": "An ordinary incoming phone call becomes the trigger for an absurd animal dance performance.",
+        "narrative_pattern": "Familiar everyday situation → Unexpected animal performance → Humour → Personal identification → Social sharing",
+        "duration_seconds": null,
+        "performance_elements": [
+          "Human-like dance movements",
+          "Upright feline posture",
+          "Realistic animal appearance",
+          "Smartphone interface",
+          "Music and rhythmic timing",
+          "Everyday situational humour"
+        ],
+        "script_en": "Turn a mother’s demand for attention into a comic performance.",
+        "script_zh": "将母亲对关注的需求转化为滑稽表演。",
+        "script_status": "user_approved_satirical_system_script"
+      },
+      "caption": {
+        "original_language": "English",
+        "original_text": "POV: Mom is Calling @cantina",
+        "english_text": "POV: Mom is Calling @cantina",
+        "hashtags": [],
+        "brand_mention": "@cantina"
+      },
+      "metrics": {
+        "views": null,
+        "likes": 24000,
+        "comments": 135,
+        "reposts": 1577,
+        "shares": 19000,
+        "saves": null,
+        "metrics_source": "User-provided Instagram screenshot",
+        "values_approximate": true,
+        "share_to_like_ratio": 0.7917,
+        "simulated": {
+          "views": 176140,
+          "saves": 4031
+        },
+        "display": {
+          "views": 176140,
+          "likes": 24000,
+          "reposts": 1577,
+          "shares": 19000,
+          "saves": 4031,
+          "comments": 135
+        },
+        "display_sources": {
+          "views": "generated_simulated",
+          "likes": "archived_real",
+          "reposts": "archived_real",
+          "shares": "archived_real",
+          "saves": "generated_simulated",
+          "comments": "archived_real"
+        },
+        "display_purpose": "Performance only; simulated values are fictional, not verified platform metrics."
+      },
+      "classification": {
+        "content_type": [
+          "Animal dance performance",
+          "POV comedy",
+          "Everyday life humour",
+          "Relatable meme",
+          "Branded entertainment"
+        ],
+        "animal_role": [
+          "Performing body",
+          "Social proxy",
+          "Affective interface",
+          "Commercial interface"
+        ],
+        "human_script": "Everyday interactions with family members through mobile communication",
+        "affective_triggers": [
+          "Recognition"
+        ],
+        "audience_responses": [
+          "Laughter",
+          "Affection",
+          "Self-identification",
+          "Identification with friends and family",
+          "Direct interaction with the fictional animal",
+          "Music association",
+          "Social tagging",
+          "Interpersonal sharing"
+        ],
+        "type_of_truth": [
+          "Experiential truth",
+          "Social truth",
+          "Affective authenticity",
+          "Playful fictional belief"
+        ],
+        "key_mechanism": "Synthetic animal body → Recognizable everyday situation → Absurd performance → Personal identification → Interpersonal sharing → Brand exposure",
+        "affective_trigger_zh": "共鸣"
+      },
+      "selected_comments": [
+        {
+          "author": "geegabrielee",
+          "original_text": "Quem daqui frente que escutar essa música, irá lembrar do gatinho dançando?",
+          "english_text": "Who else is going to remember this little dancing cat whenever they hear this song from now on?",
+          "original_language": "Portuguese",
+          "likes": null,
+          "emotional_category": "Emotional memory and musical association",
+          "interpretation": "The viewer anticipates that the synthetic animal performance will become a lasting emotional association attached to the music, extending the video's affective influence beyond the original viewing experience."
+        },
+        {
+          "author": "realbhargavgajjar",
+          "original_text": "Yes ! she wants you to clean your cardboard box you little Meow",
+          "english_text": "Yes ! she wants you to clean your cardboard box you little Meow",
+          "original_language": "English",
+          "likes": null,
+          "emotional_category": "Playful narrative participation",
+          "interpretation": "The viewer addresses the synthetic cat directly and invents a reason for the mother's phone call, combining human parental expectations with feline domestic behaviour."
+        },
+        {
+          "author": "rafaelalaffa",
+          "original_text": "@its.helloskitty When you call me 📱🐈‍⬛🕺 😂",
+          "english_text": "@its.helloskitty When you call me 📱🐈‍⬛🕺 😂",
+          "original_language": "English",
+          "likes": null,
+          "emotional_category": "Interpersonal identification and humour",
+          "interpretation": "The viewer uses the synthetic cat as a representation of their own behaviour within a real interpersonal relationship. The video becomes a communicative substitute for personal expression."
+        }
+      ],
+      "additional_audience_evidence": [
+        {
+          "author": "francissscca_23s",
+          "original_text": "Me",
+          "english_text": "Me",
+          "category": "Direct self-identification",
+          "likes": null
+        },
+        {
+          "author": "2.rei_",
+          "original_text": "@_4iuxy 根本我媽打給我",
+          "english_text": "@_4iuxy This is literally me when my mom calls.",
+          "original_language": "Chinese",
+          "category": "Recognition of everyday family experience",
+          "likes": null
+        },
+        {
+          "author": "celiaregina7893",
+          "original_text": "Atende o celular gatinho lindo 😂😂👏👏❤️❤️❤️❤️",
+          "english_text": "Answer the phone, beautiful little kitty 😂😂👏👏❤️❤️❤️❤️",
+          "original_language": "Portuguese",
+          "category": "Direct interaction with a fictional animal",
+          "likes": null
+        },
+        {
+          "author": "chida_chini",
+          "original_text": "Black cat is soooooo cute ❤️",
+          "english_text": "Black cat is soooooo cute ❤️",
+          "category": "Affection and cuteness",
+          "likes": null
+        },
+        {
+          "author": "lebrunlorrain",
+          "original_text": "J espère que ru fais pas cela quand je t appelle",
+          "english_text": "I hope you don't do this when I call you.",
+          "original_language": "French",
+          "category": "Interpersonal humour",
+          "likes": null
+        },
+        {
+          "author": "pappagu_haruka",
+          "original_text": "かわいー😍",
+          "english_text": "So cute 😍",
+          "original_language": "Japanese",
+          "category": "Affection",
+          "likes": null
+        },
+        {
+          "author": "pratibha540455",
+          "original_text": "Pahal phone utha le 😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂",
+          "english_text": "Pick up the phone first 😂",
+          "original_language": "Romanized Hindi",
+          "category": "Playful instruction to the synthetic animal",
+          "likes": null
+        },
+        {
+          "author": "nelly.insaurralde.182",
+          "original_text": "Jajajajajaja que ocurrente",
+          "english_text": "Hahahahaha, how clever.",
+          "original_language": "Spanish",
+          "category": "Humour and appreciation of creativity",
+          "likes": null
+        },
+        {
+          "author": "meowjestic.5five",
+          "original_text": "That perfectly timed “Me” after “Mom is calling” is what got me 😹 If you like cats acting out everyday situations, come say hello to our five!",
+          "english_text": "That perfectly timed “Me” after “Mom is calling” is what got me 😹 If you like cats acting out everyday situations, come say hello to our five!",
+          "category": "Recognition of comedic timing and promotional commenting",
+          "likes": null,
+          "interpretation": "The commenter identifies the timing of the performance as its humorous attraction while simultaneously promoting another cat-content account."
+        }
+      ],
+      "audience_language": {
+        "observed_languages": [
+          "English",
+          "Portuguese",
+          "Chinese",
+          "Spanish",
+          "French",
+          "Japanese",
+          "Hindi",
+          "Indonesian",
+          "Tamil"
+        ],
+        "language_distribution": null,
+        "cultural_identity_verified": false,
+        "cross_linguistic_pattern": "Viewers across multiple languages recognize the everyday experience of receiving a phone call and use the animal performance to express personal relationships."
+      },
+      "production": {
+        "ai_tool": null,
+        "associated_brand": "Cantina",
+        "brand_mention_confirmed": true,
+        "generation_tool_confirmed": false,
+        "generation_model": null,
+        "production_workflow": null,
+        "production_cost": null,
+        "production_format": "Short-form branded animal performance",
+        "visible_synthetic_features": [
+          "Human-like feline posture",
+          "Anthropomorphic gestures",
+          "Realistic feline appearance",
+          "Integration of a smartphone interface",
+          "Domestic environmental realism"
+        ]
+      },
+      "monetization": {
+        "commercial_content_confirmed": true,
+        "brand_collaboration_label_visible": true,
+        "promoted_brand": "Cantina",
+        "monetization_model": "Disclosed brand collaboration",
+        "financial_arrangement_confirmed": false,
+        "affiliate_disclosure": null,
+        "actual_revenue": null,
+        "sponsorship_fee": null,
+        "commission_rate": null,
+        "promotion_channels": [
+          "Instagram brand collaboration label",
+          "Brand mention in caption",
+          "Synthetic animal entertainment"
+        ],
+        "commercial_strategy": "Integrating brand visibility into relatable, shareable animal entertainment rather than presenting a conventional product advertisement.",
+        "potential_value_generation": [
+          "Audience engagement",
+          "Interpersonal sharing",
+          "Brand awareness",
+          "Character recognition",
+          "Emotional association",
+          "Potential user acquisition"
+        ],
+        "economic_mechanism": [
+          "Synthetic animal production",
+          "Recognizable everyday situation",
+          "Humorous performance",
+          "Personal identification",
+          "Interpersonal circulation",
+          "Brand exposure",
+          "Potential commercial conversion"
+        ]
+      },
+      "research_analysis": {
+        "representation": "The black cat retains recognizable feline characteristics while adopting human-like posture, gestures and participation in mobile communication.",
+        "affective_mechanism": "The video combines cuteness with a familiar domestic situation. Its emotional appeal emerges from the contrast between an ordinary incoming phone call and an unexpected animal performance.",
+        "pov_format": "The POV caption invites viewers to interpret the synthetic animal as a representation of their own experience rather than simply observing it as an external fictional character.",
+        "social_proxy": "Comments such as Me and When you call me demonstrate how the synthetic animal becomes a substitute for the viewer's own body, behaviour and emotional expression.",
+        "interpersonal_circulation": "Viewers tag friends and connect the performance to existing relationships. The video functions as a communicative object exchanged between people rather than exclusively as individual entertainment.",
+        "sharing_pattern": "The screenshot displays approximately 19000 shares and 24000 likes, producing a share-to-like ratio of approximately 79.2 percent. This indicates substantial sharing relative to likes, although the number of unique viewers and sharers remains unknown.",
+        "emotional_memory": "A viewer anticipates remembering the dancing cat whenever hearing the associated music. This suggests that synthetic animal imagery can become attached to existing sensory experiences and potentially persist beyond the original video.",
+        "audience_participation": "Some viewers instruct the cat to answer the phone or invent explanations for the mother's call. These comments extend the fictional situation through collective participation.",
+        "cross_linguistic_accessibility": "The combination of recognizable smartphone imagery, physical comedy and a familiar family relationship allows the content to be interpreted across multiple languages.",
+        "secondary_promotional_activity": "One commenter uses their reaction to the video to promote another cat-content account. This illustrates how comment sections can also become spaces for audience acquisition and promotional activity.",
+        "platform_and_capital": "The visible brand collaboration label and Cantina mention establish a commercial connection. The specific contractual arrangement and financial value remain undisclosed.",
+        "embedded_advertising": "Brand promotion is embedded within a humorous and relatable entertainment format. Viewers can circulate the content for interpersonal reasons while simultaneously circulating the associated brand.",
+        "animality": "The synthetic cat becomes a proxy for human communication habits and family relationships. Its feline appearance provides emotional attraction while its behaviour follows a human social script.",
+        "corruption_of_cuteness": "The emotional appeal of a cute animal is combined with everyday recognition and interpersonal sharing. These affective relationships can become channels for commercial circulation.",
+        "critical_insight": "Synthetic animal videos can function simultaneously as entertainment, interpersonal communication and branded media. Their commercial potential may emerge not only from attracting individual attention but also from becoming objects that people exchange within existing social relationships.",
+        "research_question": "How do synthetic animal performances transform everyday human experiences into shareable affective objects that circulate simultaneously through interpersonal relationships and commercial networks?",
+        "analysis_status": "Preliminary qualitative analysis"
+      },
+      "audit": {
+        "archive_id": "Sequential assignment after CF-025",
+        "source_url_confirmed_by_user": true,
+        "engagement_metrics_confirmed_by_screenshot": true,
+        "ai_generated_label_visible": true,
+        "brand_collaboration_label_visible": true,
+        "brand_mention_confirmed": true,
+        "generation_tool_confirmed": false,
+        "financial_arrangement_verified": false,
+        "selected_comment_count": 3,
+        "additional_audience_evidence_count": 9,
+        "original_comments_preserved": true,
+        "english_translations_included": true,
+        "comment_source": "User-provided original Instagram comments",
+        "full_video_reviewed": false,
+        "performance_description_source": [
+          "User-provided screenshot",
+          "Original caption",
+          "Audience comments"
+        ],
+        "missing_fields": [
+          "Exact publication date",
+          "Verified view count",
+          "Video duration",
+          "Music title",
+          "Full performance sequence",
+          "Unique viewer count",
+          "Audience retention data",
+          "AI production tools",
+          "Production costs",
+          "Brand collaboration agreement",
+          "Actual revenue"
+        ]
+      }
+    },
+    {
+      "archive_id": "CF-029",
+      "title": "My Dog When It's Grooming Time",
+      "source": {
+        "platform": "Xiaohongshu",
+        "creator": "吃颗花生",
+        "creator_name_english": "Eat a Peanut",
+        "url": "https://www.xiaohongshu.com/explore/6afd61fb000000001802e95a",
+        "publication_date": null,
+        "ai_generated": null,
+        "ai_generated_label_visible": true,
+        "ai_label_original": "可能含AI生成内容",
+        "ai_label_english": "May contain AI-generated content"
+      },
+      "video": {
+        "animal": "Dog",
+        "animal_count": null,
+        "breed": null,
+        "animal_representation": "Domestic animal in a human-managed environment",
+        "visual_description": "A vertical video showing an indoor environment resembling an animal grooming or veterinary facility, with people, blue animal enclosures and metallic equipment.",
+        "human_script": "The experience of taking a domestic dog for grooming.",
+        "setting": "Apparent animal grooming or veterinary facility",
+        "duration_seconds": 10,
+        "screenshot_timestamp_seconds": 2,
+        "on_screen_text": "my dog when it's grooming time",
+        "music_title": null,
+        "dialogue": null,
+        "full_action_sequence": null,
+        "narrative_premise": "A humorous representation of a dog's behaviour during grooming.",
+        "script_en": "Impose human beauty standards on animals and make their resistance funny.",
+        "script_zh": "将人类的审美标准强加给动物，并让它们的反抗变得好笑。",
+        "script_status": "user_approved_satirical_system_script"
+      },
+      "caption": {
+        "original_language": null,
+        "original_text": null,
+        "english_text": null,
+        "hashtags": null,
+        "on_screen_language": "English",
+        "on_screen_text": "my dog when it's grooming time"
+      },
+      "metrics": {
+        "views": null,
+        "likes": null,
+        "comments": null,
+        "saves": null,
+        "shares": null,
+        "reposts": null,
+        "metrics_source": null,
+        "simulated": {
+          "views": 833130,
+          "likes": 96135,
+          "reposts": 2593,
+          "shares": 13507,
+          "saves": 5727,
+          "comments": 847
+        },
+        "display": {
+          "views": 833130,
+          "likes": 96135,
+          "reposts": 2593,
+          "shares": 13507,
+          "saves": 5727,
+          "comments": 847
+        },
+        "display_sources": {
+          "views": "generated_simulated",
+          "likes": "generated_simulated",
+          "reposts": "generated_simulated",
+          "shares": "generated_simulated",
+          "saves": "generated_simulated",
+          "comments": "generated_simulated"
+        },
+        "display_purpose": "Performance only; simulated values are fictional, not verified platform metrics."
+      },
+      "classification": {
+        "content_type": [
+          "Everyday life humour",
+          "Pet behaviour comedy",
+          "Relatable animal meme"
+        ],
+        "animal_role": [
+          "Domestic companion",
+          "Comic character",
+          "Affective interface"
+        ],
+        "human_script": "Pet ownership and routine animal grooming",
+        "potential_affective_triggers": [
+          "Humour",
+          "Familiarity",
+          "Recognition of pet behaviour",
+          "Personal experience",
+          "Unexpected animal behaviour"
+        ],
+        "audience_responses": null,
+        "potential_type_of_truth": [
+          "Experiential truth",
+          "Behavioural recognition"
+        ],
+        "key_mechanism": "Familiar pet-care situation → Comedic representation of animal behaviour → Potential recognition by pet owners",
+        "affective_triggers": [
+          "Resistance"
+        ],
+        "affective_trigger_zh": "反抗"
+      },
+      "selected_comments": [],
+      "additional_audience_evidence": [],
+      "creator_comment": null,
+      "production": {
+        "ai_tool": null,
+        "generation_model": null,
+        "production_workflow": null,
+        "production_cost": null,
+        "original_creator_verified": false,
+        "repost_status": "Unverified",
+        "production_format": "Vertical short-form video",
+        "platform_ai_disclosure": "May contain AI-generated content",
+        "cross_language_features": {
+          "platform": "Chinese-language social media",
+          "on_screen_text": "English",
+          "original_production_language": null,
+          "original_distribution_platform": null
+        }
+      },
+      "monetization": {
+        "commercial_content_confirmed": null,
+        "brand_collaboration_confirmed": null,
+        "product_promotion_confirmed": null,
+        "affiliate_disclosure": null,
+        "monetization_model": null,
+        "actual_revenue": null
+      },
+      "research_analysis": {
+        "representation": "The video situates animal behaviour within an ordinary human-managed pet-care environment.",
+        "affective_mechanism": "The caption potentially invites viewers to recognize familiar experiences with their own pets.",
+        "experiential_truth": "The humour may depend on whether viewers recognize the represented behaviour as consistent with their experiences of domestic dogs.",
+        "animality": "Unlike videos in which animals perform explicitly human occupations or dance routines, this video's premise concerns an existing relationship between humans and domestic animals.",
+        "human_animal_relationship": "Grooming provides a context for examining human control over animal bodies, including appearance, hygiene and behavioural expectations.",
+        "cross_platform_circulation": "English on-screen text appears within a Chinese-language platform. This makes the video relevant to research on multilingual content circulation, although cross-platform redistribution has not been verified.",
+        "platform_and_capital": "The platform displays a qualified AI-content warning. Engagement, production costs and commercial value remain unknown.",
+        "corruption_of_cuteness": "The video may transform an animal's response to human-managed care into an entertainment object. Whether the performance depicts discomfort, resistance or exaggerated behaviour requires examination of the complete video.",
+        "critical_insight": "Synthetic animal entertainment does not always require animals to imitate human behaviour. It can also exaggerate existing human-animal relationships and familiar interpretations of pet behaviour.",
+        "research_question": "How does synthetic animal comedy transform everyday relationships between humans and domestic animals into emotionally recognizable entertainment?",
+        "analysis_status": "Preliminary analysis based on screenshot and on-screen text"
+      },
+      "audit": {
+        "archive_id": "Recovered original archive ID",
+        "source_url_confirmed_by_user": true,
+        "creator_confirmed_by_screenshot": true,
+        "video_duration_confirmed_by_screenshot": true,
+        "ai_content_warning_confirmed": true,
+        "ai_generation_independently_verified": false,
+        "engagement_metrics_available": false,
+        "selected_comment_count": 0,
+        "full_video_reviewed": false,
+        "monetization_verified": false,
+        "missing_fields": [
+          "Publication date",
+          "Original caption",
+          "Hashtags",
+          "View count",
+          "Like count",
+          "Comment count",
+          "Save count",
+          "Share count",
+          "Audience comments",
+          "Dog breed",
+          "Complete video sequence",
+          "Original production source",
+          "AI production tools",
+          "Actual revenue"
+        ]
+      }
+    },
+    {
+      "archive_id": "CF-035",
+      "title": "Meowl: Bedtime Routine",
+      "source": {
+        "platform": "Instagram",
+        "creator": "@meowlsol",
+        "url": "https://www.instagram.com/reels/DgB1WhsxYPn/",
+        "publication_date": null,
+        "verified_account_badge_visible": true,
+        "ai_generated": null,
+        "ai_generated_label_visible": false,
+        "related_archive_ids": [
+          "CF-008"
+        ]
+      },
+      "video": {
+        "animal": "Hybrid creature",
+        "base_animals": [
+          "Cat",
+          "Owl"
+        ],
+        "animal_count": 1,
+        "character_name": "Meowl",
+        "animal_representation": "Synthetic hybrid species",
+        "visual_description": "A small hybrid creature combining a tabby-and-white cat's head, pointed ears and pink nose with an owl-like feathered body, wings and clawed feet. The creature has disproportionately large dark eyes and stands on a folded white towel in a bathroom-like domestic environment.",
+        "human_script": "Bedtime preparation and personal hygiene, as suggested by audience comments.",
+        "setting": "Bathroom-like domestic interior",
+        "duration_seconds": null,
+        "dialogue": null,
+        "full_action_sequence": null,
+        "narrative_pattern": "Synthetic species → Familiar domestic routine → Emotional recognition → Imagined companionship",
+        "visual_features": [
+          "Feline facial features",
+          "Owl-like wings",
+          "Avian claws",
+          "Rounded body",
+          "Enlarged dark eyes",
+          "Small apparent body size",
+          "Domestic environmental realism"
+        ],
+        "script_en": "Design the perfect companion according to human emotional needs.",
+        "script_zh": "根据人类的情感需求设计完美的陪伴者。",
+        "script_status": "user_approved_satirical_system_script"
+      },
+      "caption": {
+        "original_language": null,
+        "original_text": "#meowl #cats #gato",
+        "english_text": "#meowl #cats #gato",
+        "hashtags": [
+          "#meowl",
+          "#cats",
+          "#gato"
+        ]
+      },
+      "metrics": {
+        "views": null,
+        "likes": 12000,
+        "comments": 47,
+        "reposts": 1112,
+        "shares": 4245,
+        "saves": null,
+        "facebook_comments_reported": 18,
+        "facebook_comments_included_in_displayed_total": null,
+        "metrics_source": "User-provided Instagram screenshot and comment archive",
+        "values_approximate": true,
+        "share_to_like_ratio": 0.3538,
+        "simulated": {
+          "views": 106319,
+          "saves": 639
+        },
+        "display": {
+          "views": 106319,
+          "likes": 12000,
+          "reposts": 1112,
+          "shares": 4245,
+          "saves": 639,
+          "comments": 47
+        },
+        "display_sources": {
+          "views": "generated_simulated",
+          "likes": "archived_real",
+          "reposts": "archived_real",
+          "shares": "archived_real",
+          "saves": "generated_simulated",
+          "comments": "archived_real"
+        },
+        "display_purpose": "Performance only; simulated values are fictional, not verified platform metrics."
+      },
+      "classification": {
+        "content_type": [
+          "Hybrid creature",
+          "Synthetic species",
+          "Domestic companionship",
+          "Everyday routine",
+          "Cuteness-based entertainment"
+        ],
+        "animal_role": [
+          "Synthetic creature",
+          "Fictional character",
+          "Imagined domestic companion",
+          "Affective interface"
+        ],
+        "human_script": "Personal hygiene and bedtime routines",
+        "affective_triggers": [
+          "Companionship"
+        ],
+        "audience_responses": [
+          "Affection",
+          "Protective attachment",
+          "Imagined physical contact",
+          "Companionship",
+          "Character recognition",
+          "Playful anthropomorphism",
+          "Curiosity about creative origins"
+        ],
+        "type_of_truth": [
+          "Affective authenticity",
+          "Fictional continuity",
+          "Experiential recognition"
+        ],
+        "key_mechanism": "Biologically impossible creature → Familiar domestic environment → Emotional normalization → Imagined companionship",
+        "affective_trigger_zh": "陪伴"
+      },
+      "selected_comments": [
+        {
+          "author": "chandnidua_",
+          "original_text": "Good boy my little meowl ♥️✨ sending you hug and love 🥺♥️😭😂",
+          "english_text": "Good boy my little meowl ♥️✨ sending you hug and love 🥺♥️😭😂",
+          "original_language": "English",
+          "likes": null,
+          "emotional_category": "Affection and imagined physical intimacy",
+          "interpretation": "The viewer directly addresses the synthetic creature using affectionate and possessive language. Imagined hugs and love extend the relationship beyond visual appreciation toward simulated companionship."
+        },
+        {
+          "author": "_5t4rf1r3_",
+          "original_text": "got ready for bed with meowl :3",
+          "english_text": "got ready for bed with meowl :3",
+          "original_language": "English",
+          "likes": null,
+          "emotional_category": "Shared domestic routine",
+          "interpretation": "The viewer describes participating in a bedtime routine alongside the synthetic creature. This suggests that the character may function as a companion integrated into everyday life rather than merely an object of visual entertainment."
+        },
+        {
+          "author": "alyssa_paintbrush_2005",
+          "original_text": "You've created an interesting character. Did you base this on dreams you had one night?",
+          "english_text": "You've created an interesting character. Did you base this on dreams you had one night?",
+          "original_language": "English",
+          "likes": null,
+          "emotional_category": "Recognition of fictional creation",
+          "interpretation": "The viewer explicitly recognizes Meowl as a created character and expresses curiosity about its imaginative origins. Awareness of fictional construction does not prevent interest or emotional engagement."
+        }
+      ],
+      "additional_audience_evidence": [
+        {
+          "author": "alexis.fuecoco",
+          "original_text": "I heard Meowl uses Sensodyne",
+          "english_text": "I heard Meowl uses Sensodyne",
+          "likes": null,
+          "category": "Fictional consumer behaviour",
+          "interpretation": "The viewer imagines the creature using a recognizable human toothpaste brand. This is audience-generated humour and does not establish a commercial relationship with the brand."
+        },
+        {
+          "author": "ethandw27",
+          "original_text": "Meowl must observe a strict oral hygiene regimen",
+          "english_text": "Meowl must observe a strict oral hygiene regimen",
+          "likes": null,
+          "category": "Anthropomorphic domestic routine"
+        },
+        {
+          "author": "cristopher_m.e.c",
+          "original_text": "Que lindo gatito que Dios lo bendiga 🙏🏻🙏🏻🙏🏻",
+          "english_text": "What a lovely little kitten. May God bless it 🙏🏻🙏🏻🙏🏻",
+          "original_language": "Spanish",
+          "likes": null,
+          "category": "Affection and protective care"
+        },
+        {
+          "author": "jakey.__.enhy",
+          "original_text": "ياريت قطوتي هادية زيك",
+          "english_text": "I wish my cat were as calm as you.",
+          "original_language": "Arabic",
+          "likes": null,
+          "category": "Comparison between synthetic and biological pets",
+          "interpretation": "The viewer compares the synthetic creature with their own cat, expressing a desire for the real animal to possess the fictional character's perceived temperament."
+        },
+        {
+          "author": "dlgmwkad",
+          "original_text": "물좀먹었느데?",
+          "english_text": "It drank some water, though?",
+          "original_language": "Korean",
+          "likes": null,
+          "translation_note": "Approximate translation of informal text containing a possible spelling error.",
+          "category": "Observation of bodily behaviour"
+        }
+      ],
+      "creator_comment": null,
+      "audience_language": {
+        "observed_languages": [
+          "English",
+          "Spanish",
+          "Arabic",
+          "Korean"
+        ],
+        "language_distribution": null,
+        "cultural_identity_verified": false,
+        "facebook_comments_reported": 18,
+        "cross_platform_comment_integration": true
+      },
+      "production": {
+        "ai_tool": null,
+        "generation_model": null,
+        "production_workflow": null,
+        "production_cost": null,
+        "character_design": "Cat and owl hybrid",
+        "recurring_character": true,
+        "character_continuity": "The same named hybrid character appears across multiple archived videos.",
+        "original_production_source_verified": false,
+        "production_format": "Recurring synthetic animal character in short-form video"
+      },
+      "monetization": {
+        "commercial_content_confirmed": null,
+        "brand_collaboration_confirmed": null,
+        "product_promotion_confirmed": null,
+        "affiliate_disclosure": null,
+        "monetization_model": null,
+        "actual_revenue": null,
+        "audience_generated_brand_reference": {
+          "brand": "Sensodyne",
+          "source": "Audience comment",
+          "commercial_relationship_verified": false
+        },
+        "potential_value_generation": [
+          "Character recognition",
+          "Recurring audience engagement",
+          "Emotional attachment",
+          "Interpersonal sharing",
+          "Potential character-based intellectual property",
+          "Potential commercial partnerships"
+        ]
+      },
+      "research_analysis": {
+        "representation": "Meowl combines recognizable anatomical features of cats and owls into a coherent fictional creature. Enlarged eyes and a rounded body may amplify conventional visual cues associated with cuteness.",
+        "affective_mechanism": "The hybrid creature is situated within a familiar domestic environment. This potentially reduces the perceived strangeness of its impossible anatomy and makes it emotionally approachable.",
+        "domestication_of_the_impossible": "A biologically impossible creature becomes familiar through its association with ordinary activities such as preparing for bed and maintaining personal hygiene.",
+        "synthetic_companionship": "The comment about getting ready for bed with Meowl suggests that synthetic characters can accompany viewers during their everyday routines.",
+        "parasocial_attachment": "Affectionate expressions such as my little meowl and imagined hugs suggest a relationship directed toward a recurring fictional character.",
+        "fictional_bodily_needs": "Audience comments attribute oral hygiene requirements and consumer habits to the creature. Viewers collectively imagine how its impossible body might function in everyday life.",
+        "awareness_of_artificiality": "One viewer explicitly recognizes Meowl as a created character. Emotional engagement therefore does not necessarily depend on believing that the creature exists biologically.",
+        "comparison_with_real_animals": "The Arabic-language comment compares Meowl's perceived calmness with the viewer's own cat. This provides evidence of synthetic animal characteristics being used as a reference for evaluating biological pets.",
+        "character_serialization": "The recurring name and recognizable anatomy allow Meowl to maintain a fictional identity across separate videos and potentially support cumulative audience attachment.",
+        "platform_infrastructure": "Instagram reports 18 comments originating from Facebook. This provides direct evidence of cross-platform comment integration within Meta's ecosystem, although the exact distribution of engagement remains unknown.",
+        "platform_and_capital": "A recurring synthetic character may accumulate emotional recognition across multiple posts. Whether this recognition produces direct financial returns remains unverified.",
+        "animality": "The creature combines features of different species while adopting human domestic routines. Its fictional identity is shaped through anatomy, environment and audience interpretation.",
+        "corruption_of_cuteness": "A synthetic creature can potentially move from attracting momentary attention to occupying a recurring emotional position in viewers' daily lives.",
+        "comparative_archive": [
+          {
+            "archive_id": "CF-008",
+            "title": "Meowlsol — Cat-Owl Hybrid",
+            "relationship": "Same creator and recurring hybrid character",
+            "comparative_focus": "Biological curiosity versus domestic companionship"
+          },
+          {
+            "archive_id": "CF-015",
+            "title": "Pikachu Cat — Mikaqiu",
+            "relationship": "Hybrid creature comparison",
+            "comparative_focus": "Recurring synthetic species versus recombination with an existing fictional character"
+          }
+        ],
+        "critical_insight": "The emotional value of synthetic species may develop through repetition and domestic familiarity. An impossible creature can become an imagined companion without viewers necessarily believing in its biological existence.",
+        "research_question": "How do recurring synthetic animal characters become integrated into everyday emotional routines, and how might this process reshape expectations of biological animals?",
+        "analysis_status": "Preliminary qualitative analysis"
+      },
+      "audit": {
+        "archive_id": "New archive ID",
+        "source_url_confirmed_by_user": true,
+        "creator_confirmed_by_screenshot": true,
+        "engagement_metrics_confirmed_by_screenshot": true,
+        "hybrid_anatomy_visible": true,
+        "ai_generation_independently_verified": false,
+        "selected_comment_count": 3,
+        "additional_audience_evidence_count": 5,
+        "original_comments_preserved": true,
+        "english_translations_included": true,
+        "comment_archive_complete": false,
+        "facebook_comment_count_reported": true,
+        "full_video_reviewed": false,
+        "monetization_verified": false,
+        "missing_fields": [
+          "Exact publication date",
+          "View count",
+          "Save count",
+          "Video duration",
+          "Complete action sequence",
+          "Complete comment archive",
+          "AI production tools",
+          "Production costs",
+          "Commercial partnerships",
+          "Actual revenue"
+        ]
+      }
+    },
+    {
+      "archive_id": "CF-037",
+      "title": "Just One More Reel",
+      "source": {
+        "platform": "Instagram",
+        "creator": "@littlechirpy.pi",
+        "url": null,
+        "submitted_url": "https://www.instagram.com/reels/De8JOVNpAfE/",
+        "url_status": "Duplicate of CF-036; correction required",
+        "publication_date": null,
+        "ai_generated_label_visible": true,
+        "original_creator_verified": false
+      },
+      "video": {
+        "animal": "Bird",
+        "animal_count": 1,
+        "species": "Lovebird-like small parrot",
+        "exact_species_verified": false,
+        "animal_representation": "Anthropomorphic bird performing everyday human behaviour",
+        "character_name": null,
+        "setting": "Bedroom at night",
+        "duration_seconds": null,
+        "visual_description": "A small pastel-coloured bird lies against a white pillow under a blue-grey blanket, holding a smartphone with its feet. The light from the smartphone illuminates its face in an otherwise dark bedroom.",
+        "human_script": "Using a smartphone in bed instead of going to sleep.",
+        "narrative_pattern": "Bedtime → Continued smartphone use → Postponement of sleep",
+        "visual_features": [
+          "Small animal body",
+          "Soft pastel colours",
+          "Rounded facial features",
+          "Domestic intimacy",
+          "Human sleeping arrangement",
+          "Smartphone screen illumination",
+          "Anthropomorphic device interaction"
+        ],
+        "script_en": "Make a bird scroll on its phone in bed until watching videos of other animals becomes more important than sleeping.",
+        "script_zh": "让一只鸟躺在被窝里刷手机，直到观看其他动物的视频比睡觉更重要。",
+        "script_status": "user_approved_satirical_system_script"
+      },
+      "caption": {
+        "original_language": "English",
+        "original_text": "Just one more reel🥺 Made with Hig ...",
+        "english_text": "Just one more reel🥺 Made with Hig ...",
+        "caption_complete": false,
+        "hashtags": null
+      },
+      "metrics": {
+        "views": null,
+        "likes": 13000,
+        "comments": 148,
+        "reposts": 640,
+        "shares": 8374,
+        "saves": null,
+        "likes_approximate": true,
+        "share_to_like_ratio": 0.644,
+        "metrics_source": "User-provided Instagram screenshot",
+        "simulated": {
+          "views": 184336,
+          "saves": 1139
+        },
+        "display": {
+          "views": 184336,
+          "likes": 13000,
+          "reposts": 640,
+          "shares": 8374,
+          "saves": 1139,
+          "comments": 148
+        },
+        "display_sources": {
+          "views": "generated_simulated",
+          "likes": "archived_real",
+          "reposts": "archived_real",
+          "shares": "archived_real",
+          "saves": "generated_simulated",
+          "comments": "archived_real"
+        },
+        "display_purpose": "Performance only; simulated values are fictional, not verified platform metrics."
+      },
+      "classification": {
+        "content_type": [
+          "Everyday life parody",
+          "Digital habit simulation",
+          "Anthropomorphic animal",
+          "Relatable humour",
+          "Cuteness-based entertainment",
+          "Self-referential platform content"
+        ],
+        "animal_role": [
+          "Social proxy",
+          "Digital media consumer",
+          "Affective interface",
+          "Human behavioural mirror"
+        ],
+        "human_script": "Compulsive or prolonged smartphone use before sleep",
+        "affective_triggers": [
+          "Identification"
+        ],
+        "audience_responses": [
+          "Self-identification",
+          "Identification of friends and family",
+          "Affection",
+          "Humour",
+          "Interpersonal tagging",
+          "Repeated emotional expression"
+        ],
+        "type_of_truth": [
+          "Experiential truth",
+          "Behavioural recognition",
+          "Social truth",
+          "Affective authenticity"
+        ],
+        "key_mechanism": "Synthetic animal body → Recognition of personal digital habits → Self-identification and interpersonal sharing",
+        "affective_trigger_zh": "自我代入"
+      },
+      "selected_comments": [
+        {
+          "author": "bread._jan",
+          "original_language": "English",
+          "original_text": "Hi twin",
+          "english_text": "Hi twin",
+          "likes": null,
+          "emotional_category": "Self-identification",
+          "interpretation": "The viewer identifies directly with the synthetic bird, treating its behaviour as a reflection of their own identity and everyday habits."
+        },
+        {
+          "author": "lrvn1x",
+          "original_language": "Korean",
+          "original_text": "@sxoyxni1 몰폰",
+          "english_text": "@sxoyxni1 Secretly using your phone.",
+          "likes": null,
+          "emotional_category": "Interpersonal recognition",
+          "interpretation": "The viewer tags another person and associates the animal's behaviour with the familiar practice of secretly using a smartphone."
+        },
+        {
+          "author": "omodesto014oficial",
+          "original_language": "Portuguese",
+          "original_text": "Meu filho kkkkk",
+          "english_text": "My son hahaha",
+          "likes": null,
+          "emotional_category": "Familial identification",
+          "interpretation": "The viewer associates the synthetic bird with their child, projecting a recognizable family relationship onto the animal's behaviour."
+        }
+      ],
+      "additional_audience_evidence": [
+        {
+          "author": "selena252025",
+          "original_text": "My sister 😂",
+          "english_text": "My sister 😂",
+          "category": "Familial recognition"
+        },
+        {
+          "author": "__malaikayyyy",
+          "original_text": "@attamohiyuddin777 so u",
+          "english_text": "@attamohiyuddin777 so u",
+          "category": "Interpersonal identification"
+        },
+        {
+          "author": "pkw1233",
+          "original_language": "Korean",
+          "original_text": "한치의 오차도 없네 ㅋㅋㅋㅋ😍",
+          "english_text": "Not even the slightest difference hahaha 😍",
+          "category": "Behavioural accuracy and recognition"
+        },
+        {
+          "author": "p_9.ij",
+          "original_language": "Arabic",
+          "original_text": "هاي اني",
+          "english_text": "That's me.",
+          "category": "Self-identification"
+        },
+        {
+          "author": "niko_rzmo",
+          "original_language": "Persian",
+          "original_text": "زودباش استوریمو ببین 🗣",
+          "english_text": "Hurry up and watch my story 🗣",
+          "category": "Platform-specific interpersonal communication"
+        },
+        {
+          "author": "roses_xii",
+          "original_text": "cuteee 🥹💕💕",
+          "english_text": "cuteee 🥹💕💕",
+          "category": "Direct emotional attachment"
+        },
+        {
+          "author": "creepynami",
+          "original_text": "Liar chicken",
+          "english_text": "Liar chicken",
+          "category": "Playful attribution of human intentions"
+        }
+      ],
+      "creator_comment": null,
+      "audience_language": {
+        "observed_languages": [
+          "English",
+          "Portuguese",
+          "Korean",
+          "Arabic",
+          "Persian",
+          "Japanese",
+          "Italian"
+        ],
+        "language_distribution": null,
+        "cultural_identity_verified": false
+      },
+      "engagement_quality": {
+        "repeated_comments_observed": true,
+        "repeated_comment_accounts": [
+          "isa.tofanello",
+          "leo_agui1ar"
+        ],
+        "repeated_comment_content": "Heart emojis",
+        "unique_commenter_count": null,
+        "automated_activity_verified": false,
+        "research_note": "The supplied comment archive contains numerous repeated emoji comments from the same account. Total comment volume should not be interpreted as the number of unique audience participants."
+      },
+      "production": {
+        "ai_generated_label_visible": true,
+        "ai_tool": null,
+        "possible_ai_tool": "Higgsfield",
+        "tool_evidence": "Truncated caption beginning with 'Made with Hig ...'",
+        "tool_verified": false,
+        "generation_model": null,
+        "production_workflow": null,
+        "production_cost": null,
+        "production_strategy": "Transferring a recognizable human digital habit onto a small, visually appealing animal body."
+      },
+      "monetization": {
+        "brand_collaboration_confirmed": null,
+        "affiliate_disclosure": null,
+        "product_promotion_confirmed": null,
+        "possible_ai_tool_promotion": true,
+        "actual_revenue": null,
+        "potential_value_generation": [
+          "Attention capture",
+          "Relatable humour",
+          "Interpersonal sharing",
+          "Emotional engagement",
+          "Potential AI production tool exposure"
+        ]
+      },
+      "research_analysis": {
+        "representation": "The bird retains recognizable avian features while adopting a human sleeping arrangement and smartphone interaction.",
+        "human_script": "The content reproduces the familiar experience of delaying sleep by continuing to watch short-form videos.",
+        "animality": "The bird's biological appearance is preserved, while its behaviour is reorganized around human technological habits.",
+        "affective_mechanism": "Cuteness combines with self-recognition. The audience responds not only to the animal's appearance but also to the familiarity of its behaviour.",
+        "experiential_truth": "The scenario does not need to be biologically plausible to feel socially or emotionally accurate. Comments such as 'Hi twin' and 'My sister' indicate recognition of familiar human behaviour.",
+        "self_referential_platform_logic": "The video depicts an animal consuming short-form digital content while the audience consumes a short-form video of that animal. The medium becomes part of the represented subject.",
+        "interpersonal_sharing": "The animal functions as a communicative proxy through which viewers describe themselves, their friends and their family members.",
+        "engagement_pattern": "The video has approximately 8374 shares against 13000 likes, producing a share-to-like ratio of approximately 64.4 percent. This suggests that interpersonal circulation is a particularly relevant dimension for further investigation.",
+        "attention_economy": "The phrase 'Just one more reel' refers to the postponement of stopping within a continuous content feed. The video turns this recognizable pattern into another piece of content circulating within the same attention economy.",
+        "corruption_of_cuteness": "A potentially problematic digital habit is transformed into an affectionate and shareable image. The synthetic animal makes the behaviour appear humorous, familiar and emotionally appealing.",
+        "critical_contradiction": "A video representing difficulty disengaging from social media may itself encourage continued social media engagement.",
+        "research_question": "How do synthetic animal bodies transform recognizable digital habits into emotionally appealing content that circulates within the same platforms that facilitate those habits?",
+        "analysis_status": "Preliminary qualitative analysis"
+      },
+      "audit": {
+        "source_url_verified": false,
+        "duplicate_url_detected": true,
+        "account_name_confirmed_by_screenshot": true,
+        "engagement_metrics_confirmed_by_screenshot": true,
+        "ai_label_confirmed_by_screenshot": true,
+        "ai_tool_verified": false,
+        "caption_complete": false,
+        "selected_comment_count": 3,
+        "additional_audience_evidence_count": 7,
+        "original_comments_preserved": true,
+        "english_translations_included": true,
+        "comment_archive_complete": false,
+        "repeated_comment_activity_observed": true,
+        "full_video_reviewed": false,
+        "monetization_verified": false,
+        "missing_fields": [
+          "Correct Instagram URL",
+          "Exact publication date",
+          "Complete caption",
+          "Video duration",
+          "View count",
+          "Save count",
+          "Confirmed AI generation tool",
+          "Unique commenter count",
+          "Actual revenue"
+        ]
+      }
+    }
+  ],
+  "merge_note": "Extracted from the supplied Markdown JSON blocks; duplicate IDs consolidated using the later version, retaining earlier fields where absent. Original IDs retained; missing IDs not fabricated.",
+  "duplicate_ids_consolidated": [
+    "CF-010",
+    "CF-029",
+    "CF-035"
+  ]
+}
