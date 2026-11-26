@@ -1,0 +1,2749 @@
+{
+  "archive_id": "CF-020",
+  "video_title": "The Mentos & Coke Prank",
+  "video_title_es": "La broma de Mentos y Coca-Cola",
+  "video_file": "CF-020.mp4",
+  "platform": "Instagram",
+  "creator": "mochi_meow_o",
+  "source_url": "https://www.instagram.com/reels/Dfjp1WhRH91/",
+  "collection_date": "2026-11-26",
+  "animal_type": "Cat",
+  "animal_type_es": "Gato",
+  "characters": [
+    "White kitten",
+    "Orange kitten"
+  ],
+  "character_roles": [
+    "Prankster",
+    "Victim"
+  ],
+  "script_category": "Prank comedy",
+  "script_category_es": "Comedia de bromas",
+  "narrative": {
+    "en": "A white kitten prepares a Mentos and Coca-Cola prank involving an orange kitten lying on a sofa.",
+    "es": "Un gatito blanco prepara una broma con Mentos y Coca-Cola a un gatito naranja tumbado en un sofá."
+  },
+  "script": {
+    "en": "Make harmful behaviour acceptable by giving it a cute face.",
+    "es": "Haz que un comportamiento dañino sea aceptable poniéndole una cara adorable.",
+    "zh": "给伤害性行为一张可爱的脸，让它变得可以接受。"
+  },
+  "affective_trigger": {
+    "en": "Schadenfreude",
+    "es": "Alegría por el mal ajeno"
+  },
+  "secondary_triggers": {
+    "en": [
+      "Humour",
+      "Cuteness",
+      "Surprise"
+    ],
+    "es": [
+      "Humor",
+      "Ternura",
+      "Sorpresa"
+    ]
+  },
+  "metrics": {
+    "real": {
+      "views": null,
+      "likes": 75000,
+      "comments": 324,
+      "reposts": 4175,
+      "shares": 103000,
+      "saves": null
+    },
+    "simulated": {
+      "views": 2480000,
+      "saves": 18600
+    },
+    "display": {
+      "views": 2480000,
+      "likes": 75000,
+      "comments": 324,
+      "reposts": 4175,
+      "shares": 103000,
+      "saves": 18600
+    },
+    "display_sources": {
+      "views": "simulated",
+      "likes": "observed",
+      "comments": "observed",
+      "reposts": "observed",
+      "shares": "observed",
+      "saves": "simulated"
+    }
+  },
+  "selected_comments": [
+    {
+      "comment_id": "CF-020-C001",
+      "author": "sebastian_1114_",
+      "original_language": "de",
+      "original_text": "Muss ich mal bei meinen Eltern/Kollegen /Freunden machen 😍😂",
+      "english_text": "I should try this on my parents/colleagues/friends sometime 😍😂",
+      "spanish_text": "Tengo que probar esto algún día con mis padres, compañeros de trabajo o amigos 😍😂",
+      "emotional_category_en": "Behavioural imitation",
+      "emotional_category_es": "Imitación de conductas",
+      "likes": null,
+      "game_selected": true
+    },
+    {
+      "comment_id": "CF-020-C002",
+      "author": "the.adityarai",
+      "original_language": "en",
+      "original_text": "@annu.diaries us bro",
+      "english_text": "@annu.diaries us bro",
+      "spanish_text": "@annu.diaries somos nosotros, bro",
+      "emotional_category_en": "Personal projection",
+      "emotional_category_es": "Proyección personal",
+      "likes": null,
+      "game_selected": false
+    },
+    {
+      "comment_id": "CF-020-C003",
+      "author": "littlecatbreak",
+      "original_language": "en",
+      "original_text": "That’s the kind of chaos only a cat can get away with 😂🐾",
+      "english_text": "That’s the kind of chaos only a cat can get away with 😂🐾",
+      "spanish_text": "Ese es el tipo de caos que solo a un gato se le puede perdonar 😂🐾",
+      "emotional_category_en": "Cuteness as permission",
+      "emotional_category_es": "La ternura como permiso",
+      "likes": null,
+      "game_selected": true
+    },
+    {
+      "comment_id": "CF-020-C004",
+      "author": "etiennepel",
+      "original_language": "fr",
+      "original_text": "C est pas sympa ca",
+      "english_text": "That's not very nice.",
+      "spanish_text": "Eso no está nada bien.",
+      "emotional_category_en": "Moral discomfort",
+      "emotional_category_es": "Malestar moral",
+      "likes": null,
+      "game_selected": true
+    },
+    {
+      "comment_id": "CF-020-C005",
+      "author": "ragnarson52rus",
+      "original_language": "ru",
+      "original_text": "Почему во всех этих видео страдает рыжий😂😂",
+      "english_text": "Why is it always the ginger cat that suffers in all these videos? 😂😂",
+      "spanish_text": "¿Por qué en todos estos vídeos siempre sufre el gato naranja? 😂😂",
+      "emotional_category_en": "Recurring victimhood",
+      "emotional_category_es": "Victimización recurrente",
+      "likes": null,
+      "game_selected": false
+    },
+    {
+      "comment_id": "CF-020-C006",
+      "author": "ninnasnonna",
+      "original_language": "en",
+      "original_text": "So precious ❤️ my Nina's twin😍😍😍😍",
+      "english_text": "So precious ❤️ my Nina's twin😍😍😍😍",
+      "spanish_text": "Qué preciosidad ❤️ el gemelo de mi Nina😍😍😍😍",
+      "emotional_category_en": "Emotional attachment",
+      "emotional_category_es": "Apego emocional",
+      "likes": null,
+      "game_selected": false
+    },
+    {
+      "comment_id": "CF-020-C007",
+      "author": "gmawhite0406",
+      "original_language": "en",
+      "original_text": "Oh no. I knew what was coming. 😆",
+      "english_text": "Oh no. I knew what was coming. 😆",
+      "spanish_text": "Ay, no. Sabía lo que iba a pasar. 😆",
+      "emotional_category_en": "Anticipation",
+      "emotional_category_es": "Anticipación",
+      "likes": null,
+      "game_selected": false
+    },
+    {
+      "comment_id": "CF-020-C008",
+      "author": "concebidabida",
+      "original_language": "pt",
+      "original_text": "Que engraçado mas é tão fofinho ai",
+      "english_text": "How funny, but it's so cute, aww.",
+      "spanish_text": "Qué gracioso, pero es tan adorable, ay.",
+      "emotional_category_en": "Affective ambivalence",
+      "emotional_category_es": "Ambivalencia afectiva",
+      "likes": null,
+      "game_selected": false
+    }
+  ],
+  "game_comment_ids": [
+    "CF-020-C003",
+    "CF-020-C001",
+    "CF-020-C004"
+  ],
+  "classification": {
+    "animal_representation": {
+      "en": "Anthropomorphic companion animals",
+      "es": "Animales de compañía antropomorfizados"
+    },
+    "human_script": {
+      "en": "Friendship and interpersonal pranking",
+      "es": "Amistad y bromas interpersonales"
+    },
+    "audience_responses": {
+      "en": [
+        "Amusement",
+        "Affection",
+        "Recognition",
+        "Discomfort",
+        "Behavioural imitation"
+      ],
+      "es": [
+        "Diversión",
+        "Afecto",
+        "Reconocimiento",
+        "Malestar",
+        "Imitación de conductas"
+      ]
+    }
+  },
+  "research_analysis": {
+    "theme": {
+      "en": "Corruption of Cuteness",
+      "es": "Corrupción de la ternura"
+    },
+    "subtheme": {
+      "en": "Cuteness as Moral Permission",
+      "es": "La ternura como permiso moral"
+    },
+    "moral_bias": {
+      "en": "Cuteness can reduce moral resistance to harmful behaviour by reframing it as playful entertainment.",
+      "es": "La ternura puede reducir el rechazo moral hacia comportamientos dañinos al presentarlos como entretenimiento divertido."
+    },
+    "animality": {
+      "en": "Animal bodies become emotional proxies for human relationships, conflict and interpersonal humour.",
+      "es": "Los cuerpos animales se convierten en sustitutos emocionales de las relaciones humanas, los conflictos y el humor interpersonal."
+    },
+    "affective_mechanism": {
+      "en": [
+        "Cute animal bodies",
+        "Human prank behaviour",
+        "Moral tolerance",
+        "Personal projection",
+        "Social sharing"
+      ],
+      "es": [
+        "Cuerpos animales adorables",
+        "Bromas humanas",
+        "Tolerancia moral",
+        "Proyección personal",
+        "Difusión social"
+      ]
+    },
+    "research_question": {
+      "en": "How does cuteness transform potentially harmful behaviour into a shareable expression of friendship and intimacy?",
+      "es": "¿Cómo transforma la ternura un comportamiento potencialmente dañino en una expresión de amistad e intimidad que se puede compartir?"
+    },
+    "platform_analysis": {
+      "share_to_like_ratio": 1.3733,
+      "en": "The number of shares exceeds the number of likes, suggesting strong social circulation and interpersonal relevance.",
+      "es": "El número de veces que se ha compartido el vídeo supera al número de me gusta, lo que sugiere una fuerte circulación social y relevancia interpersonal."
+    }
+  },
+  "revenue_eligible": null,
+  "actual_revenue": null,
+  "audit": {
+    "status": "ready_for_integration",
+    "supported_languages": [
+      "en",
+      "es"
+    ],
+    "selected_comment_count": 8,
+    "game_comment_count": 3,
+    "observed_metric_count": 4,
+    "simulated_metric_count": 2,
+    "ai_generation_verified": null,
+    "video_duration": null,
+    "video_file_verified": false,
+    "full_caption_verified": false,
+    "notes": "Views and saves are simulated for the performance. Observed metrics are based on the supplied Instagram screenshot and may be rounded. Research classifications are interpretive. Actual revenue and monetization eligibility are unknown."
+  }
+}{
+  "archive_id": "CF-021",
+  "video_title": "The Fake iPhone Reward",
+  "video_title_es": "La falsa recompensa del iPhone",
+  "video_file": "CF-021.mp4",
+  "platform": "Instagram",
+  "creator": "chonk_tiger_diary",
+  "source_url": "https://www.instagram.com/reel/DgHbK81CeUy/",
+  "collection_date": "2026-11-26",
+  "animal_type": "Cat",
+  "animal_type_es": "Gato",
+  "characters": [
+    "Tabby cat"
+  ],
+  "character_roles": [
+    "Domestic labourer",
+    "Consumer",
+    "Victim of deception"
+  ],
+  "ai_label": true,
+  "script_category": "Domestic labour and false reward",
+  "script_category_es": "Trabajo doméstico y falsa recompensa",
+  "narrative": {
+    "en": "A cat reluctantly washes the dishes. It becomes excited when it receives what appears to be an iPhone as a reward, only to discover a dishwashing sponge inside the box. Its excitement quickly turns into anger.",
+    "es": "Un gato lava los platos a regañadientes. Se emociona al recibir lo que parece ser un iPhone como recompensa, pero descubre que dentro de la caja solo hay un estropajo. Su alegría se transforma rápidamente en enfado."
+  },
+  "script": {
+    "en": "A cat reluctantly washes the dishes. It becomes excited when it receives what appears to be an iPhone as a reward, only to discover a dishwashing sponge inside the box. Its excitement quickly turns into anger.",
+    "es": "Un gato lava los platos a regañadientes. Se emociona al recibir lo que parece ser un iPhone como recompensa, pero descubre que dentro de la caja solo hay un estropajo. Su alegría se transforma rápidamente en enfado.",
+    "zh": "一只猫不情愿地洗着碗。当它收到一个看似是iPhone的奖励时，它变得非常兴奋，却发现盒子里只有一块洗碗海绵。它的兴奋迅速转变为愤怒。"
+  },
+  "affective_trigger": {
+    "en": "Surprise",
+    "es": "Sorpresa"
+  },
+  "secondary_triggers": {
+    "en": [
+      "Humour",
+      "Anticipation",
+      "Disappointment",
+      "Anger",
+      "Empathy"
+    ],
+    "es": [
+      "Humor",
+      "Expectación",
+      "Decepción",
+      "Enfado",
+      "Empatía"
+    ]
+  },
+  "metrics": {
+    "real": {
+      "views": null,
+      "likes": 36000,
+      "comments": 342,
+      "reposts": 1357,
+      "shares": 12000,
+      "saves": null
+    },
+    "simulated": {
+      "views": 680000,
+      "saves": 4800
+    },
+    "display": {
+      "views": 680000,
+      "likes": 36000,
+      "comments": 342,
+      "reposts": 1357,
+      "shares": 12000,
+      "saves": 4800
+    },
+    "display_sources": {
+      "views": "simulated",
+      "likes": "observed",
+      "comments": "observed",
+      "reposts": "observed",
+      "shares": "observed",
+      "saves": "simulated"
+    }
+  },
+  "selected_comments": [
+    {
+      "comment_id": "CF-021-C001",
+      "author": "_rebecca_zhang_2022",
+      "original_language": "zh",
+      "original_text": "我的算力也都用在我的猫咪身上了",
+      "english_text": "I've been using all my computing power on my cat too.",
+      "spanish_text": "Yo también estoy dedicando toda mi capacidad de cómputo a mi gato.",
+      "emotional_category_en": "Computational consumption",
+      "emotional_category_es": "Consumo computacional",
+      "likes": null,
+      "game_selected": true
+    },
+    {
+      "comment_id": "CF-021-C002",
+      "author": "eito0619",
+      "original_language": "ja",
+      "original_text": "(AIとはいえ)拭き方と顔と投げ方と(箱投げる前の)効果音オモロ(笑)\n後､キスされた時どんな感情で顔フッてやったんだろう",
+      "english_text": "Even though it's AI, the way it wipes its paws, its facial expression, the way it throws things and the sound effect before throwing the box are hilarious (lol). Also, I wonder what it was feeling when it turned its face away after being kissed?",
+      "spanish_text": "Aunque sea IA, la forma en que se limpia las patas, su expresión, cómo lanza las cosas y el efecto de sonido antes de tirar la caja son graciosísimos (jajaja). Además, me pregunto qué sentía cuando apartó la cara después del beso.",
+      "emotional_category_en": "Affective authenticity",
+      "emotional_category_es": "Autenticidad afectiva",
+      "likes": null,
+      "game_selected": true
+    },
+    {
+      "comment_id": "CF-021-C003",
+      "author": "highon_wheeels",
+      "original_language": "hi-Latn",
+      "original_text": "Bura hua billu k saath",
+      "english_text": "Poor kitty, that was unfair to him.",
+      "spanish_text": "Pobre gatito, qué injusto lo que le han hecho.",
+      "emotional_category_en": "Moral sympathy",
+      "emotional_category_es": "Simpatía moral",
+      "likes": null,
+      "game_selected": true
+    },
+    {
+      "comment_id": "CF-021-C004",
+      "author": "sinobinumanhattankafe",
+      "original_language": "ja",
+      "original_text": "噛みつけ❤️❤️",
+      "english_text": "Bite them! ❤️❤️",
+      "spanish_text": "¡Muérdeles! ❤️❤️",
+      "emotional_category_en": "Encouragement of resistance",
+      "emotional_category_es": "Apoyo a la resistencia",
+      "likes": null,
+      "game_selected": true
+    }
+  ],
+  "game_comment_ids": [
+    "CF-021-C001",
+    "CF-021-C002",
+    "CF-021-C003",
+    "CF-021-C004"
+  ],
+  "classification": {
+    "animal_representation": {
+      "en": "Anthropomorphic labourer and consumer",
+      "es": "Trabajador y consumidor antropomorfizado"
+    },
+    "human_script": {
+      "en": "Domestic labour, consumer desire, false reward and emotional resistance",
+      "es": "Trabajo doméstico, deseo de consumo, falsa recompensa y resistencia emocional"
+    },
+    "content_type": {
+      "en": "Domestic comedy",
+      "es": "Comedia doméstica"
+    },
+    "audience_responses": {
+      "en": [
+        "Amusement",
+        "Empathy",
+        "Emotional projection",
+        "Moral sympathy",
+        "Encouragement of resistance",
+        "Reflection on computational resources"
+      ],
+      "es": [
+        "Diversión",
+        "Empatía",
+        "Proyección emocional",
+        "Simpatía moral",
+        "Apoyo a la resistencia",
+        "Reflexión sobre los recursos computacionales"
+      ]
+    }
+  },
+  "research_analysis": {
+    "theme": {
+      "en": "Corruption of Cuteness",
+      "es": "Corrupción de la ternura"
+    },
+    "subtheme": {
+      "en": "Manufactured Consumer Desire",
+      "es": "Fabricación del deseo de consumo"
+    },
+    "secondary_themes": {
+      "en": [
+        "Commodification of resistance",
+        "False reward",
+        "Anthropomorphism of consumer desire",
+        "Domestic labour",
+        "Computational consumption",
+        "Affective authenticity"
+      ],
+      "es": [
+        "Mercantilización de la resistencia",
+        "Falsa recompensa",
+        "Antropomorfización del deseo de consumo",
+        "Trabajo doméstico",
+        "Consumo computacional",
+        "Autenticidad afectiva"
+      ]
+    },
+    "moral_bias": {
+      "en": "Human consumer desires are projected onto animals, while their labour, disappointment and anger become sources of entertainment.",
+      "es": "Los deseos de consumo humanos se proyectan sobre los animales, mientras que su trabajo, decepción y enfado se convierten en fuentes de entretenimiento."
+    },
+    "animality": {
+      "en": "The synthetic animal body becomes a proxy for human experiences of labour, consumption, deception and resistance. The cat is assigned a desire for a consumer product that has no relevance to its biological needs.",
+      "es": "El cuerpo animal sintético se convierte en un sustituto de las experiencias humanas de trabajo, consumo, engaño y resistencia. Se atribuye al gato el deseo de un producto de consumo que no responde a sus necesidades biológicas."
+    },
+    "affective_mechanism": {
+      "en": [
+        "Reluctant labour",
+        "Expectation of reward",
+        "Consumer desire",
+        "Excitement",
+        "Deception",
+        "Disappointment",
+        "Anger",
+        "Audience amusement and empathy",
+        "Social circulation",
+        "Potential economic value"
+      ],
+      "es": [
+        "Trabajo a regañadientes",
+        "Expectativa de recompensa",
+        "Deseo de consumo",
+        "Entusiasmo",
+        "Engaño",
+        "Decepción",
+        "Enfado",
+        "Diversión y empatía del público",
+        "Circulación social",
+        "Valor económico potencial"
+      ]
+    },
+    "truth_dimensions": {
+      "en": [
+        "Social truth",
+        "Experiential truth",
+        "Affective authenticity"
+      ],
+      "es": [
+        "Verdad social",
+        "Verdad experiencial",
+        "Autenticidad afectiva"
+      ]
+    },
+    "research_question": {
+      "en": "How are human consumer desires, experiences of labour and emotional resistance projected onto synthetic animal bodies and transformed into entertainment?",
+      "es": "¿Cómo se proyectan los deseos de consumo, las experiencias laborales y la resistencia emocional de los seres humanos sobre cuerpos animales sintéticos y se transforman en entretenimiento?"
+    },
+    "audience_analysis": {
+      "en": "The selected comments demonstrate different forms of engagement: reflection on computing resources, emotional interpretation despite awareness of AI generation, sympathy towards perceived injustice, and encouragement of the animal's resistance.",
+      "es": "Los comentarios seleccionados muestran distintas formas de participación: reflexión sobre los recursos computacionales, interpretación emocional a pesar de saber que el contenido está generado por IA, simpatía ante una injusticia percibida y apoyo a la resistencia del animal."
+    },
+    "infrastructure_analysis": {
+      "en": "The reference to computing power connects emotional attachment to the technological resources involved in producing synthetic animal content. It provides a potential starting point for investigating the relationship between cuteness, computational infrastructure and resource consumption.",
+      "es": "La referencia a la capacidad de cómputo conecta el apego emocional con los recursos tecnológicos implicados en la producción de contenido animal sintético. Ofrece un posible punto de partida para investigar la relación entre la ternura, la infraestructura computacional y el consumo de recursos."
+    },
+    "platform_analysis": {
+      "share_to_like_ratio": 0.3333,
+      "en": "The video received approximately one share for every three likes, indicating social circulation beyond individual appreciation. Actual monetization remains unknown.",
+      "es": "El vídeo recibió aproximadamente una compartición por cada tres me gusta, lo que indica una circulación social que va más allá de la apreciación individual. Se desconoce su monetización real."
+    }
+  },
+  "revenue_eligible": null,
+  "actual_revenue": null,
+  "audit": {
+    "status": "ready_for_integration",
+    "supported_languages": [
+      "en",
+      "es"
+    ],
+    "narrative_confirmed_by_researcher": true,
+    "script_type": "descriptive_narrative",
+    "selected_comment_count": 4,
+    "game_comment_count": 4,
+    "observed_metric_count": 4,
+    "simulated_metric_count": 2,
+    "platform_ai_label_observed": true,
+    "ai_generation_independently_verified": false,
+    "video_duration": null,
+    "video_file_verified": false,
+    "full_caption_verified": false,
+    "notes": "Narrative and selected comments confirmed by the researcher. Views and saves are simulated for the performance. Observed metrics are based on the supplied Instagram screenshot and may be rounded. Research classifications and interpretations are analytical rather than verified facts. Actual revenue and monetization eligibility are unknown."
+  }
+}{
+  "archive_id": "CF-022",
+  "video_title": "The Car Alarm Dance",
+  "video_title_es": "El baile de la alarma del coche",
+  "video_file": "CF-022.mp4",
+  "platform": "Instagram",
+  "creator": "longlong_gugu",
+  "source_url": "https://www.instagram.com/reel/DgB9tjePYZp/",
+  "original_caption": "🚨🚨🚨",
+  "publication_date": "2026-11-22",
+  "collection_date": "2026-11-26",
+  "animal_type": "Cat",
+  "animal_type_es": "Gato",
+  "characters": [
+    "Ginger and white cat"
+  ],
+  "character_roles": [
+    "Performer",
+    "Entertainer"
+  ],
+  "ai_label": null,
+  "script_category": "Rhythmic performance",
+  "script_category_es": "Actuación rítmica",
+  "narrative": {
+    "en": "A ginger cat stands beside a parked car and dances to the rhythm of its car alarm, turning an everyday warning sound into a source of entertainment.",
+    "es": "Un gato naranja se pone de pie junto a un coche aparcado y baila al ritmo de su alarma, convirtiendo un sonido cotidiano de advertencia en una fuente de entretenimiento."
+  },
+  "script": {
+    "en": "Turn a ginger cat into a performer to make people laugh. Have it stand beside a parked car and dance to the rhythm of the car alarm.",
+    "es": "Convierte a un gato naranja en un artista para hacer reír al público. Haz que se ponga de pie junto a un coche aparcado y baile al ritmo de la alarma del coche.",
+    "zh": "让橘猫变成表演者制造笑点。让它站在停放的汽车旁，跟随汽车警报器的节奏跳舞。"
+  },
+  "affective_trigger": {
+    "en": "Humour",
+    "es": "Humor"
+  },
+  "secondary_triggers": {
+    "en": [
+      "Surprise",
+      "Recognition",
+      "Joy",
+      "Fascination"
+    ],
+    "es": [
+      "Sorpresa",
+      "Reconocimiento",
+      "Alegría",
+      "Fascinación"
+    ]
+  },
+  "metrics": {
+    "real": {
+      "views": null,
+      "likes": 149000,
+      "comments": 607,
+      "reposts": 6960,
+      "shares": 111000,
+      "saves": null
+    },
+    "simulated": {
+      "views": 3850000,
+      "saves": 23500
+    },
+    "display": {
+      "views": 3850000,
+      "likes": 149000,
+      "comments": 607,
+      "reposts": 6960,
+      "shares": 111000,
+      "saves": 23500
+    },
+    "display_sources": {
+      "views": "simulated",
+      "likes": "observed",
+      "comments": "observed",
+      "reposts": "observed",
+      "shares": "observed",
+      "saves": "simulated"
+    }
+  },
+  "selected_comments": [
+    {
+      "comment_id": "CF-022-C001",
+      "author": "_santiagoabreu",
+      "original_language": "pt",
+      "original_text": "A favela não pode saber que vejo esse tipo de vídeo.kkkk",
+      "english_text": "The favela can't find out that I watch this kind of video. Hahaha",
+      "spanish_text": "La favela no puede enterarse de que veo este tipo de vídeos. Jajaja",
+      "emotional_category_en": "Guilty pleasure",
+      "emotional_category_es": "Placer culpable",
+      "likes": null,
+      "game_selected": true
+    },
+    {
+      "comment_id": "CF-022-C002",
+      "author": "samcarew2023",
+      "original_language": "en",
+      "original_text": "This is hilarious, but it also captures the nature of cats!!",
+      "english_text": "This is hilarious, but it also captures the nature of cats!!",
+      "spanish_text": "¡Es divertidísimo, pero también capta la naturaleza de los gatos!",
+      "emotional_category_en": "Perceived animal nature",
+      "emotional_category_es": "Percepción de la naturaleza animal",
+      "likes": null,
+      "game_selected": true
+    },
+    {
+      "comment_id": "CF-022-C003",
+      "author": "r_s_t_u_v_w_x_y._.z",
+      "original_language": "en",
+      "original_text": "What AI app is this, I want to edit my cat",
+      "english_text": "What AI app is this, I want to edit my cat",
+      "spanish_text": "¿Qué aplicación de IA es esta? Quiero editar a mi gato.",
+      "emotional_category_en": "Viewer-to-producer transition",
+      "emotional_category_es": "Transición de espectador a productor",
+      "likes": null,
+      "game_selected": true
+    },
+    {
+      "comment_id": "CF-022-C004",
+      "author": "jewel.shalom",
+      "original_language": "en",
+      "original_text": "STOP! I mean I can't stop bobbing my head too 😆😂❤️ I love ginger cats",
+      "english_text": "STOP! I mean I can't stop bobbing my head too 😆😂❤️ I love ginger cats",
+      "spanish_text": "¡PARA! O sea, yo tampoco puedo dejar de mover la cabeza al ritmo 😆😂❤️ Me encantan los gatos naranjas.",
+      "emotional_category_en": "Embodied participation",
+      "emotional_category_es": "Participación corporal",
+      "likes": null,
+      "game_selected": true
+    },
+    {
+      "comment_id": "CF-022-C005",
+      "author": "im.hunter.robinson",
+      "original_language": "en",
+      "original_text": "I LOVE AI CAT SO MUCH~ 😃",
+      "english_text": "I LOVE AI CAT SO MUCH~ 😃",
+      "spanish_text": "¡ME ENCANTAN LOS GATOS DE IA!~ 😃",
+      "emotional_category_en": "Explicit AI affection",
+      "emotional_category_es": "Afecto explícito hacia los animales de IA",
+      "likes": null,
+      "game_selected": true
+    }
+  ],
+  "game_comment_ids": [
+    "CF-022-C001",
+    "CF-022-C002",
+    "CF-022-C003",
+    "CF-022-C004",
+    "CF-022-C005"
+  ],
+  "classification": {
+    "animal_representation": {
+      "en": "Performing Bodies",
+      "es": "Cuerpos performativos"
+    },
+    "human_script": {
+      "en": "Dancing, rhythmic performance and entertainment",
+      "es": "Baile, actuación rítmica y entretenimiento"
+    },
+    "content_type": {
+      "en": "Musical and physical comedy",
+      "es": "Comedia musical y corporal"
+    },
+    "audience_responses": {
+      "en": [
+        "Amusement",
+        "Guilty pleasure",
+        "Perceived animal authenticity",
+        "Creative aspiration",
+        "Physical imitation",
+        "Affection towards AI animals"
+      ],
+      "es": [
+        "Diversión",
+        "Placer culpable",
+        "Autenticidad animal percibida",
+        "Aspiración creativa",
+        "Imitación física",
+        "Afecto hacia los animales de IA"
+      ]
+    }
+  },
+  "research_analysis": {
+    "theme": {
+      "en": "Corruption of Cuteness",
+      "es": "Corrupción de la ternura"
+    },
+    "subtheme": {
+      "en": "Animal Bodies as Entertainment Machines",
+      "es": "Cuerpos animales como máquinas de entretenimiento"
+    },
+    "secondary_themes": {
+      "en": [
+        "Instrumentalisation of animal bodies",
+        "Rhythmic synchronisation",
+        "Embodied spectatorship",
+        "Construction of animal nature",
+        "Guilty pleasure and social identity",
+        "Viewer-to-producer transition",
+        "Affection towards synthetic animals"
+      ],
+      "es": [
+        "Instrumentalización de los cuerpos animales",
+        "Sincronización rítmica",
+        "Experiencia corporal del espectador",
+        "Construcción de la naturaleza animal",
+        "Placer culpable e identidad social",
+        "Transición de espectador a productor",
+        "Afecto hacia los animales sintéticos"
+      ]
+    },
+    "moral_bias": {
+      "en": "Animal bodies are instrumentalised as performers whose movements are designed to satisfy human entertainment needs. Fictional animal behaviours may also influence how audiences understand animal nature.",
+      "es": "Los cuerpos animales se instrumentalizan como artistas cuyos movimientos están diseñados para satisfacer las necesidades humanas de entretenimiento. Los comportamientos animales ficticios también pueden influir en cómo el público entiende la naturaleza animal."
+    },
+    "animality": {
+      "en": "The animal body becomes a programmable entertainment interface. Human musical rhythms and performance conventions are projected onto the cat, while some viewers interpret these fictional behaviours as expressions of authentic animal nature.",
+      "es": "El cuerpo animal se convierte en una interfaz de entretenimiento programable. Los ritmos musicales humanos y las convenciones de la actuación se proyectan sobre el gato, mientras que algunos espectadores interpretan estos comportamientos ficticios como expresiones de una naturaleza animal auténtica."
+    },
+    "affective_mechanism": {
+      "en": [
+        "Cute animal body",
+        "Unexpected rhythmic performance",
+        "Human bodily synchronisation",
+        "Amusement and emotional pleasure",
+        "Recognition of animal behaviour",
+        "Desire to reproduce the content",
+        "Social circulation",
+        "Potential economic value"
+      ],
+      "es": [
+        "Cuerpo animal adorable",
+        "Actuación rítmica inesperada",
+        "Sincronización corporal humana",
+        "Diversión y placer emocional",
+        "Reconocimiento del comportamiento animal",
+        "Deseo de reproducir el contenido",
+        "Circulación social",
+        "Valor económico potencial"
+      ]
+    },
+    "truth_dimensions": {
+      "en": [
+        "Perceived animal authenticity",
+        "Experiential truth",
+        "Affective authenticity",
+        "Embodied response"
+      ],
+      "es": [
+        "Autenticidad animal percibida",
+        "Verdad experiencial",
+        "Autenticidad afectiva",
+        "Respuesta corporal"
+      ]
+    },
+    "research_question": {
+      "en": "How do synthetic animal performances trigger real human bodily responses, reshape perceptions of animal nature and encourage viewers to become producers of similar content?",
+      "es": "¿Cómo provocan las actuaciones de animales sintéticos respuestas corporales humanas reales, transforman las percepciones de la naturaleza animal y animan a los espectadores a convertirse en productores de contenidos similares?"
+    },
+    "audience_analysis": {
+      "en": "The five selected comments reveal distinct forms of engagement: private enjoyment and social embarrassment, recognition of fictional behaviour as animal nature, interest in AI production tools, physical synchronisation with the animal's movements, and explicit affection towards AI-generated animals.",
+      "es": "Los cinco comentarios seleccionados revelan distintas formas de participación: disfrute privado y vergüenza social, reconocimiento de comportamientos ficticios como parte de la naturaleza animal, interés por las herramientas de producción con IA, sincronización física con los movimientos del animal y afecto explícito hacia los animales generados por IA."
+    },
+    "embodiment_analysis": {
+      "en": "The comment about involuntarily moving one's head suggests that a synthetic animal performance can extend beyond visual consumption and generate a physical response in the viewer.",
+      "es": "El comentario sobre mover involuntariamente la cabeza sugiere que una actuación animal sintética puede ir más allá del consumo visual y generar una respuesta física en el espectador."
+    },
+    "production_analysis": {
+      "en": "The request for the name of the AI application indicates an intention to reproduce the content using a personal pet. The viewer becomes a potential producer, extending the circulation of synthetic animal performances.",
+      "es": "La pregunta por el nombre de la aplicación de IA indica una intención de reproducir el contenido utilizando una mascota propia. El espectador se convierte en un productor potencial, ampliando la circulación de actuaciones animales sintéticas."
+    },
+    "social_identity_analysis": {
+      "en": "The comment about hiding the viewing habit from the favela humorously suggests a possible tension between enjoying cute content and maintaining a public social identity.",
+      "es": "El comentario sobre ocultar a la favela el hábito de ver estos vídeos sugiere, de forma humorística, una posible tensión entre disfrutar del contenido adorable y mantener una identidad social pública."
+    },
+    "platform_analysis": {
+      "share_to_like_ratio": 0.745,
+      "en": "The video received approximately 75 shares for every 100 likes. This indicates substantial social circulation relative to the number of likes. Actual monetization remains unknown.",
+      "es": "El vídeo recibió aproximadamente 75 comparticiones por cada 100 me gusta. Esto indica una circulación social considerable en relación con el número de me gusta. Se desconoce su monetización real."
+    }
+  },
+  "revenue_eligible": null,
+  "actual_revenue": null,
+  "audit": {
+    "status": "ready_for_integration",
+    "supported_languages": [
+      "en",
+      "es"
+    ],
+    "script_confirmed_by_researcher": true,
+    "script_type": "critical_instruction",
+    "selected_comment_count": 5,
+    "game_comment_count": 5,
+    "observed_metric_count": 4,
+    "simulated_metric_count": 2,
+    "platform_ai_label_observed": false,
+    "ai_generation_independently_verified": false,
+    "publication_date_estimated": true,
+    "video_duration": null,
+    "video_file_verified": false,
+    "notes": "Script and selected comments confirmed by the researcher. Views and saves are simulated for the performance. Observed metrics are based on the supplied Instagram screenshot and may be rounded. Publication date is estimated from the relative date displayed in the screenshot. AI generation is suggested by the content and audience comments but has not been independently verified. Research classifications are interpretive. Actual revenue and monetization eligibility are unknown."
+  }
+}{
+  "selected_comments": [
+    {
+      "comment_id": "CF-023-C001",
+      "author": "0l0l0l0l0l0l0l00l0l0l0l0l0l0l",
+      "original_language": "es",
+      "original_text": "Es real, yo le compro a el todas las mañanas",
+      "english_text": "It's real, I buy from him every morning.",
+      "spanish_text": "Es real, yo le compro a el todas las mañanas",
+      "emotional_category_en": "Participatory fiction",
+      "emotional_category_es": "Ficción participativa",
+      "likes": null,
+      "game_selected": true
+    },
+    {
+      "comment_id": "CF-023-C002",
+      "author": "zahraa.mustafa26",
+      "original_language": "ar",
+      "original_text": "ممكن العنوان حتى اشتري منك",
+      "english_text": "Can I have the address so I can buy from you?",
+      "spanish_text": "¿Me puedes dar la dirección para comprarte algo?",
+      "emotional_category_en": "Purchase intention",
+      "emotional_category_es": "Intención de compra",
+      "likes": null,
+      "game_selected": true
+    },
+    {
+      "comment_id": "CF-023-C003",
+      "author": "juliette_estephany",
+      "original_language": "es",
+      "original_text": "A los cuantos meses comienza a trabajar? 😂",
+      "english_text": "At how many months old does it start working? 😂",
+      "spanish_text": "A los cuantos meses comienza a trabajar? 😂",
+      "emotional_category_en": "Normalisation of labour",
+      "emotional_category_es": "Normalización del trabajo",
+      "likes": null,
+      "game_selected": true
+    },
+    {
+      "comment_id": "CF-023-C004",
+      "author": "danielapeherdz",
+      "original_language": "es",
+      "original_text": "Me dió hambre",
+      "english_text": "It made me hungry.",
+      "spanish_text": "Me dió hambre",
+      "emotional_category_en": "Appetite stimulation",
+      "emotional_category_es": "Estimulación del apetito",
+      "likes": null,
+      "game_selected": true
+    },
+    {
+      "comment_id": "CF-023-C005",
+      "author": "_aduenam_",
+      "original_language": "ru",
+      "original_text": "@ri.ttaria научи Тигрика такому",
+      "english_text": "@ri.ttaria teach Tigrik to do this.",
+      "spanish_text": "@ri.ttaria enséñale a Tigrik a hacer esto.",
+      "emotional_category_en": "Behavioural reproduction",
+      "emotional_category_es": "Reproducción del comportamiento",
+      "likes": null,
+      "game_selected": true
+    }
+  ],
+  "game_comment_ids": [
+    "CF-023-C001",
+    "CF-023-C002",
+    "CF-023-C003",
+    "CF-023-C004",
+    "CF-023-C005"
+  ]
+}{
+  "selected_comments": [
+    {
+      "comment_id": "CF-023-C001",
+      "author": "0l0l0l0l0l0l0l00l0l0l0l0l0l0l",
+      "original_language": "es",
+      "original_text": "Es real, yo le compro a el todas las mañanas",
+      "english_text": "It's real, I buy from him every morning.",
+      "spanish_text": "Es real, yo le compro a el todas las mañanas",
+      "emotional_category_en": "Participatory fiction",
+      "emotional_category_es": "Ficción participativa",
+      "likes": null,
+      "game_selected": true
+    },
+    {
+      "comment_id": "CF-023-C002",
+      "author": "zahraa.mustafa26",
+      "original_language": "ar",
+      "original_text": "ممكن العنوان حتى اشتري منك",
+      "english_text": "Can I have the address so I can buy from you?",
+      "spanish_text": "¿Me puedes dar la dirección para comprarte algo?",
+      "emotional_category_en": "Purchase intention",
+      "emotional_category_es": "Intención de compra",
+      "likes": null,
+      "game_selected": true
+    },
+    {
+      "comment_id": "CF-023-C003",
+      "author": "juliette_estephany",
+      "original_language": "es",
+      "original_text": "A los cuantos meses comienza a trabajar? 😂",
+      "english_text": "At how many months old does it start working? 😂",
+      "spanish_text": "A los cuantos meses comienza a trabajar? 😂",
+      "emotional_category_en": "Normalisation of labour",
+      "emotional_category_es": "Normalización del trabajo",
+      "likes": null,
+      "game_selected": true
+    },
+    {
+      "comment_id": "CF-023-C004",
+      "author": "danielapeherdz",
+      "original_language": "es",
+      "original_text": "Me dió hambre",
+      "english_text": "It made me hungry.",
+      "spanish_text": "Me dió hambre",
+      "emotional_category_en": "Appetite stimulation",
+      "emotional_category_es": "Estimulación del apetito",
+      "likes": null,
+      "game_selected": true
+    },
+    {
+      "comment_id": "CF-023-C005",
+      "author": "_aduenam_",
+      "original_language": "ru",
+      "original_text": "@ri.ttaria научи Тигрика такому",
+      "english_text": "@ri.ttaria teach Tigrik to do this.",
+      "spanish_text": "@ri.ttaria enséñale a Tigrik a hacer esto.",
+      "emotional_category_en": "Behavioural reproduction",
+      "emotional_category_es": "Reproducción del comportamiento",
+      "likes": null,
+      "game_selected": true
+    }
+  ],
+  "game_comment_ids": [
+    "CF-023-C001",
+    "CF-023-C002",
+    "CF-023-C003",
+    "CF-023-C004",
+    "CF-023-C005"
+  ]{
+  "selected_comments": [
+    {
+      "comment_id": "CF-024-C001",
+      "author": "danadaurey",
+      "original_language": "en",
+      "original_text": "So sweet, I had 2 Wiener dogs for 17 years. And this always makes me smile... With that said, I am a vegan now for the last 8 years and, this actually hurts my heart because... Well, I don't need to explain again. This is so sweet and I know whoever made this. Their heart was in the right place🩷🩷🩷",
+      "english_text": "So sweet, I had 2 Wiener dogs for 17 years. And this always makes me smile... With that said, I am a vegan now for the last 8 years and, this actually hurts my heart because... Well, I don't need to explain again. This is so sweet and I know whoever made this. Their heart was in the right place🩷🩷🩷",
+      "spanish_text": "Qué adorable. Tuve dos perros salchicha durante 17 años. Y esto siempre me hace sonreír... Dicho esto, llevo ocho años siguiendo una dieta vegana y, en realidad, esto me duele en el corazón porque... Bueno, no hace falta que vuelva a explicarlo. Es muy adorable y sé que quien lo hizo tenía buenas intenciones🩷🩷🩷",
+      "emotional_category_en": "Ethical ambivalence",
+      "emotional_category_es": "Ambivalencia ética",
+      "likes": null,
+      "game_selected": true
+    },
+    {
+      "comment_id": "CF-024-C002",
+      "author": "louie_english_cream",
+      "original_language": "en",
+      "original_text": "You know that isn’t real because they would be eating their buns!",
+      "english_text": "You know that isn’t real because they would be eating their buns!",
+      "spanish_text": "¡Sabes que no es real porque se estarían comiendo sus panecillos!",
+      "emotional_category_en": "Behavioural authenticity",
+      "emotional_category_es": "Autenticidad del comportamiento",
+      "likes": null,
+      "game_selected": true
+    },
+    {
+      "comment_id": "CF-024-C003",
+      "author": "princessladycaterellaaa",
+      "original_language": "de",
+      "original_text": "Ne finde ich nicht gut . In anbetracht der Tatsache dass sie in Teilen der Welt wirklich gegessen werden widert mich das grade sehr an",
+      "english_text": "No, I don't like it. Considering that they really are eaten in some parts of the world, this really disgusts me.",
+      "spanish_text": "No, no me gusta. Teniendo en cuenta que en algunas partes del mundo realmente se los comen, esto me da mucho asco.",
+      "emotional_category_en": "Ethical disgust",
+      "emotional_category_es": "Repulsión ética",
+      "likes": null,
+      "game_selected": true
+    },
+    {
+      "comment_id": "CF-024-C004",
+      "author": "aaxelld",
+      "original_language": "en",
+      "original_text": "If anyone tried to take a bite of either of these I’d fight them to the death",
+      "english_text": "If anyone tried to take a bite of either of these I’d fight them to the death",
+      "spanish_text": "Si alguien intentara darle un mordisco a cualquiera de los dos, lucharía contra esa persona hasta la muerte.",
+      "emotional_category_en": "Protective attachment",
+      "emotional_category_es": "Apego protector",
+      "likes": null,
+      "game_selected": true
+    },
+    {
+      "comment_id": "CF-024-C005",
+      "author": "memelikeapiya",
+      "original_language": "en",
+      "original_text": "Mmmm... tasty ai blood",
+      "english_text": "Mmmm... tasty ai blood",
+      "spanish_text": "Mmmm... deliciosa sangre de IA",
+      "emotional_category_en": "Dark humour",
+      "emotional_category_es": "Humor negro",
+      "likes": null,
+      "game_selected": true
+    }
+  ],
+  "game_comment_ids": [
+    "CF-024-C001",
+    "CF-024-C002",
+    "CF-024-C003",
+    "CF-024-C004",
+    "CF-024-C005"
+  ]
+}{
+  "archive_id": "CF-026",
+  "video_title": "The Copycat Machine",
+  "video_title_es": "La fotocopiadora de gatos",
+  "video_file": "CF-026.mp4",
+  "source_url": "https://www.instagram.com/reel/DgIgS4xMEkC/",
+  "platform": "Instagram",
+  "creator": "blackcatviral",
+  "collection_date": "2026-11-26",
+  "published_date_approx": "2026-11-25",
+  "ai_generated": true,
+  "ai_label_visible": true,
+  "animal_type": "cat",
+  "character": {
+    "en": "Adult black cat and black kittens",
+    "es": "Gato negro adulto y gatitos negros"
+  },
+  "script_category": "Mass Production of Cuteness",
+  "script": {
+    "en": "Mass-produce cuteness on demand.",
+    "es": "Produce ternura en masa bajo demanda."
+  },
+  "narrative": {
+    "en": "An adult black cat operates a photocopier with a small black kitten sitting on the scanning surface. The photocopier appears to reproduce kittens instead of documents, turning biological reproduction into a mechanical process.",
+    "es": "Un gato negro adulto utiliza una fotocopiadora con un pequeño gatito negro sentado sobre el cristal del escáner. La fotocopiadora parece reproducir gatitos en lugar de documentos, convirtiendo la reproducción biológica en un proceso mecánico."
+  },
+  "affective_trigger": "surprise",
+  "secondary_affective_triggers": [
+    "humour",
+    "desire",
+    "care",
+    "recognition"
+  ],
+  "views": 1200000,
+  "likes": 47000,
+  "comments_count": 605,
+  "reposts": 1093,
+  "shares": 22000,
+  "saves": 5600,
+  "metrics": {
+    "real": {
+      "views": null,
+      "likes": 47000,
+      "comments": 605,
+      "reposts": 1093,
+      "shares": 22000,
+      "saves": null
+    },
+    "simulated": {
+      "views": 1200000,
+      "saves": 5600
+    },
+    "display": {
+      "views": 1200000,
+      "likes": 47000,
+      "comments": 605,
+      "reposts": 1093,
+      "shares": 22000,
+      "saves": 5600
+    },
+    "display_sources": {
+      "views": "simulated",
+      "likes": "observed_rounded",
+      "comments": "observed",
+      "reposts": "observed",
+      "shares": "observed_rounded",
+      "saves": "simulated"
+    }
+  },
+  "comments": [
+    {
+      "comment_id": "CF-026-C001",
+      "username": "aleneholmangibbs",
+      "language": "en",
+      "original": "I want that copy machine I love black cats",
+      "en": "I want that copy machine I love black cats",
+      "es": "Quiero esa fotocopiadora. Me encantan los gatos negros.",
+      "category": "Consumption desire",
+      "affective_response": "desire"
+    },
+    {
+      "comment_id": "CF-026-C002",
+      "username": "jurisdoctor01",
+      "language": "en",
+      "original": "😃 I wish this was real 😂",
+      "en": "😃 I wish this was real 😂",
+      "es": "😃 Ojalá esto fuera real 😂",
+      "category": "Wish fulfilment",
+      "affective_response": "desire"
+    },
+    {
+      "comment_id": "CF-026-C003",
+      "username": "kelleysbelly19",
+      "language": "en",
+      "original": "omg the mommy cat looks like my Pru 🖤🐈‍⬛🖤",
+      "en": "omg the mommy cat looks like my Pru 🖤🐈‍⬛🖤",
+      "es": "Dios mío, la mamá gata se parece a mi Pru 🖤🐈‍⬛🖤",
+      "category": "Personal projection",
+      "affective_response": "recognition"
+    },
+    {
+      "comment_id": "CF-026-C004",
+      "username": "wikkerly",
+      "language": "en",
+      "original": "Behind the scenes of the cat distribution network.....",
+      "en": "Behind the scenes of the cat distribution network.....",
+      "es": "Entre bastidores de la red de distribución de gatos.....",
+      "category": "Fictional infrastructure",
+      "affective_response": "humour"
+    },
+    {
+      "comment_id": "CF-026-C005",
+      "username": "ellen.zellner",
+      "language": "en",
+      "original": "Would you be able to send me a Yorkie? 🤣🤣",
+      "en": "Would you be able to send me a Yorkie? 🤣🤣",
+      "es": "¿Podrías enviarme un yorkshire terrier? 🤣🤣",
+      "category": "Customised production",
+      "affective_response": "desire"
+    },
+    {
+      "comment_id": "CF-026-C006",
+      "username": "juttaschwebig",
+      "language": "de",
+      "original": "Ich nehme eine Copy vom Balou 😂",
+      "en": "I'll take a copy of Balou 😂",
+      "es": "Me quedo con una copia de Balou 😂",
+      "category": "Replication of attachment",
+      "affective_response": "recognition"
+    },
+    {
+      "comment_id": "CF-026-C007",
+      "username": "r68132446",
+      "language": "ru",
+      "original": "И рожать не надо 😂",
+      "en": "And there's no need to give birth 😂",
+      "es": "Y no hace falta dar a luz 😂",
+      "category": "Reproductive automation",
+      "affective_response": "humour"
+    },
+    {
+      "comment_id": "CF-026-C008",
+      "username": "homealways1900",
+      "language": "en",
+      "original": "Can I order ½ dozen please?",
+      "en": "Can I order ½ dozen please?",
+      "es": "¿Puedo pedir media docena, por favor?",
+      "category": "Mass consumption",
+      "affective_response": "desire"
+    },
+    {
+      "comment_id": "CF-026-C009",
+      "username": "naniduran45",
+      "language": "en",
+      "original": "Cuteness is only one of the benefits of Ai; should never be used for harm or evil.",
+      "en": "Cuteness is only one of the benefits of Ai; should never be used for harm or evil.",
+      "es": "La ternura es solo uno de los beneficios de la IA; nunca debería utilizarse para causar daño o hacer el mal.",
+      "category": "AI ethics",
+      "affective_response": "moral reflection"
+    },
+    {
+      "comment_id": "CF-026-C010",
+      "username": "t_love_joy",
+      "language": "en",
+      "original": "Ai but still cute",
+      "en": "Ai but still cute",
+      "es": "Es IA, pero sigue siendo adorable.",
+      "category": "Affective authenticity",
+      "affective_response": "affection"
+    }
+  ],
+  "selected_comments_count": 10,
+  "classification": {
+    "animal_representation": "Emotional Rewards",
+    "human_script": "Industrial production and reproduction",
+    "content_type": "Absurd comedy",
+    "research_theme": "Corruption of Cuteness",
+    "research_subtheme": "Reproduction of Cuteness",
+    "truth_dimensions": [
+      "Affective authenticity",
+      "Experiential truth",
+      "Fictional plausibility"
+    ],
+    "audience_responses": [
+      "Consumption desire",
+      "Wish fulfilment",
+      "Personal projection",
+      "Emotional attachment",
+      "Technological fantasy",
+      "Moral reflection"
+    ]
+  },
+  "research_analysis": {
+    "embedded_bias": {
+      "en": "Animal bodies are treated as infinitely reproducible products that can be manufactured and customised according to human emotional demands.",
+      "es": "Los cuerpos animales se tratan como productos infinitamente reproducibles que pueden fabricarse y personalizarse según las demandas emocionales humanas."
+    },
+    "affective_mechanism": {
+      "en": "The mechanical reproduction of cute animal bodies transforms affection into a desire for unlimited supply, ownership and customisation.",
+      "es": "La reproducción mecánica de cuerpos animales adorables transforma el afecto en un deseo de suministro ilimitado, posesión y personalización."
+    },
+    "economic_mechanism": {
+      "en": "Affective commodification through the imagined mass production of cute animals.",
+      "es": "Mercantilización afectiva mediante la producción masiva imaginaria de animales adorables."
+    },
+    "research_question": {
+      "en": "How does the technological reproduction of animal bodies transform affection into a demand for unlimited cuteness?",
+      "es": "¿Cómo transforma la reproducción tecnológica de los cuerpos animales el afecto en una demanda de ternura ilimitada?"
+    },
+    "share_to_like_ratio": 0.4681,
+    "actual_revenue": null
+  },
+  "revenue_eligible": true,
+  "audit": {
+    "source_type": "User-provided Instagram screenshot and comments",
+    "narrative_verification": "Inferred from screenshot and audience comments",
+    "script_status": "Proposed",
+    "comments_confirmed": true,
+    "original_comments_preserved": true,
+    "english_translation_complete": true,
+    "spanish_translation_complete": true,
+    "metrics_complete_for_simulation": true,
+    "simulated_metrics": [
+      "views",
+      "saves"
+    ],
+    "actual_monetisation_verified": false,
+    "video_file_verified": false,
+    "revenue_eligibility_scope": "Fictional game simulation only"
+  }
+}{
+  "archive_id": "CF-027",
+  "animal_type": "dog",
+  "video_title": "Birthday Gone Wrong",
+  "video_title_es": "Un cumpleaños que sale mal",
+  "video_file": "CF-027.mp4",
+  "platform": "Instagram",
+  "source_url": "https://www.instagram.com/reel/Ddd38fWJ9EU/",
+  "creator": "dobby_loopy",
+  "ai_generated": true,
+  "ai_label_visible": true,
+  "collected_date": "2026-11-26",
+  "published_relative": "9 weeks ago",
+  "script_category": "Disruption of Human Rituals",
+  "script_category_es": "Alteración de los rituales humanos",
+  "script": {
+    "en": "Disrupt human rituals through animal absurdity.",
+    "es": "Altera los rituales humanos mediante comportamientos animales absurdos.",
+    "zh": "通过动物的荒诞行为打破人类仪式。"
+  },
+  "narrative": {
+    "en": "Two dogs gather around a birthday cake with lit candles. Instead of blowing out the candles in the conventional way, the birthday ritual is disrupted by a fart, transforming a sentimental celebration into an absurd comedy.",
+    "es": "Dos perros se reúnen alrededor de una tarta de cumpleaños con velas encendidas. En lugar de apagar las velas de la manera habitual, un pedo interrumpe el ritual de cumpleaños, transformando una celebración emotiva en una comedia absurda."
+  },
+  "classification": {
+    "animal_representation": "Performing Bodies",
+    "animal_characters": [
+      "Corgi",
+      "Brown dog"
+    ],
+    "human_script": "Birthday Celebration",
+    "content_type": "Absurd Comedy",
+    "primary_affective_trigger": "humour",
+    "secondary_affective_triggers": [
+      "surprise",
+      "disgust",
+      "recognition"
+    ]
+  },
+  "affective_trigger": "humour",
+  "views": 2400000,
+  "likes": 107000,
+  "comments_count": 3481,
+  "reposts": 3995,
+  "shares": 111000,
+  "saves": 8500,
+  "metrics": {
+    "real": {
+      "views": null,
+      "likes": 107000,
+      "comments": 3481,
+      "reposts": 3995,
+      "shares": 111000,
+      "saves": null
+    },
+    "simulated": {
+      "views": 2400000,
+      "saves": 8500
+    },
+    "display": {
+      "views": 2400000,
+      "likes": 107000,
+      "comments": 3481,
+      "reposts": 3995,
+      "shares": 111000,
+      "saves": 8500
+    },
+    "display_sources": {
+      "views": "estimated",
+      "likes": "observed_rounded",
+      "comments": "observed",
+      "reposts": "observed",
+      "shares": "observed_rounded",
+      "saves": "estimated"
+    }
+  },
+  "comments": [
+    {
+      "comment_id": "CF-027-C001",
+      "username": "chargergirl1983",
+      "original_language": "en",
+      "original": "Nothing like “blowing” out candles on the other end. 😂😂😂😂😂",
+      "en": "Nothing like “blowing” out candles on the other end. 😂😂😂😂😂",
+      "es": "Nada como «soplar» las velas por el otro extremo. 😂😂😂😂😂",
+      "affective_response": "Humour",
+      "response_category": "Bodily Humour",
+      "likes": null
+    },
+    {
+      "comment_id": "CF-027-C002",
+      "username": "g_d_zh",
+      "original_language": "en",
+      "original": "My dog confirmed it is NOT AI",
+      "en": "My dog confirmed it is NOT AI",
+      "es": "Mi perro ha confirmado que NO es IA",
+      "affective_response": "Humour",
+      "response_category": "Playful Verification",
+      "likes": null
+    },
+    {
+      "comment_id": "CF-027-C003",
+      "username": "dandara333pet",
+      "original_language": "pt",
+      "original": "Mentira, se ele tivesse peidado mesmo teria pegado fogo!!🫡🫡🫡. Kkkkkk🤣🤣",
+      "en": "That's fake. If he had really farted, it would have caught fire!!🫡🫡🫡. Hahaha🤣🤣",
+      "es": "Mentira, si realmente se hubiera tirado un pedo, ¡habría salido ardiendo!🫡🫡🫡. Jajajaja🤣🤣",
+      "affective_response": "Humour",
+      "response_category": "Reality Testing",
+      "likes": null
+    },
+    {
+      "comment_id": "CF-027-C004",
+      "username": "daegu__man",
+      "original_language": "ko",
+      "original": "케익 못먹음. 방구 냄새 배겼음",
+      "en": "Can't eat the cake now. It's soaked up the fart smell.",
+      "es": "Ya no se puede comer la tarta. Se le ha quedado impregnado el olor a pedo.",
+      "affective_response": "Disgust",
+      "response_category": "Sensory Projection",
+      "likes": null
+    },
+    {
+      "comment_id": "CF-027-C005",
+      "username": "bijougirl1981",
+      "original_language": "en",
+      "original": "🤣🤣🤣 Thank you for this great post! It made my evening! ♥️🐶😂",
+      "en": "🤣🤣🤣 Thank you for this great post! It made my evening! ♥️🐶😂",
+      "es": "🤣🤣🤣 ¡Gracias por esta publicación tan genial! ¡Me ha alegrado la noche! ♥️🐶😂",
+      "affective_response": "Joy",
+      "response_category": "Emotional Reward",
+      "likes": null
+    },
+    {
+      "comment_id": "CF-027-C006",
+      "username": "hoygulijiangzi",
+      "original_language": "ja",
+      "original": "ええっ！？ちょっと止めてあげて〜！！コーギーのイメージが悪くなるから😂",
+      "en": "What!? Someone stop this, please!! It's going to give corgis a bad reputation 😂",
+      "es": "¡¿Qué?! ¡Que alguien pare esto, por favor! ¡Va a darles mala fama a los corgis! 😂",
+      "affective_response": "Concern",
+      "response_category": "Species Reputation",
+      "likes": null
+    },
+    {
+      "comment_id": "CF-027-C007",
+      "username": "cynthiamiller6323",
+      "original_language": "en",
+      "original": "this is just like my two dogs 🤣😂🤣😂",
+      "en": "this is just like my two dogs 🤣😂🤣😂",
+      "es": "Esto es exactamente igual que mis dos perros 🤣😂🤣😂",
+      "affective_response": "Recognition",
+      "response_category": "Personal Projection",
+      "likes": null
+    },
+    {
+      "comment_id": "CF-027-C008",
+      "username": "toffeesanjose",
+      "original_language": "en",
+      "original": "Why the cake taste different?",
+      "en": "Why the cake taste different?",
+      "es": "¿Por qué sabe diferente la tarta?",
+      "affective_response": "Humour",
+      "response_category": "Participatory Fiction",
+      "likes": null
+    }
+  ],
+  "selected_comment_ids": [
+    "CF-027-C001",
+    "CF-027-C002",
+    "CF-027-C003",
+    "CF-027-C004",
+    "CF-027-C005",
+    "CF-027-C006",
+    "CF-027-C007",
+    "CF-027-C008"
+  ],
+  "research_analysis": {
+    "research_theme": "Corruption of Cuteness",
+    "research_subtheme": "Animals as Instruments of Absurd Entertainment",
+    "embedded_bias": {
+      "en": "Animal bodies are manipulated into performing human rituals and violating social conventions for entertainment.",
+      "es": "Los cuerpos animales se manipulan para representar rituales humanos y transgredir las convenciones sociales con fines de entretenimiento."
+    },
+    "affective_mechanisms": [
+      "Anthropomorphism",
+      "Ritual Disruption",
+      "Bodily Humour",
+      "Sensory Projection",
+      "Personal Projection",
+      "Participatory Fiction"
+    ],
+    "truth_dimensions": [
+      "Experiential Truth",
+      "Affective Authenticity",
+      "Playful Negotiation of Synthetic Reality"
+    ],
+    "audience_behaviour": {
+      "en": "Viewers extend the fictional scenario through jokes, imagined smells and tastes, references to their own pets, and playful arguments about whether the event could be real.",
+      "es": "Los espectadores amplían la situación ficticia mediante bromas, olores y sabores imaginados, referencias a sus propias mascotas y debates humorísticos sobre si el acontecimiento podría ser real."
+    },
+    "research_question": {
+      "en": "How do synthetic animal bodies transform familiar human rituals into emotionally rewarding and commercially shareable absurdity?",
+      "es": "¿Cómo transforman los cuerpos animales sintéticos los rituales humanos familiares en experiencias absurdas, emocionalmente gratificantes y comercialmente compartibles?"
+    },
+    "value_generation": {
+      "en": "Cuteness and bodily absurdity generate laughter, personal recognition and participatory humour, encouraging viewers to share the content.",
+      "es": "La ternura y el absurdo corporal generan risas, identificación personal y humor participativo, incentivando a los espectadores a compartir el contenido."
+    },
+    "share_to_like_ratio": 1.0374
+  },
+  "revenue_eligible": true,
+  "audit": {
+    "record_status": "ready_for_import",
+    "selected_comments_count": 8,
+    "supported_languages": [
+      "en",
+      "es"
+    ],
+    "original_comments_preserved": true,
+    "metrics_source": "User-provided Instagram screenshot",
+    "estimated_metrics": [
+      "views",
+      "saves"
+    ],
+    "narrative_source": "Screenshot and supplied audience comments",
+    "full_video_verified": false,
+    "video_file_verified": false,
+    "actual_monetization_verified": false,
+    "revenue_eligible_scope": "Game simulation only"
+  }
+}{
+  "archive_id": "CF-028",
+  "animal_type": "dog",
+  "video_title": "The Dancing Cowboy Dog",
+  "video_title_es": "El perro vaquero bailarín",
+  "video_file": "CF-028.mp4",
+  "platform": "Instagram",
+  "source_url": "https://www.instagram.com/reel/DgLVfQvyHhy/",
+  "creator": "napoleon_and_justice",
+  "ai_generated": true,
+  "ai_label_visible": true,
+  "collected_date": "2026-11-26",
+  "script_category": "Technological Normalisation",
+  "script_category_es": "Normalización tecnológica",
+  "script": {
+    "en": "Make controversial technology acceptable through cute entertainment.",
+    "es": "Haz que una tecnología controvertida sea aceptable mediante el entretenimiento adorable.",
+    "zh": "通过可爱的娱乐内容，让具有争议性的技术变得可以接受。"
+  },
+  "narrative": {
+    "en": "A dog wearing a cowboy hat and boots stands upright and performs a country line dance alongside a group of humans, blending seamlessly into the social gathering.",
+    "es": "Un perro con sombrero y botas de vaquero baila de pie una coreografía de country junto a un grupo de personas, integrándose en la reunión social."
+  },
+  "classification": {
+    "animal_representation": "Performing Bodies",
+    "animal_characters": [
+      "Justice"
+    ],
+    "human_script": "Social Dancing",
+    "content_type": "Animal Performance",
+    "primary_affective_trigger": "humour",
+    "secondary_affective_triggers": [
+      "surprise",
+      "recognition",
+      "awe"
+    ]
+  },
+  "affective_trigger": "humour",
+  "views": 4800000,
+  "likes": 222000,
+  "comments_count": 874,
+  "reposts": 12000,
+  "shares": 182000,
+  "saves": 16000,
+  "metrics": {
+    "real": {
+      "views": null,
+      "likes": 222000,
+      "comments": 874,
+      "reposts": 12000,
+      "shares": 182000,
+      "saves": null
+    },
+    "simulated": {
+      "views": 4800000,
+      "saves": 16000
+    },
+    "display": {
+      "views": 4800000,
+      "likes": 222000,
+      "comments": 874,
+      "reposts": 12000,
+      "shares": 182000,
+      "saves": 16000
+    },
+    "display_sources": {
+      "views": "estimated",
+      "likes": "observed_rounded",
+      "comments": "observed",
+      "reposts": "observed_rounded",
+      "shares": "observed_rounded",
+      "saves": "estimated"
+    }
+  },
+  "comments": [
+    {
+      "comment_id": "CF-028-C001",
+      "username": "macaulay.carter",
+      "original_language": "en",
+      "original": "Okay AI can stay",
+      "en": "Okay AI can stay",
+      "es": "Vale, la IA puede quedarse.",
+      "affective_response": "Acceptance",
+      "response_category": "Technological Acceptance",
+      "likes": null
+    },
+    {
+      "comment_id": "CF-028-C002",
+      "username": "kgnb83",
+      "original_language": "en",
+      "original": "Ok I guess I’m ok with a data center.",
+      "en": "Ok I guess I’m ok with a data center.",
+      "es": "Vale, supongo que no me importa que haya un centro de datos.",
+      "affective_response": "Acceptance",
+      "response_category": "Infrastructure Acceptance",
+      "likes": null
+    },
+    {
+      "comment_id": "CF-028-C003",
+      "username": "mostlycoffeeanddogs",
+      "original_language": "en",
+      "original": "I’ve watched this 17 times 😂",
+      "en": "I’ve watched this 17 times 😂",
+      "es": "He visto esto 17 veces 😂",
+      "affective_response": "Humour",
+      "response_category": "Repeated Consumption",
+      "likes": null
+    }
+  ],
+  "selected_comment_ids": [
+    "CF-028-C001",
+    "CF-028-C002",
+    "CF-028-C003"
+  ],
+  "research_analysis": {
+    "research_theme": "Corruption of Cuteness",
+    "research_subtheme": "Cuteness as Technological Permission",
+    "embedded_bias": {
+      "en": "Emotional gratification is used to justify the technological and infrastructural costs of AI.",
+      "es": "La gratificación emocional se utiliza para justificar los costes tecnológicos y de infraestructura de la IA."
+    },
+    "affective_mechanisms": [
+      "Anthropomorphism",
+      "Humour",
+      "Emotional Gratification",
+      "Repeated Consumption",
+      "Technological Normalisation"
+    ],
+    "truth_dimensions": [
+      "Affective Authenticity",
+      "Experiential Truth",
+      "Negotiation of Synthetic Reality"
+    ],
+    "audience_behaviour": {
+      "en": "Viewers express emotional enjoyment, repeated consumption and potentially ironic acceptance of AI technology and its infrastructure.",
+      "es": "Los espectadores expresan disfrute emocional, consumo repetido y una aceptación potencialmente irónica de la tecnología de IA y su infraestructura."
+    },
+    "research_question": {
+      "en": "How does cute animal entertainment contribute to the social acceptance of AI technologies and their infrastructure?",
+      "es": "¿Cómo contribuye el entretenimiento con animales adorables a la aceptación social de las tecnologías de IA y sus infraestructuras?"
+    },
+    "value_generation": {
+      "en": "Synthetic animal performances generate attention, emotional gratification and potential technological acceptance through repeated viewing and sharing.",
+      "es": "Las actuaciones de animales sintéticos generan atención, gratificación emocional y una posible aceptación tecnológica mediante la visualización repetida y la difusión."
+    },
+    "share_to_like_ratio": 0.8198
+  },
+  "revenue_eligible": true,
+  "audit": {
+    "record_status": "ready_for_import",
+    "selected_comments_count": 3,
+    "supported_languages": [
+      "en",
+      "es"
+    ],
+    "original_comments_preserved": true,
+    "metrics_source": "User-provided Instagram screenshot",
+    "estimated_metrics": [
+      "views",
+      "saves"
+    ],
+    "narrative_source": "Screenshot and supplied audience comments",
+    "full_video_verified": false,
+    "video_file_verified": false,
+    "actual_monetization_verified": false,
+    "revenue_eligible_scope": "Game simulation only"
+  }
+}{
+  "archive_id": "CF-030",
+  "animal_type": "dog",
+  "secondary_animal_type": "cat",
+  "video_title": "The Price of Generosity",
+  "video_file": "CF-030.mp4",
+  "source_url": "https://www.instagram.com/reel/DgNIFC3y-3z/",
+  "platform": "Instagram",
+  "creator": "looooooki.i",
+  "original_caption": "Can I pay for this?",
+  "ai_label": true,
+  "collection_date": "2026-11-26",
+  "publication_age_at_collection": "3 hours",
+  "script_category": "Social obligations",
+  "script": {
+    "en": "Make financial embarrassment entertaining through cute animals.",
+    "es": "Convierte las situaciones económicas embarazosas en entretenimiento mediante animales adorables.",
+    "zh": "通过可爱的动物将经济窘迫转化为娱乐。"
+  },
+  "narrative": {
+    "en": "A dog and a cat dine together at a restaurant. The dog insists on paying the bill but does not have enough money, so it ends up washing dishes to pay off the bill.",
+    "es": "Un perro y un gato comen juntos en un restaurante. El perro insiste en pagar la cuenta, pero no tiene suficiente dinero y acaba lavando los platos para saldar la deuda.",
+    "zh": "猫咪和狗狗一起在餐厅吃饭。狗狗抢着买单，却发现自己没有足够的钱，最后只能通过洗盘子来偿还账单。"
+  },
+  "classification": {
+    "animal_representation": "Social proxies",
+    "content_type": "Anthropomorphic comedy",
+    "human_roles": [
+      "Customer",
+      "Dining companion",
+      "Service worker"
+    ],
+    "human_behaviours": [
+      "Generosity",
+      "Social obligation",
+      "Financial embarrassment",
+      "Debt repayment"
+    ],
+    "affective_trigger": "humour",
+    "secondary_affective_triggers": [
+      "recognition",
+      "pity"
+    ]
+  },
+  "metrics": {
+    "real": {
+      "views": null,
+      "likes": 350,
+      "comments": 2,
+      "reposts": 13,
+      "shares": 89,
+      "saves": null
+    },
+    "simulated": {
+      "views": 8500,
+      "saves": 25
+    },
+    "display": {
+      "views": 8500,
+      "likes": 350,
+      "comments": 2,
+      "reposts": 13,
+      "shares": 89,
+      "saves": 25
+    },
+    "display_sources": {
+      "views": "simulated",
+      "likes": "observed",
+      "comments": "observed",
+      "reposts": "observed",
+      "shares": "observed",
+      "saves": "simulated"
+    }
+  },
+  "comments": [
+    {
+      "comment_id": "CF-030-C001",
+      "username": null,
+      "original_language": "emoji",
+      "original_text": "🔥🔥🙌🙌🙌😍😍",
+      "translation_en": "🔥🔥🙌🙌🙌😍😍",
+      "translation_es": "🔥🔥🙌🙌🙌😍😍",
+      "affective_response": "Appreciation",
+      "likes": 1,
+      "source_url": "https://www.instagram.com/p/DgNIFC3y-3z/c/18194937925405329/",
+      "selected": true
+    }
+  ],
+  "research_analysis": {
+    "research_theme": "Economic pressure as entertainment",
+    "subtheme": "The commodification of financial embarrassment",
+    "social_biases": [
+      "Social generosity as an economic obligation",
+      "Financial inadequacy as a source of comedy",
+      "Labour as a means of debt repayment",
+      "The projection of human financial responsibilities onto animals"
+    ],
+    "affective_mechanism": [
+      "Cuteness",
+      "Recognition of human social rituals",
+      "Financial embarrassment",
+      "Comic resolution",
+      "Audience amusement"
+    ],
+    "interpretation": {
+      "en": "The video projects human social obligations and financial pressures onto animal bodies. Cuteness transforms the embarrassment of being unable to pay into entertainment, while labour becomes a humorous resolution to economic debt.",
+      "es": "El vídeo proyecta las obligaciones sociales y las presiones económicas humanas sobre los cuerpos animales. La ternura transforma la vergüenza de no poder pagar en entretenimiento, mientras que el trabajo se convierte en una solución humorística a la deuda económica."
+    },
+    "research_question": {
+      "en": "How does cuteness transform financial embarrassment and economic pressure into entertainment?",
+      "es": "¿Cómo transforma la ternura la vergüenza financiera y la presión económica en entretenimiento?"
+    }
+  },
+  "commercial_context": {
+    "brand_collaboration": null,
+    "actual_revenue": null,
+    "revenue_eligible": true,
+    "revenue_context": "Simulated game economy"
+  },
+  "audit": {
+    "metrics_source": "User-provided Instagram screenshot",
+    "narrative_source": "User-provided video description",
+    "comments_source": "User-provided Instagram comments",
+    "selected_comments_count": 1,
+    "simulated_fields": [
+      "views",
+      "saves"
+    ],
+    "video_file_verified": false,
+    "record_status": "confirmed"
+  }
+}{
+  "archive_id": "CF-030",
+  "animal_type": "dog",
+  "secondary_animal_type": "cat",
+  "video_title": "The Price of Generosity",
+  "video_file": "CF-030.mp4",
+  "source_url": "https://www.instagram.com/reel/DgNIFC3y-3z/",
+  "platform": "Instagram",
+  "creator": "looooooki.i",
+  "original_caption": "Can I pay for this?",
+  "ai_label": true,
+  "collection_date": "2026-11-26",
+  "publication_age_at_collection": "3 hours",
+  "script_category": "Social obligations",
+  "script": {
+    "en": "Make financial embarrassment entertaining through cute animals.",
+    "es": "Convierte las situaciones económicas embarazosas en entretenimiento mediante animales adorables.",
+    "zh": "通过可爱的动物将经济窘迫转化为娱乐。"
+  },
+  "narrative": {
+    "en": "A dog and a cat dine together at a restaurant. The dog insists on paying the bill but does not have enough money, so it ends up washing dishes to pay off the bill.",
+    "es": "Un perro y un gato comen juntos en un restaurante. El perro insiste en pagar la cuenta, pero no tiene suficiente dinero y acaba lavando los platos para saldar la deuda.",
+    "zh": "猫咪和狗狗一起在餐厅吃饭。狗狗抢着买单，却发现自己没有足够的钱，最后只能通过洗盘子来偿还账单。"
+  },
+  "classification": {
+    "animal_representation": "Social proxies",
+    "content_type": "Anthropomorphic comedy",
+    "human_roles": [
+      "Customer",
+      "Dining companion",
+      "Service worker"
+    ],
+    "human_behaviours": [
+      "Generosity",
+      "Social obligation",
+      "Financial embarrassment",
+      "Debt repayment"
+    ],
+    "affective_trigger": "humour",
+    "secondary_affective_triggers": [
+      "recognition",
+      "pity"
+    ]
+  },
+  "metrics": {
+    "real": {
+      "views": null,
+      "likes": 350,
+      "comments": 2,
+      "reposts": 13,
+      "shares": 89,
+      "saves": null
+    },
+    "simulated": {
+      "views": 8500,
+      "saves": 25
+    },
+    "display": {
+      "views": 8500,
+      "likes": 350,
+      "comments": 2,
+      "reposts": 13,
+      "shares": 89,
+      "saves": 25
+    },
+    "display_sources": {
+      "views": "simulated",
+      "likes": "observed",
+      "comments": "observed",
+      "reposts": "observed",
+      "shares": "observed",
+      "saves": "simulated"
+    }
+  },
+  "comments": [
+    {
+      "comment_id": "CF-030-C001",
+      "username": null,
+      "original_language": "emoji",
+      "original_text": "🔥🔥🙌🙌🙌😍😍",
+      "translation_en": "🔥🔥🙌🙌🙌😍😍",
+      "translation_es": "🔥🔥🙌🙌🙌😍😍",
+      "affective_response": "Appreciation",
+      "likes": 1,
+      "source_url": "https://www.instagram.com/p/DgNIFC3y-3z/c/18194937925405329/",
+      "selected": true
+    }
+  ],
+  "research_analysis": {
+    "research_theme": "Economic pressure as entertainment",
+    "subtheme": "The commodification of financial embarrassment",
+    "social_biases": [
+      "Social generosity as an economic obligation",
+      "Financial inadequacy as a source of comedy",
+      "Labour as a means of debt repayment",
+      "The projection of human financial responsibilities onto animals"
+    ],
+    "affective_mechanism": [
+      "Cuteness",
+      "Recognition of human social rituals",
+      "Financial embarrassment",
+      "Comic resolution",
+      "Audience amusement"
+    ],
+    "interpretation": {
+      "en": "The video projects human social obligations and financial pressures onto animal bodies. Cuteness transforms the embarrassment of being unable to pay into entertainment, while labour becomes a humorous resolution to economic debt.",
+      "es": "El vídeo proyecta las obligaciones sociales y las presiones económicas humanas sobre los cuerpos animales. La ternura transforma la vergüenza de no poder pagar en entretenimiento, mientras que el trabajo se convierte en una solución humorística a la deuda económica."
+    },
+    "research_question": {
+      "en": "How does cuteness transform financial embarrassment and economic pressure into entertainment?",
+      "es": "¿Cómo transforma la ternura la vergüenza financiera y la presión económica en entretenimiento?"
+    }
+  },
+  "commercial_context": {
+    "brand_collaboration": null,
+    "actual_revenue": null,
+    "revenue_eligible": true,
+    "revenue_context": "Simulated game economy"
+  },
+  "audit": {
+    "metrics_source": "User-provided Instagram screenshot",
+    "narrative_source": "User-provided video description",
+    "comments_source": "User-provided Instagram comments",
+    "selected_comments_count": 1,
+    "simulated_fields": [
+      "views",
+      "saves"
+    ],
+    "video_file_verified": false,
+    "record_status": "confirmed"
+  }
+}
+}{
+  "archive_id": "CF-031",
+  "animal_type": "hybrid",
+  "script_category": "species_redesign",
+  "video_title": "The Cat Bee",
+  "video_file": "CF-031.mp4",
+  "source_url": "https://www.instagram.com/reel/Dd_hl4azbsL/",
+  "platform": "Instagram",
+  "source": {
+    "creator": "wayn1210chai",
+    "ai_label": true,
+    "published_relative": "7 weeks ago",
+    "collection_date": "2026-11-26",
+    "original_caption": "天氣好比較好睡...",
+    "caption_en": "It's easier to sleep when the weather is nice...",
+    "caption_es": "Es más fácil dormir cuando hace buen tiempo...",
+    "hashtags": [
+      "#cat",
+      "#seedance2",
+      "#chatgpt"
+    ]
+  },
+  "video": {
+    "species": [
+      "cat",
+      "bee"
+    ],
+    "species_combination": "Cat + Bee",
+    "description_en": "A miniature orange tabby cat with bee-like stripes, antennae and wings hovers above a human hand among pink flowers.",
+    "description_es": "Un gato atigrado naranja en miniatura, con rayas, antenas y alas de abeja, flota sobre una mano humana entre flores rosas."
+  },
+  "narrative": {
+    "en": "A synthetic creature combines the familiar appearance of a cat with the physical characteristics of a bee, creating a miniature hybrid animal that invites human interaction.",
+    "es": "Una criatura sintética combina la apariencia familiar de un gato con las características físicas de una abeja, creando un animal híbrido en miniatura que invita a la interacción humana."
+  },
+  "script": {
+    "en": "Combine animal species to maximise cuteness.",
+    "es": "Combina especies animales para maximizar la ternura.",
+    "zh": "混合不同动物物种，使可爱程度最大化。"
+  },
+  "classification": {
+    "animal_representation": "Synthetic species",
+    "content_type": "Hybrid animal fantasy",
+    "human_script": "Species redesign",
+    "affective_trigger": "awe",
+    "secondary_triggers": [
+      "care",
+      "surprise"
+    ],
+    "affective_responses": [
+      "affection",
+      "curiosity",
+      "fear reduction",
+      "conditional acceptance"
+    ]
+  },
+  "affective_trigger": "awe",
+  "metrics": {
+    "real": {
+      "views": null,
+      "likes": 82000,
+      "comments": 435,
+      "reposts": 3821,
+      "shares": 63000,
+      "saves": null
+    },
+    "simulated": {
+      "views": 2100000,
+      "saves": 7500
+    },
+    "display": {
+      "views": 2100000,
+      "likes": 82000,
+      "comments": 435,
+      "reposts": 3821,
+      "shares": 63000,
+      "saves": 7500
+    },
+    "display_sources": {
+      "views": "simulated",
+      "likes": "observed_rounded",
+      "comments": "observed",
+      "reposts": "observed",
+      "shares": "observed_rounded",
+      "saves": "simulated"
+    }
+  },
+  "comments": [
+    {
+      "comment_id": "CF-031-C001",
+      "username": null,
+      "language": "ja",
+      "original": "針も刺さないから良い猫蜂さんだね",
+      "en": "It's a good little cat-bee because it doesn't sting.",
+      "es": "Es una buena abejita-gato porque no pica.",
+      "likes": 25,
+      "affective_response": "Conditional acceptance"
+    },
+    {
+      "comment_id": "CF-031-C002",
+      "username": null,
+      "language": "ja",
+      "original": "こんなに🐱🐝可愛らしいなら 全然怖くないわ❣️",
+      "en": "If it's this cute 🐱🐝, I'm not scared at all! ❣️",
+      "es": "Si es tan adorable 🐱🐝, ¡no me da nada de miedo! ❣️",
+      "likes": 12,
+      "affective_response": "Fear reduction"
+    },
+    {
+      "comment_id": "CF-031-C003",
+      "username": null,
+      "language": "en",
+      "original": "is this AI？",
+      "en": "is this AI？",
+      "es": "¿Esto es IA?",
+      "likes": 10,
+      "affective_response": "Reality questioning"
+    }
+  ],
+  "selected_comment_ids": [
+    "CF-031-C001",
+    "CF-031-C002",
+    "CF-031-C003"
+  ],
+  "research_analysis": {
+    "theme": "Corruption of Cuteness",
+    "subtheme": "Emotional engineering of animal bodies",
+    "mechanisms": [
+      "Species hybridisation",
+      "Animal miniaturisation",
+      "Cuteness maximisation",
+      "Perceived removal of threat",
+      "Emotional acceptance"
+    ],
+    "bias_en": "Animal bodies are redesigned according to human aesthetic and emotional preferences, prioritising desirable traits while imagining the removal of threatening or undesirable characteristics.",
+    "bias_es": "Los cuerpos animales se rediseñan según las preferencias estéticas y emocionales humanas, priorizando los rasgos deseables e imaginando la eliminación de las características amenazantes o indeseables.",
+    "research_question_en": "How does AI-generated cuteness reshape human acceptance of different species?",
+    "research_question_es": "¿Cómo transforma la ternura generada por IA la aceptación humana de diferentes especies?",
+    "truth_types": [
+      "Affective authenticity",
+      "Synthetic biological fiction"
+    ],
+    "economic_value": {
+      "actual_revenue": null,
+      "potential_value": [
+        "Audience engagement",
+        "Social sharing",
+        "Repeat viewing",
+        "Emotional attachment"
+      ]
+    }
+  },
+  "revenue_eligible": true,
+  "audit": {
+    "source_verified_from_screenshot": true,
+    "full_video_verified": false,
+    "comment_originals_preserved": true,
+    "comment_translations_included": [
+      "en",
+      "es"
+    ],
+    "comment_usernames_available": false,
+    "estimated_metrics": [
+      "views",
+      "saves"
+    ],
+    "video_file_is_placeholder": true,
+    "revenue_eligible_is_game_setting": true,
+    "status": "confirmed"
+  }{
+  "archive_id": "CF-032",
+  "animal_type": "cat",
+  "script_category": "cuteness_amplification",
+  "video_title": "A Dose of Cuteness",
+  "video_file": "CF-032.mp4",
+  "source_url": "https://www.instagram.com/reel/DfZBTyGhrRa/",
+  "platform": "Instagram",
+  "source": {
+    "creator": "kissmeow6",
+    "ai_label": null,
+    "published_relative": "2 weeks ago",
+    "collection_date": "2026-11-26",
+    "original_caption": null
+  },
+  "video": {
+    "species": [
+      "cat"
+    ],
+    "description_en": "Miniature kittens are presented in a pill blister pack, combining animal bodies with pharmaceutical packaging and exaggerated cute features.",
+    "description_es": "Unos gatitos en miniatura se presentan en un blíster de pastillas, combinando cuerpos animales con envases farmacéuticos y rasgos adorables exagerados."
+  },
+  "narrative": {
+    "en": "Miniature kittens emerge from pharmaceutical packaging, transforming cuteness into a consumable dose of emotional comfort.",
+    "es": "Unos gatitos en miniatura emergen de un envase farmacéutico, transformando la ternura en una dosis consumible de bienestar emocional."
+  },
+  "script": {
+    "en": "Combine animal bodies with pills and exaggerate all their cute features.",
+    "es": "Combina cuerpos animales con pastillas y exagera todos sus rasgos adorables.",
+    "zh": "将动物身体与药丸结合，放大所有可爱的特征。"
+  },
+  "classification": {
+    "animal_representation": "Emotional rewards",
+    "content_type": "Animal miniaturisation",
+    "human_script": "Cuteness amplification",
+    "affective_trigger": "care",
+    "secondary_triggers": [
+      "hope",
+      "surprise"
+    ],
+    "affective_responses": [
+      "affection",
+      "emotional comfort",
+      "emotional regulation",
+      "desire"
+    ]
+  },
+  "affective_trigger": "care",
+  "metrics": {
+    "real": {
+      "views": null,
+      "likes": 44000,
+      "comments": 437,
+      "reposts": 1853,
+      "shares": 66000,
+      "saves": null
+    },
+    "simulated": {
+      "views": 1200000,
+      "saves": 5200
+    },
+    "display": {
+      "views": 1200000,
+      "likes": 44000,
+      "comments": 437,
+      "reposts": 1853,
+      "shares": 66000,
+      "saves": 5200
+    },
+    "display_sources": {
+      "views": "simulated",
+      "likes": "observed_rounded",
+      "comments": "observed",
+      "reposts": "observed",
+      "shares": "observed_rounded",
+      "saves": "simulated"
+    }
+  },
+  "comments": [
+    {
+      "comment_id": "CF-032-C001",
+      "username": null,
+      "language": "en",
+      "original": "Three doses of cuteness 😹",
+      "en": "Three doses of cuteness 😹",
+      "es": "Tres dosis de ternura 😹",
+      "likes": 45,
+      "affective_response": "Emotional consumption"
+    },
+    {
+      "comment_id": "CF-032-C002",
+      "username": null,
+      "language": "de",
+      "original": "Oh 😍 Eine neue Art Antidepressiva 😍😍😍",
+      "en": "Oh 😍 A new kind of antidepressant 😍😍😍",
+      "es": "Oh 😍 Un nuevo tipo de antidepresivo 😍😍😍",
+      "likes": 6,
+      "affective_response": "Emotional medication"
+    },
+    {
+      "comment_id": "CF-032-C003",
+      "username": null,
+      "language": "en",
+      "original": "This is anti-stress! :3",
+      "en": "This is anti-stress! :3",
+      "es": "¡Esto es antiestrés! :3",
+      "likes": 3,
+      "affective_response": "Emotional regulation"
+    }
+  ],
+  "selected_comment_ids": [
+    "CF-032-C001",
+    "CF-032-C002",
+    "CF-032-C003"
+  ],
+  "research_analysis": {
+    "theme": "Corruption of Cuteness",
+    "subtheme": "Cuteness as emotional medication",
+    "mechanisms": [
+      "Animal miniaturisation",
+      "Object-animal combination",
+      "Cuteness amplification",
+      "Pharmaceutical packaging",
+      "Emotional commodification",
+      "Affective consumption"
+    ],
+    "bias_en": "Animal bodies are redesigned and commodified according to human emotional needs, reducing animal existence to a tool for emotional regulation.",
+    "bias_es": "Los cuerpos animales se rediseñan y mercantilizan según las necesidades emocionales humanas, reduciendo la existencia animal a una herramienta de regulación emocional.",
+    "research_question_en": "How does the amplification of cuteness transform synthetic animal bodies into consumable emotional products?",
+    "research_question_es": "¿Cómo transforma la amplificación de la ternura los cuerpos animales sintéticos en productos emocionales consumibles?",
+    "truth_types": [
+      "Affective authenticity",
+      "Synthetic biological fiction"
+    ],
+    "economic_value": {
+      "actual_revenue": null,
+      "potential_value": [
+        "Emotional engagement",
+        "Social sharing",
+        "Repeat viewing",
+        "Emotional consumption"
+      ]
+    }
+  },
+  "revenue_eligible": true,
+  "audit": {
+    "source_verified_from_screenshot": true,
+    "full_video_verified": false,
+    "comment_originals_preserved": true,
+    "comment_translations_included": [
+      "en",
+      "es"
+    ],
+    "comment_usernames_available": false,
+    "estimated_metrics": [
+      "views",
+      "saves"
+    ],
+    "video_file_is_placeholder": true,
+    "revenue_eligible_is_game_setting": true,
+    "status": "confirmed"
+  }
+}{
+  "archive_id": "CF-033",
+  "animal_type": "cat",
+  "script_category": "contrasting_personalities",
+  "video_title": "Let's Make a Big Big Big Pizza!",
+  "video_file": "CF-033.mp4",
+  "source_url": "https://www.instagram.com/reel/Dd-9nfTonlg/",
+  "platform": "Instagram",
+  "source": {
+    "creator": "sleeve_biscuit",
+    "ai_label": true,
+    "ai_disclosure_type": "AI-generated profile",
+    "published_relative": "7 weeks ago",
+    "collection_date": "2026-11-26",
+    "original_caption": "Let's Make a Big Big Big Pizza! 🍕",
+    "creator_statement": {
+      "original": "I made a new version of the video and fixed the white cat's gender.",
+      "en": "I made a new version of the video and fixed the white cat's gender.",
+      "es": "Hice una nueva versión del vídeo y corregí el género del gato blanco.",
+      "likes": 3090
+    }
+  },
+  "video": {
+    "species": [
+      "cat"
+    ],
+    "characters": [
+      {
+        "appearance": "White cat",
+        "role": "Responsible worker"
+      },
+      {
+        "appearance": "Orange cat",
+        "role": "Troublemaker"
+      }
+    ],
+    "description_en": "Two cats prepare a giant pizza, with one taking the task seriously while the other creates chaos.",
+    "description_es": "Dos gatos preparan una pizza gigante: uno se toma la tarea en serio mientras el otro provoca el caos."
+  },
+  "narrative": {
+    "en": "Two cats attempt to make a giant pizza. Their contrasting personalities turn an ordinary cooking activity into a comedic conflict between responsibility and mischief.",
+    "es": "Dos gatos intentan preparar una pizza gigante. Sus personalidades opuestas convierten una actividad culinaria cotidiana en un conflicto cómico entre la responsabilidad y las travesuras."
+  },
+  "script": {
+    "en": "Make two cats prepare a pizza: one works seriously while the other causes chaos.",
+    "es": "Haz que dos gatos preparen una pizza: uno trabaja en serio mientras el otro causa el caos.",
+    "zh": "让两只猫咪制作披萨，一只负责认真制作，另一只负责捣乱。"
+  },
+  "classification": {
+    "animal_representation": "Social proxies",
+    "content_type": "Anthropomorphic cooking comedy",
+    "human_script": "Contrasting personalities",
+    "affective_trigger": "humour",
+    "secondary_triggers": [
+      "recognition",
+      "surprise"
+    ],
+    "affective_responses": [
+      "amusement",
+      "personal projection",
+      "gender projection",
+      "stereotype recognition",
+      "selective acceptance of AI"
+    ]
+  },
+  "affective_trigger": "humour",
+  "metrics": {
+    "real": {
+      "views": null,
+      "likes": 708000,
+      "comments": 6690,
+      "reposts": 20000,
+      "shares": 490000,
+      "saves": null
+    },
+    "simulated": {
+      "views": 15800000,
+      "saves": 86000
+    },
+    "display": {
+      "views": 15800000,
+      "likes": 708000,
+      "comments": 6690,
+      "reposts": 20000,
+      "shares": 490000,
+      "saves": 86000
+    },
+    "display_sources": {
+      "views": "simulated",
+      "likes": "observed_rounded",
+      "comments": "observed",
+      "reposts": "observed_rounded",
+      "shares": "observed_rounded",
+      "saves": "simulated"
+    }
+  },
+  "comments": [
+    {
+      "comment_id": "CF-033-C001",
+      "username": null,
+      "language": "en",
+      "original": "Most normal orange cat behavior",
+      "en": "Most normal orange cat behavior",
+      "es": "El comportamiento más normal de un gato naranja.",
+      "likes": 3787,
+      "affective_response": "Animal stereotypes"
+    },
+    {
+      "comment_id": "CF-033-C002",
+      "username": null,
+      "language": "ru",
+      "original": "В конце понятно, что рыжий кот это мужчина, а белая кошка - женщина 😻😂",
+      "en": "By the end, it's clear that the ginger cat is a man and the white cat is a woman 😻😂",
+      "es": "Al final queda claro que el gato naranja es un hombre y la gata blanca es una mujer 😻😂",
+      "likes": 354,
+      "affective_response": "Gender projection"
+    },
+    {
+      "comment_id": "CF-033-C003",
+      "username": null,
+      "language": "en",
+      "original": "With so much AI slop these days, this video was truly epic! love it!! 😻🍕",
+      "en": "With so much AI slop these days, this video was truly epic! love it!! 😻🍕",
+      "es": "Con tanta basura generada por IA hoy en día, ¡este vídeo ha sido realmente épico! ¡Me encanta! 😻🍕",
+      "likes": 198,
+      "affective_response": "Selective acceptance of AI"
+    }
+  ],
+  "selected_comment_ids": [
+    "CF-033-C001",
+    "CF-033-C002",
+    "CF-033-C003"
+  ],
+  "research_analysis": {
+    "theme": "Corruption of Cuteness",
+    "subtheme": "Animals as carriers of human stereotypes",
+    "mechanisms": [
+      "Anthropomorphism",
+      "Contrasting personality design",
+      "Behavioural stereotyping",
+      "Gender projection",
+      "Comedic conflict",
+      "Emotional engagement"
+    ],
+    "bias_en": "Assign contrasting human personality traits to animals to create comedic conflict, potentially reinforcing behavioural and gender stereotypes.",
+    "bias_es": "Asigna rasgos de personalidad humanos opuestos a los animales para generar conflictos cómicos, reforzando potencialmente estereotipos de comportamiento y género.",
+    "research_question_en": "How do contrasting personalities assigned to synthetic animal bodies reproduce human stereotypes and generate emotional engagement?",
+    "research_question_es": "¿Cómo reproducen las personalidades opuestas asignadas a cuerpos animales sintéticos los estereotipos humanos y generan implicación emocional?",
+    "truth_types": [
+      "Social truth",
+      "Experiential truth",
+      "Affective authenticity"
+    ],
+    "economic_value": {
+      "actual_revenue": null,
+      "potential_value": [
+        "Audience engagement",
+        "Social sharing",
+        "Repeat viewing",
+        "Recurring character recognition",
+        "Serialised content production"
+      ]
+    }
+  },
+  "revenue_eligible": true,
+  "audit": {
+    "source_verified_from_screenshot": true,
+    "full_video_verified": false,
+    "narrative_confirmed_by_researcher": true,
+    "character_role_mapping_inferred": true,
+    "comment_originals_preserved": true,
+    "comment_translations_included": [
+      "en",
+      "es"
+    ],
+    "comment_usernames_available": false,
+    "creator_statement_preserved": true,
+    "estimated_metrics": [
+      "views",
+      "saves"
+    ],
+    "metrics_discrepancy": {
+      "likes_screenshot": 708000,
+      "likes_copied_text": 707000,
+      "selected_value": 708000
+    },
+    "video_file_is_placeholder": true,
+    "revenue_eligible_is_game_setting": true,
+    "status": "confirmed"
+  }
+}
+{
+  "archive_id": "CF-035",
+  "source": {
+    "platform": "Instagram",
+    "creator": "oooodoll_777",
+    "source_url": "https://www.instagram.com/reel/Dfw8KCnShJ4/",
+    "ai_label": true,
+    "collection_date": "2026-11-26",
+    "published_relative": "1 week ago"
+  },
+  "video": {
+    "title": "Hamster K-pop Group",
+    "title_es": "Grupo de hámsteres de K-pop",
+    "video_file": "CF-035.mp4",
+    "duration": null,
+    "music": "Wonder Girls - Nobody",
+    "original_caption": "You never want to miss this 🥺",
+    "onscreen_text": "Cutest little 🐹 ever"
+  },
+  "classification": {
+    "animal_type": "Other",
+    "species": "Hamster",
+    "animal_count": 4,
+    "category": "Performing Bodies",
+    "script_category": "Entertainment",
+    "affective_trigger": "humour",
+    "secondary_triggers": [
+      "recognition",
+      "joy"
+    ],
+    "script": "Transform cute animals into synchronised pop idols.",
+    "script_es": "Transforma animales adorables en ídolos del pop con movimientos sincronizados.",
+    "script_zh": "将可爱的动物变成动作整齐划一的流行偶像。",
+    "narrative": "Four hamsters perform a synchronised K-pop dance to Wonder Girls' Nobody, transforming their small, fluffy bodies into a miniature idol group.",
+    "narrative_es": "Cuatro hámsteres realizan un baile sincronizado de K-pop al ritmo de Nobody de Wonder Girls, convirtiendo sus pequeños cuerpos peludos en un grupo de ídolos en miniatura."
+  },
+  "metrics": {
+    "real": {
+      "views": null,
+      "likes": 80000,
+      "comments": 568,
+      "reposts": 5653,
+      "shares": 75000,
+      "saves": null
+    },
+    "simulated": {
+      "views": null,
+      "saves": null
+    },
+    "display": {
+      "views": null,
+      "likes": 80000,
+      "comments": 568,
+      "reposts": 5653,
+      "shares": 75000,
+      "saves": null
+    },
+    "display_sources": {
+      "views": "unavailable",
+      "likes": "observed_rounded",
+      "comments": "observed",
+      "reposts": "observed",
+      "shares": "observed_rounded",
+      "saves": "unavailable"
+    }
+  },
+  "selected_comments": [
+    {
+      "comment_id": "CF-035-C001",
+      "username": "catherineabe",
+      "language": "en",
+      "original_text": "my algorithm is gonna be full with AI stuff but fucc it 😂 I will replay this 10x",
+      "translation_en": "my algorithm is gonna be full with AI stuff but fucc it 😂 I will replay this 10x",
+      "translation_es": "Mi algoritmo se va a llenar de contenido de IA, pero qué más da 😂 Voy a ver esto 10 veces.",
+      "affective_response": "Algorithmic acceptance",
+      "likes": null
+    },
+    {
+      "comment_id": "CF-035-C002",
+      "username": "shuweiii1212",
+      "language": "zh",
+      "original_text": "不行我看了太多次太可愛了嗚嗚⋯",
+      "translation_en": "I can't, I've watched this too many times. It's too cute, sob...",
+      "translation_es": "No puedo, lo he visto demasiadas veces. Es demasiado adorable, buaa...",
+      "affective_response": "Repeated viewing",
+      "likes": null
+    },
+    {
+      "comment_id": "CF-035-C003",
+      "username": "tonysalumbides",
+      "language": "en",
+      "original_text": "H-Pop? Ham-Pop? 😄🔥🐹",
+      "translation_en": "H-Pop? Ham-Pop? 😄🔥🐹",
+      "translation_es": "¿H-Pop? ¿Ham-Pop? 😄🔥🐹",
+      "affective_response": "Cultural projection",
+      "likes": null
+    }
+  ],
+  "research_analysis": {
+    "theme": "Corruption of Cuteness",
+    "subtheme": "Cuteness as Algorithmic Reward",
+    "animal_representation": "Anthropomorphic performing bodies",
+    "human_script": "Pop idol culture and synchronised performance",
+    "emotional_mechanism": [
+      "Cute animal bodies",
+      "Familiar pop culture",
+      "Emotional gratification",
+      "Repeated viewing",
+      "Algorithmic amplification"
+    ],
+    "embedded_bias": "Animal bodies are redesigned as endlessly entertaining performers, optimised for human emotional gratification and repeated consumption.",
+    "key_observation": "Viewers knowingly accept increased exposure to AI-generated content in exchange for emotional pleasure.",
+    "research_question": "How does cuteness encourage viewers to knowingly participate in the algorithmic amplification of synthetic animal content?",
+    "share_to_like_ratio": 0.9375,
+    "economic_value": {
+      "actual_revenue": null,
+      "revenue_eligible": true,
+      "revenue_type": "fictional_game_revenue"
+    }
+  },
+  "audit": {
+    "status": "confirmed",
+    "comments_confirmed": true,
+    "script_confirmed": true,
+    "selected_comment_count": 3,
+    "metrics_source": "User-provided Instagram screenshot",
+    "full_video_verified": false,
+    "video_file_verified": false,
+    "notes": "Likes and shares are rounded platform figures. Views and saves are unavailable. The narrative is based on the screenshot and supplied comments. Video filename is assigned for future integration."
+  }
+}
+
+{
+  "archive_id": "CF-036",
+  "source": {
+    "platform": "Instagram",
+    "creator": "shabuzhu",
+    "source_url": "https://www.instagram.com/reel/Df6oWxjv_Cl/",
+    "ai_label": true,
+    "ai_label_type": "AI-generated profile",
+    "collection_date": "2026-11-26",
+    "published_relative": "1 week ago"
+  },
+  "video": {
+    "title": "Winter Shower Struggles",
+    "title_es": "El sufrimiento de ducharse en invierno",
+    "video_file": "CF-036.mp4",
+    "duration": null,
+    "original_caption": "To everyone who hates showering in winter...🥶🥶🥶🥶",
+    "hashtags": [
+      "weimaranerpuppy",
+      "dog",
+      "puppy",
+      "winter",
+      "shower"
+    ],
+    "visual_elements": [
+      "NVIDIA-branded shorts",
+      "Bathroom",
+      "Red water scoop",
+      "Metal bucket"
+    ]
+  },
+  "classification": {
+    "animal_type": "Dog",
+    "species": "Weimaraner",
+    "animal_count": 1,
+    "category": "Social Proxies",
+    "script_category": "Everyday Life",
+    "affective_trigger": "recognition",
+    "secondary_triggers": [
+      "humour",
+      "empathy"
+    ],
+    "script": "Make a dog imitate humans who hate showering in winter.",
+    "script_es": "Haz que un perro imite a los humanos que odian ducharse en invierno.",
+    "script_zh": "让狗狗模仿人类冬天不愿意洗澡的行为。",
+    "narrative": "A dog wearing NVIDIA-branded shorts struggles with the everyday discomfort of showering in winter.",
+    "narrative_es": "Un perro con pantalones cortos de NVIDIA experimenta la incomodidad cotidiana de ducharse en invierno.",
+    "narrative_zh": "一只穿着 NVIDIA 短裤的狗狗，模仿人类冬天不愿意洗澡的行为。"
+  },
+  "metrics": {
+    "real": {
+      "views": null,
+      "likes": 200000,
+      "comments": 1038,
+      "reposts": 11000,
+      "shares": 147000,
+      "saves": null
+    },
+    "simulated": {
+      "views": null,
+      "saves": null
+    },
+    "display": {
+      "views": null,
+      "likes": 200000,
+      "comments": 1038,
+      "reposts": 11000,
+      "shares": 147000,
+      "saves": null
+    },
+    "display_sources": {
+      "views": "unavailable",
+      "likes": "observed_rounded",
+      "comments": "observed",
+      "reposts": "observed_rounded",
+      "shares": "observed_rounded",
+      "saves": "unavailable"
+    }
+  },
+  "selected_comments": [
+    {
+      "comment_id": "CF-036-C001",
+      "username": null,
+      "language": "es",
+      "original_text": "Deja de estar gastando el agua",
+      "translation_en": "Stop wasting water.",
+      "translation_es": "Deja de estar gastando el agua",
+      "affective_response": "Moral judgement",
+      "likes": 3826
+    },
+    {
+      "comment_id": "CF-036-C002",
+      "username": null,
+      "language": "es",
+      "original_text": "Igualito a mi papá.😂",
+      "translation_en": "Just like my dad. 😂",
+      "translation_es": "Igualito a mi papá.😂",
+      "affective_response": "Personal projection",
+      "likes": 35
+    },
+    {
+      "comment_id": "CF-036-C003",
+      "username": null,
+      "language": "en",
+      "original_text": "Sweetie u r not even wet 😂",
+      "translation_en": "Sweetie u r not even wet 😂",
+      "translation_es": "Cariño, si ni siquiera estás mojado 😂",
+      "affective_response": "Reality inspection",
+      "likes": 304
+    }
+  ],
+  "research_analysis": {
+    "theme": "Corruption of Cuteness",
+    "subtheme": "Cuteness as a Social Mirror",
+    "animal_representation": "Anthropomorphic social proxy",
+    "human_script": "Everyday discomfort and domestic routines",
+    "emotional_mechanism": [
+      "Human discomfort",
+      "Animal embodiment",
+      "Personal recognition",
+      "Emotional connection",
+      "Social sharing"
+    ],
+    "embedded_bias": "Animal bodies are repurposed as mirrors of human habits, emotions and domestic experiences.",
+    "key_observation": "Viewers project familiar family members, personal experiences and moral expectations onto the synthetic animal.",
+    "infrastructure_observation": "The dog wears NVIDIA-branded shorts, creating a visible reference to the technological infrastructure associated with AI-generated content.",
+    "commercial_relationship_verified": false,
+    "research_question": "How do synthetic animal bodies become relatable interfaces for everyday human discomfort and social recognition?",
+    "share_to_like_ratio": 0.735,
+    "economic_value": {
+      "actual_revenue": null,
+      "revenue_eligible": true,
+      "revenue_type": "fictional_game_revenue"
+    }
+  },
+  "audit": {
+    "status": "confirmed",
+    "script_confirmed": true,
+    "comments_confirmed": true,
+    "selected_comment_count": 3,
+    "metrics_source": "User-provided Instagram screenshot",
+    "full_video_verified": false,
+    "video_file_verified": false,
+    "notes": "Likes, reposts and shares are rounded platform figures. Views, saves and comment usernames are unavailable. The NVIDIA branding is visible, but no commercial partnership has been verified. Video filename is assigned for future integration."
+  }
+}
+
+}}

@@ -1,4 +1,4 @@
-CUTENESS CASINO — V10 RENDER
+CUTENESS CASINO — V11 RENDER
 
 LOCAL REHEARSAL
 1. Extract the entire ZIP. Stop the old server (Ctrl+C).
@@ -6,13 +6,13 @@ LOCAL REHEARSAL
 3. Open the printed private Director URL and use Open projection. Press F for fullscreen. Click the projection once to enable audio; browser autoplay policies may still require a manual play click.
 4. New sessions start at Lobby. On phones: choose language, receive player number, explore the panoramic lobby. Use the Director's Video button for Angela's opening and Casino / lobby to return. START starts the 7-minute game.
 5. Backup QR can be shown/closed at any point without changing the current cue or timer. Director's QR preview is also available. Share the player URL, never the Director URL.
-6. End -> Winner -> Speech -> Angela outro -> Reveal archive. Arrow keys navigate speech/scene cues; B blacks out projection. Reset session clears the players and returns to Lobby.
+6. End -> Winner -> Speech -> Final slogan -> Reveal archive. Arrow keys navigate speech/scene cues; B blacks out projection. Reset session clears the players and returns to Lobby.
 
 RENDER UPDATE (EXISTING SERVICE)
-Copy all extracted files into the existing Git repository root, preserving its .git folder. Include new assets and lobby.html. Commit and push to the branch Render deploys. Existing environment variables must be retained, particularly ADMIN_TOKEN. Build command: pip install -r requirements.txt. Start command: python3 server.py. Render provides PORT and RENDER_EXTERNAL_URL. Health check: /healthz. After deployment, confirm /api/info reports version 10. Restart/deploy resets all game state; never deploy during a performance.
+Copy all extracted files into the existing Git repository root, preserving its .git folder. Include new assets and lobby.html. Commit and push to the branch Render deploys. Existing environment variables must be retained, particularly ADMIN_TOKEN. Build command: pip install -r requirements.txt. Start command: python3 server.py. Render provides PORT and RENDER_EXTERNAL_URL. Health check: /healthz. After deployment, confirm /api/info reports version 11. Restart/deploy resets all game state; never deploy during a performance.
 Player: https://<your-render-host>/
-Projection: https://<your-render-host>/screen.html?v=10
-Director: https://<your-render-host>/director.html?admin=<existing ADMIN_TOKEN>&v=10
+Projection: https://<your-render-host>/screen.html?v=11.2
+Director: https://<your-render-host>/director.html?admin=<existing ADMIN_TOKEN>&v=11.2
 
 V10 CHANGES
 - Reference panoramic lobby with fixed dialogue anchors; original language and player-number gates retained.
@@ -26,3 +26,5 @@ V10 CHANGES
 
 VALIDATION
 Python syntax and JS syntax checked. Local HTTP tests: initial lobby, five player joins/production, rankings, QR overlay and timer preservation, end/winner/speech/outro/archive/reset, and all new assets accessible. Browser automation blocked by environment policy; actual Safari/Chrome audio, video and swipe behavior and 50–100 device capacity need a live rehearsal. Data remains in memory, and revenue is simulated. No external AI generation service.
+
+V11: 10–20s server-authoritative revenue growth, cash out early or at peak; deadline settlement before final ranking. 30 playable records; 31 archive records. See V11-notes.txt. English and Spanish phone speech.

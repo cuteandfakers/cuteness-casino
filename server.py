@@ -1,9 +1,9 @@
 from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
 from pathlib import Path
 import json,time,threading,secrets,os,socket,urllib.parse,math,struct,zlib,sys,subprocess,re
-import qrcode
+import qrcode,random
 os.chdir(Path(__file__).resolve().parent)
-D={d['id']:d for d in json.load(open('game-data.json'))}; L=json.load(open('speech.json')); lock=threading.RLock(); admin=os.environ.get("ADMIN_TOKEN") or secrets.token_urlsafe(18); players={}; phase='lobby'; cue='lobby'; endAt=0; line=0; session=secrets.token_hex(6); video='assets/angela.mp4'; backup_qr=False; join_override=''; outro='assets/angela-outro.mp4'; audio=dict(volume=40,muted=False,paused=False,restart=0)
+D={d['id']:d for d in json.load(open('game-data.json'))}; L=json.load(open('speech.json')); lock=threading.RLock(); admin=os.environ.get("ADMIN_TOKEN") or secrets.token_urlsafe(18); players={}; phase='lobby'; cue='lobby'; endAt=0; line=0; session=secrets.token_hex(6); video='assets/angela.mp4'; backup_qr=False; join_override=''; outro=''; audio=dict(volume=40,muted=False,paused=False,restart=0)
 PORT=int(os.environ.get('PORT') or os.environ.get('CC_PORT') or (sys.argv[1] if len(sys.argv)>1 else 8000))
 PUBLIC_URL=(os.environ.get('RENDER_EXTERNAL_URL') or os.environ.get('PUBLIC_URL') or '').rstrip('/')
 if os.environ.get('RENDER') and not os.environ.get('ADMIN_TOKEN'):raise RuntimeError('Set ADMIN_TOKEN in Render Environment Variables')
@@ -25,15 +25,27 @@ def player_url():
 def now():return int(time.time()*1000)
 def finish():
  global phase,cue,endAt
- if phase=='running':phase='finished';cue='end';endAt=min(endAt,now())
+ if phase=='running':
+  endAt=min(endAt,now())
+  for p in players.values():settle(p,endAt)
+  phase='finished';cue='end'
+def growth(h,t):
+ return max(0,min(1,(t-h['startedAt'])/h['duration'])) if h.get('startedAt') else 0
+def settle(p,t):
+ h=next((x for x in p['history'] if x.get('pending')),None)
+ if not h:return
+ h['money']=round(h['maximum']*growth(h,t),2);h['pending']=False
+ p['gross']=round(p['gross']+h['money'],2);p['netProfit']=round(p['gross']-p['spent'],2)
+ p['ledger'].insert(0,dict(time=elapsed(),label=D[h['id']]['title'],amount=h['money']))
 def rows():return sorted(players.values(),key=lambda p:(-p['netProfit'],p['playerId']))
 def state():
  if phase=='running' and now()>=endAt:finish()
  r=rows(); top={}
  for p in r:
   for h in p['history']:
+   if h.get('pending'):continue
    if h['id'] not in top or h['money']>top[h['id']]['money']:top[h['id']]={**h,'playerId':p['playerId']}
- return dict(version='10',playerUrl=player_url(),phase=phase,cue=cue,backupQR=backup_qr,endAt=endAt,now=now(),line=line,session=session,video=video,outro=outro,audio=audio.copy(),rows=[{k:v for k,v in p.items() if k not in ('requests','ledger')} for p in r],trending=sorted(top.values(),key=lambda h:-h['money']))
+ return dict(version='11.3',playerUrl=player_url(),phase=phase,cue=cue,backupQR=backup_qr,endAt=endAt,now=now(),line=line,session=session,video=video,outro=outro,audio=audio.copy(),rows=[{k:v for k,v in p.items() if k not in ('requests','ledger')} for p in r],trending=sorted(top.values(),key=lambda h:-h['money']))
 def public(p):return {k:v for k,v in p.items() if k!='requests'}
 def elapsed():
  t=max(0,min(420,420-math.ceil((endAt-now())/1000)));return f'{t//60}:{t%60:02}'
@@ -77,7 +89,7 @@ class Handler(SimpleHTTPRequestHandler):
   if u.path=='/healthz':
    self.reply({'ok':True})
   elif u.path=='/api/info':
-   self.reply({'playerUrl':player_url(),'version':'10'})
+   self.reply({'playerUrl':player_url(),'version':'11.3'})
   elif u.path=='/api/state':
    with lock:
     s=state();k=urllib.parse.parse_qs(u.query).get('key',[''])[0];payload=dict(state=s,player=public(players[k]) if k in players else None)
@@ -108,7 +120,7 @@ class Handler(SimpleHTTPRequestHandler):
      cmd=b.get('cmd');
      if cmd=='reset':players.clear();phase='lobby';cue='lobby';endAt=0;line=0;backup_qr=False;session=secrets.token_hex(6);audio.update(paused=False,muted=False,restart=audio['restart']+1)
      elif cmd=='backup_qr':backup_qr=bool(b.get('show'))
-     elif cmd=='outro':outro=str(b.get('video',''))
+     elif cmd=='outro':raise ValueError('Final slogan replaces outro video')
      elif cmd=='audio':
       if 'volume' in b:audio['volume']=max(0,min(100,int(b['volume'])))
       if 'muted' in b:audio['muted']=bool(b['muted'])
@@ -145,10 +157,16 @@ class Handler(SimpleHTTPRequestHandler):
     if not req:raise ValueError('Missing request ID')
     if req in p['requests']:self.reply(dict(player=public(p),state=state()));return
     if a=='produce':
+     if any(h.get('pending') for h in p['history']):raise ValueError('Cash out first')
      id=b.get('id');m=b.get('model');d=D.get(id);seen={h['id'] for h in p['history']}
      if not d or m not in (10,20,30) or p['tokens']<m or (len(seen)<len(D) and id in seen):raise ValueError('Invalid recipe or insufficient tokens')
-     base=math.floor(d['metrics']['views']/1000*{'TikTok':.03,'Instagram':.01,'Xiaohongshu':0}.get(d['platform'],0)+.5);money=math.floor(base*{10:1,20:1.05,30:1.08}[m]+.5);prev=rows().index(p)+1;p['tokens']-=m;p['used']+=m;p['gross']+=money;p['history'].insert(0,dict(id=id,model=m,money=money,previousRank=prev));p['ledger'].insert(0,dict(time=elapsed(),label=d['title'],amount=money))
+     base=math.floor(d['metrics']['views']/1000*{'TikTok':.03,'Instagram':.01,'Xiaohongshu':0}.get(d['platform'],0)+.5);money=math.floor(base*{10:1,20:1.05,30:1.08}[m]+.5);prev=rows().index(p)+1;p['tokens']-=m;p['used']+=m;p['history'].insert(0,dict(id=id,model=m,money=0,maximum=money,previousRank=prev,pending=True,productionAt=now(),startedAt=0,duration=10000))
+    elif a=='growthStart':
+     h=next((x for x in p['history'] if x.get('pending')),None)
+     if h and not h.get('startedAt'):h['startedAt']=now()
+    elif a=='cashout':settle(p,now())
     elif a=='topup':
+     if any(h.get('pending') for h in p['history']):raise ValueError('Cash out first')
      fee=math.floor(p['netProfit']*30+.5)/100;p['spent']=round(p['spent']+fee,2);p['tokens']+=100;p['purchases']+=1;p['ledger'].insert(0,dict(time=elapsed(),label='Buy 100 tokens',amount=-fee))
     else:raise ValueError('Unknown action')
     p['netProfit']=round(p['gross']-p['spent'],2);p['requests'].add(req);self.reply(dict(player=public(p),state=state()))
@@ -157,7 +175,7 @@ if __name__=='__main__':
  try:httpd=ThreadingHTTPServer(('0.0.0.0',PORT),Handler)
  except OSError as e:
   print(f'Cannot bind port {PORT}: {e}. Stop the previous server (Ctrl+C) or run python3 server.py 8001.',flush=True);sys.exit(1)
- if PUBLIC_URL:print(f'CUTENESS CASINO V10 — READY\nPlayer URL: {player_url()}\nDirector: {PUBLIC_URL}/director.html?admin=<ADMIN_TOKEN>\nProjection: {PUBLIC_URL}/screen.html?v=10',flush=True)
- else:print(f'CUTENESS CASINO V10 — READY\nPlayer URL: {player_url()}\nDirector: http://localhost:{PORT}/director.html?admin={admin}&v=10\nProjection: http://localhost:{PORT}/screen.html?v=10',flush=True)
+ if PUBLIC_URL:print(f'CUTENESS CASINO V11.3 — VIRAL GROWTH — READY\nPlayer URL: {player_url()}\nDirector: {PUBLIC_URL}/director.html?admin=<ADMIN_TOKEN>\nProjection: {PUBLIC_URL}/screen.html?v=11.3',flush=True)
+ else:print(f'CUTENESS CASINO V11.3 — VIRAL GROWTH — READY\nPlayer URL: {player_url()}\nDirector: http://localhost:{PORT}/director.html?admin={admin}&v=11.3\nProjection: http://localhost:{PORT}/screen.html?v=11.3',flush=True)
  if LAN_IP=='127.0.0.1':print('WARNING: no LAN address found. Connect Wi-Fi and restart, or set Player URL in Director.',flush=True)
  httpd.serve_forever()
